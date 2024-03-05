@@ -2,12 +2,13 @@
 
 Hi and welcome to the WISDOM System :)
 
-**W**eighted
-**I**nformation 
-**S**ystem for 
-**D**istributed 
-**O**nline 
-**M**anagement (WISDOM)
+WISDOM stands for 
+_**W**_eighted
+_**I**_nformation 
+_**S**_ystem for 
+_**D**_istributed 
+_**O**_nline 
+_**M**_anagement (or something like that... It's more the acronym that counts!)
 
 We are a community of developers and open scientists who are lovingly building a framework to help communities self-organise and celebrate contributions, so that we can empower generous contributors and accelerate the transition to a gift-based economy that respects all forms of life on this planet. 
 
