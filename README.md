@@ -3,7 +3,7 @@
 Hi and welcome to the WISDOM System :)
 
 WISDOM stands for 
-_**W**_eighted
+_**W**_ eighted
 _**I**_nformation 
 _**S**_ystem for 
 _**D**_istributed 
