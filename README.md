@@ -34,5 +34,4 @@ We are developing rigorous, evidence-based methods for determining the relative 
 6. A bespoke app ([WisdOHM](https://github.com/openheartmind/wisdohm)) that we are currently developing to review contributions to OHM and beyond.  
 
 ### Documentation
-See [here](grant-proposals
-/ACX-2023.md) for a recent grant application. 
+See [here](grant-proposals/ACX-2023.md) for a recent grant application. 
