@@ -31,7 +31,8 @@ We are developing rigorous, evidence-based methods for determining the relative 
 3. A survey prior to Tiny OHM, in which the crowd collectively selected their favourite headline acts (WisdOHM v2)
 4. A survey after Tiny OHM, which produced our first complete dataset and proof of concept (WisdOHM v2.1)
 5. A radically transparent application and review process that the OHM community used to collectively decide which offerings were scheduled for OHM Gathering.
-6. A bespoke app (WisdOHM) that we are actively developing to review contributions to OHM and beyond.  
+6. A bespoke app ([WisdOHM](https://github.com/openheartmind/wisdohm)) that we are currently developing to review contributions to OHM and beyond.  
 
 ### Documentation
-See here for a recent grant application. 
+See [here](grant-proposals
+/ACX-2023.md) for a recent grant application. 
