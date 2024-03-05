@@ -36,3 +36,6 @@ We are developing rigorous, evidence-based methods for determining the relative 
 
 ### Documentation
 See [here](grant-proposals/ACX-2023.md) for a recent grant application. 
+
+### History
+WISDOM was founded at the beginning of 2022 under the [OHM project](https://github.com/openheartmind). Our first two years of documentation and development were recorded in our transparent workspace in Clickup (contact for access). In March 2024 we moved to Github and Github Projects.
