@@ -2,7 +2,7 @@
 
 Hi and welcome to the WISDOM System :)
 
-**W**eighted 
+**W**eighted /
 **I**nformation 
 **S**ystem for 
 **D**istributed 
