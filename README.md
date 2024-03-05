@@ -14,12 +14,12 @@ We are a community of developers and open scientists who are lovingly building a
 WISDOM is a project of the [Open Heart + Mind (OHM) Community](https://github.com/openheartmind), where we're hosting [gift-based gatherings](https://github.com/openheartmind/OHM-Gathering/) and reviewing contributions as a safe space to explore and refine the WISDOM model.
 
 WISDOM is based on Open Science principles:
-- **Transparency**. All contributions and reviews are listed publicly, so you know what's going on.
-- **Replicability**. Open source and forkable, so you can stand on the shoulders of giants.
-- **Accessible**. Our review protocol is user-friendly and cognitively simple.
-- **Collaborative**. Our reward mechanism incentivises collaboration over competition.
-- **Diverse**. Our model is flexible, scaleable and can be customised to each communities needs. 
-- **Inclusive**. Literally any community in the world could utilise the framework.
+- _Transparency_. All contributions and reviews are listed publicly, so you know what's going on.
+- _Replicability_. Open source and forkable, so you can stand on the shoulders of giants.
+- _Accessible_. Our review protocol is user-friendly and cognitively simple.
+- _Collaborative_. Our reward mechanism incentivises collaboration over competition.
+- _Diverse_. Our model is flexible, scaleable and can be customised to each communities needs. 
+- _Inclusive_. Literally any community in the world could utilise the framework.
 
 We're currently developing an app and prototyping with arts, scientific and indigenous communities. Please get in touch if your community would like to collaborate! 
 
