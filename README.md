@@ -2,7 +2,7 @@
 
 Hi and welcome to the WISDOM revolution :)
 
-We are building an evidence-based framework to help communities self-organise and celebrate contributions, so that we can empower generous contributors and accelerate the transition to a gift-based economy that respects all forms of life on this planet. 
+We're building an evidence-based framework to help communities self-organise and celebrate contributions, so that we can empower generous contributors and accelerate the transition to a gift-based economy that respects all forms of life on this planet. 
 
 WISDOM is a radically transparent framework for self-organising communities, integrating three key functions of society:
 1. Information: Multi-dimensional evaluation and recognition
