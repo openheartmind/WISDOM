@@ -17,7 +17,7 @@ WISDOM stands for
 **O**nline 
 **M**anagement (or something like that... It's more the acronym that counts!)
 
-WISDOM is a project of the [Open Heart + Mind (OHM) Community](https://github.com/openheartmind), where we're hosting [gift-based gatherings](https://github.com/openheartmind/OHM-Gathering/) and reviewing contributions as a safe space to explore and refine the WISDOM model.
+WISDOM is being developed by the [Open Heart + Mind (OHM) Community](https://github.com/openheartmind), who are using [gift-based gatherings](https://github.com/openheartmind/OHM-Gathering/) as a safe space to prototype and refine the WISDOM framework.
 
 ### Principles
 WISDOM is based on Open Science principles:
