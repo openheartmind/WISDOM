@@ -1,6 +1,6 @@
 # WISDOM V2: Pairwise Comparisons
 
-### Framework history and versioning
+### Framework evolution
 WISDOM V1 was based on the best known examples of open peer review in the open source (e.g., Mozilla) and open science (e.g., Open Science Leaders) spaces. Although this process works well for relatively monotonous offerings (e.g., applications to attend a hackathon), it cannot deal with highly heterogenous offerings across very different categories. For example, in the context of OHM Festival, we want to compare the relative value of very different contributions (e.g., cleaning toilets vs. playing a DJ set vs. administration tasks). This is difficult to achieve using a rubric, because we cannot capture the full range of value that people might add in a short text format. It would also place a burden of expertise on the reviewer (e.g., familiarity with the entire project), which limits participation from the broader crowd. 
 
 This new version would aim to drastically simplify the problem space for the user, just asking them to compare two contributions on some dimension of interest. This is inspired by a common experimental paradigm, particularly in the psychological sciences, called a paired comparison task -- basically, the participant chooses which of two contributions (A or B) is more X (where X is some dimension of interest). Here, we would present users with two offerings/contributions and ask them to tell us which one they feel is more [valuable / worthy of gratitude / easy to complete / novel / etc.]. The actual questions we ask can be explored empirically, by collecting data and conducting metascience on the outcomes.
@@ -23,10 +23,10 @@ These methods will be presented in chronological order using the OHM circular mo
 NOTE THAT RESULTS ARE ALSO INCLUDED IN THIS SECTION AS PER THE AIMOS PRESENTATION, BUT COULD BE SEPARATED FOR CLARITY)
 ~~~
 
-##### 1. Record
+#### 1. Record
 Tiny OHM contributions were recorded in the OHM Clickup workspace. From these records, the research team selected a diverse range of contributions including both contributions to the event and review contributions. 30 contributions were selected, including 27 event contributions (e.g., talks, music, donations) and 3 review contributions (completion of 1, 4 & 16 surveys, respectively). 
 
-##### 2. Review
+#### 2. Review
 Reviewers vote between pairs of contributions on multiple dimensions of interest (see Materials above for survey links)
 
 - 35 surveys (26 regular surveys with event contributions only, 9 ’expert’ surveys with event AND review contributions)
@@ -37,7 +37,7 @@ _“Which contribution are you the most grateful for?”
 “Which offering best supported the OHM vision and mission?”
 “Which offering best supported our principle of Diversity and Inclusion?”_
 
-##### 3. Recognise
+#### 3. Recognise
 Algorithms rank and benchmark contributions against pairwise comparisons. Meta-reviewers evaluate dimensions
 1. Rank. Votes tallied for each contribution & dimension
 2. Benchmark. Surveys awarded 1 OHMnom per pairwise comparison, fitted and used to scale rankings
@@ -47,13 +47,13 @@ Algorithms rank and benchmark contributions against pairwise comparisons. Meta-r
 3. Meta-review. Validated experts review rankings and assign weights to each dimension.
 4. Amalgamate. OHMnoms = average across meta-reviewer weightings
 
-##### 4. Reward
+#### 4. Reward
 Contributors are given OHMnoms as a token of gratitude. Excess tokens can be paid forward.
 - OHMnoms given to each contributor (_Future: Divide collaborations using secondary review_)
 - Subtract Tiny OHM ‘fee’ (average cost per ~111 participants = 77.68 OHMnom)
 - Pay it forward use cases (say thanks to someone, gift to community, trade for project funding, etc.)
 
-##### 5. Respect
+#### 5. Respect
 Experts and reliable reviewers are identified and acknowledged with numerical indicators.
 - Expertise = % of total OHMnoms in field
 - Intra-rater reliability = % test-retest (within-subj)
@@ -61,7 +61,7 @@ Experts and reliable reviewers are identified and acknowledged with numerical in
 - Self-bias = % votes for own contribution / likelihood others vote for own contribution
 - _Future: Reliable reviewers earn more OHMnoms for their reviews. Reputation scores as a function of token burns and expertise._
 
-##### 6. Receive (included in slides, but new model will merge this with (4) and use "Replicate" instead)
+#### 6. Receive (included in slides, but new model will merge this with (4) and use "Replicate" instead)
 Community members can meet their needs by application or by trading OHMnoms for resources.
 - OHMniversal Basic Income scheme
   - 3 recipients prior to Tiny OHM (1 shown in results)
