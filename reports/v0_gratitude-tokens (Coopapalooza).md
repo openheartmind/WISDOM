@@ -39,4 +39,4 @@ Following are the main outcomes and learnings from Survey A:
 - Use an organisational account for securing data (now created).
 
 ~~~
-Versioning: Original document written in Clickup [here](https://app.clickup.com/36615879/v/dc/12xdp7-202)
+Versioning: Original document written in Clickup: https://app.clickup.com/36615879/v/dc/12xdp7-202
