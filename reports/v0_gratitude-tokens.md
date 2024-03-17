@@ -8,10 +8,9 @@ Coopapalooza was a gift-based gathering held in November 2021 to pilot test the 
 - [Survey Version A (open access)](https://docs.google.com/spreadsheets/d/1Gw0ad-vmj8upSXEdeHZLK0JE8MZPralOwEeyQB_h3EY/edit?usp=sharing)
 - [Master spreadsheet (restricted access)](https://docs.google.com/spreadsheets/d/1tEBpY5dNKp22FzX7kWFUcOPZwXSTGdos5uhQbA-ymk0/edit?usp=sharing)
 
-#### A/B Versioning
 Two versions of the survey were created:
-- [_Version A_](https://docs.google.com/spreadsheets/d/1Gw0ad-vmj8upSXEdeHZLK0JE8MZPralOwEeyQB_h3EY/edit?usp=sharing) contained a list of 57 contributions that had been pre-identified by core organisers, plus a number of empty rows where reviewers could add more contributions not already listed. 
-- _Version B_ was identical to _Version A_ but without the pre-identified set of contributions (only empty rows). 
+1. [_Version A_](https://docs.google.com/spreadsheets/d/1Gw0ad-vmj8upSXEdeHZLK0JE8MZPralOwEeyQB_h3EY/edit?usp=sharing) contained a list of 57 contributions that had been pre-identified by core organisers, plus a number of empty rows where reviewers could add more contributions not already listed. 
+2. _Version B_ was identical to _Version A_ but without the pre-identified set of contributions (only empty rows). 
 
 Survey versions were pseudo-randomly allocated to reviewers, controlling for gender and time in attendance at the event. Note that Version B was not rigorously analysed prior to the data loss (see below) and so is not reported here. 
 
