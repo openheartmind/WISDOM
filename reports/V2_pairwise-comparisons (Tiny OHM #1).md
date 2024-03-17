@@ -77,29 +77,25 @@ Community members can meet their needs by application or by trading OHMnoms for 
 - TBC
 
 ### Learnings
-Pairwise comparisons are user-friendly
-Surveys rated as moderately easy (28%) or very easy (48%); and comfortable (46%) or neutral (50%)
-Average duration = 23 minutes (<1 min per comparison)
-Successes:
-Autonomous, community-controlled system
-Transparent, replicable, inclusive, diverse
-First step toward an autonomous gathering template
-Limitations:
-Did not identify all participants or contributions 
-Skewed benchmarking for Uniqueness and Diversity
-Could be improved with more meta-reviews (e.g., 2 & 8 surveys) or smarter ranking algorithm (e.g., ELO)
+- Pairwise comparisons are user-friendly
+  - Surveys rated as moderately easy (28%) or very easy (48%); and comfortable (46%) or neutral (50%)
+  - Average duration = 23 minutes (<1 min per comparison)
+- Successes:
+  - Autonomous, community-controlled system
+  - Transparent, replicable, inclusive, diverse
+  - First step toward an autonomous gathering template
+- Limitations:
+  - Did not identify all participants or contributions 
+  - Skewed benchmarking for Uniqueness and Diversity
+  - Could be improved with more meta-reviews (e.g., 2 & 8 surveys) or smarter ranking algorithm (e.g., ELO)
 
 ### Next steps
-Tiny OHM
-Algorithm upgrades (ELO, priors)
-Filter by explosure (cf. pairing algorithm)
-Pre-vs post-event (‘super predictors’)
-Reward regulation (e.g., with reliability)
-New dimensions (e.g., Necessity, Creativity, Difficulty, Generosity, Honesty, Clarity, Connection)
-WisdOHM app release
-Review OHM Gathering ‘23 (N = 111)
-Tiny OHM / OHM Gathering ‘24
-AIMOS prototype
+- Algorithm upgrades (ELO, priors)
+  - Filter by explosure (cf. pairing algorithm)
+  - Pre-vs post-event (‘super predictors’)
+  - Reward regulation (e.g., with reliability)
+- New dimensions (e.g., Necessity, Creativity, Difficulty, Generosity, Honesty, Clarity, Connection)
+- AIMOS prototype
 
 
 ~~~
