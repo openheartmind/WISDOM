@@ -99,5 +99,7 @@ Community members can meet their needs by application or by trading OHMnoms for 
 
 
 ~~~
-History: See original version in Clickup: https://app.clickup.com/t/2eb2xpn
+Credit: This document was created by copying portions of previous documents:
+- WISDOM 2.0 Summary in Clickup: https://app.clickup.com/t/2eb2xpn
+- Google Slides presentation: https://docs.google.com/presentation/d/1PDAqqHFCZsq3-z8pjbRob9QhcJ7vnTFwHxqXcuwGs2s/edit?usp=sharing
 
