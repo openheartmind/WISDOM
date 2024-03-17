@@ -12,10 +12,10 @@ Two versions of the survey were created:
 1. [_Version A_](https://docs.google.com/spreadsheets/d/1Gw0ad-vmj8upSXEdeHZLK0JE8MZPralOwEeyQB_h3EY/edit?usp=sharing) contained a list of 57 contributions that had been pre-identified by core organisers, plus a number of empty rows where reviewers could add more contributions not already listed. 
 2. _Version B_ was identical to _Version A_ but without the pre-identified set of contributions (only empty rows). 
 
-Survey versions were pseudo-randomly allocated to reviewers, controlling for gender and time in attendance at the event. Note that Version B was not rigorously analysed prior to the data loss (see below) and so is not reported here. 
+Survey versions were pseudo-randomly allocated to reviewers, controlling for (a) time in attendance at the event and (b) degree of involvement with. Note that Version B was not rigorously analysed prior to the data loss (see below) and so is not reported here. 
 
 ### Participants
-All attendees were contacted with a link to the [Participant information sheet (open access)](https://doc.clickup.com/36615879/d/h/12xdp7-62/0ea39f14bc5b86a) and a link to Survey A or Survey B (pseudo-randomised). 30 attendees completed Survey A. 
+All attendees were contacted via email with a link to the [Participant information sheet (open access)](https://doc.clickup.com/36615879/d/h/12xdp7-62/0ea39f14bc5b86a) and a personalised link to Survey A or Survey B (pseudo-randomised). 30 attendees completed and returned Survey A. 
 
 ### Methods
 
@@ -37,3 +37,6 @@ Following are the main outcomes and learnings from Survey A:
 ### Other learnings
 - Backup backup backup.
 - Use an organisational account for securing data (now created).
+
+~~~
+Versioning: Original document written in Clickup [here](https://app.clickup.com/36615879/v/dc/12xdp7-202)
