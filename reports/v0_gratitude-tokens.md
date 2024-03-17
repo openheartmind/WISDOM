@@ -4,9 +4,9 @@
 Coopapalooza was a gift-based gathering held in November 2021 to pilot test the OHM Gathering concept. After the gathering, all ~120 participants were invited to participate in a review to express gratitude for contributions to the event. In brief, each reviewer was given a pool of tokens based on how long they were at the event and asked to divide them between the event contributions. 
 
 ### Materials
-[Participant information sheet (open access)](https://doc.clickup.com/36615879/d/h/12xdp7-62/0ea39f14bc5b86a)
-[Survey Version A (open access)](https://docs.google.com/spreadsheets/d/1Gw0ad-vmj8upSXEdeHZLK0JE8MZPralOwEeyQB_h3EY/edit?usp=sharing)
-[Master spreadsheet (restricted access)](https://docs.google.com/spreadsheets/d/1tEBpY5dNKp22FzX7kWFUcOPZwXSTGdos5uhQbA-ymk0/edit?usp=sharing)
+- [Participant information sheet (open access)](https://doc.clickup.com/36615879/d/h/12xdp7-62/0ea39f14bc5b86a)
+- [Survey Version A (open access)](https://docs.google.com/spreadsheets/d/1Gw0ad-vmj8upSXEdeHZLK0JE8MZPralOwEeyQB_h3EY/edit?usp=sharing)
+- [Master spreadsheet (restricted access)](https://docs.google.com/spreadsheets/d/1tEBpY5dNKp22FzX7kWFUcOPZwXSTGdos5uhQbA-ymk0/edit?usp=sharing)
 
 ##### A/B Versioning
 Two versions of the survey were created:
@@ -20,7 +20,7 @@ All attendees were contacted with a link to the [Participant information sheet (
 
 ### Methods
 
-Reviewers were given the following instructions:
+Reviewers were given the following instructions (Survey A):
 
 > Please read the Participant Information Sheet before completing this survey. Only enter information in the blue and green cells. Based on your arrival/departure time, you will be allocated a certain number of Gratitude Tokens (shown at the top of this survey) to be distributed between group and individual contributions in any way you see fit. Please distribute all of your tokens and no more. To award Gratitude Tokens to the 57 contributions we've listed, type the number of tokens in the green box next to the contribution. Please note that each contribution only includes those tasks listed in the dropdown menu -- if you wish to award other tasks not included in the dropdown please allocate those tokens separately. To award tokens to other contributions we haven't listed, please describe the experience / contribution in the blue column, type the number of tokens in the green column, and then use the dropdown boxes to select up to 5 contributors to the experience (don't worry if there were more people involved or you don't remember everyone, as we will follow up to make sure all of the contributors get recognised). Note that you are free to award yourself tokens for your own contributions to the festival experience. All tokens awarded in this survey will be distributed to the individual or team of contributors through a secondary allocation process.
 
