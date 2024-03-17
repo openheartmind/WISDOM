@@ -28,7 +28,7 @@ _The original raw data were lost when the Google Drive account that duplicated t
 
 ### Learnings
 Following are the main outcomes and learnings from Survey A:
-- Token allocations were highly biased, e.g., one reviewer gave 500 tokens to a single contribution (Logistics) and 1 token to all others. This highlights the risk of gaming and other biases with this model.
+- Token allocations were highly biased, e.g., one reviewer gave 500 tokens to a single contribution and 1 token to all others. This highlights the risk of gaming and other biases with this model.
 - Fair completion of the task requires:
   - (a) Expertise. Token allocation equates to a relative score for all contributions (expressed as a percentage of the total available tokens). Completing this task fairly thus requires a broad understanding of all the different contributions, how they relate to one another, and their relative worth. This burden of expertise means that the current protocol is not inclusive, as there are only a few people who can complete this task fairly while considering all the moving parts.
   - (b) Time. Thinking through all of the contributions and their relative worth takes time. Failing this, most people will use heuristics to allocated tokens. This burden of time means that the current protocol is not inclusive, as it requires a significant commitment to add a meaningful unit of data.
