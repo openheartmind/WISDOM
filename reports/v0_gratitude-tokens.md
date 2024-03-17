@@ -19,15 +19,15 @@ All attendees were contacted with a link to the [Participant information sheet (
 
 ### Methods
 
-Reviewers were given the following instructions (Survey A):
+Reviewers under Survey A were given the following instructions:
 
 > Please read the Participant Information Sheet before completing this survey. Only enter information in the blue and green cells. Based on your arrival/departure time, you will be allocated a certain number of Gratitude Tokens (shown at the top of this survey) to be distributed between group and individual contributions in any way you see fit. Please distribute all of your tokens and no more. To award Gratitude Tokens to the 57 contributions we've listed, type the number of tokens in the green box next to the contribution. Please note that each contribution only includes those tasks listed in the dropdown menu -- if you wish to award other tasks not included in the dropdown please allocate those tokens separately. To award tokens to other contributions we haven't listed, please describe the experience / contribution in the blue column, type the number of tokens in the green column, and then use the dropdown boxes to select up to 5 contributors to the experience (don't worry if there were more people involved or you don't remember everyone, as we will follow up to make sure all of the contributors get recognised). Note that you are free to award yourself tokens for your own contributions to the festival experience. All tokens awarded in this survey will be distributed to the individual or team of contributors through a secondary allocation process.
 
 ### Results
-Note that the original raw data were lost due to the deletion of the Google Drive account that duplicated the surveys from the Master sheet. Screenshots of the original data have been recovered using Google Sheets versioning feature and can be found in the OHM Google Drive (/Data/Coopapalooza/Data-Recovery_Coopapalooza-Survey-Master/...). These data can be transcribed for further analysis if needed in the future. 
+_The original raw data were lost when the Google Drive account that duplicated the surveys from the Master sheet was deleted. Screenshots of the Survey A raw data have been recovered using the Google Sheets versioning feature and can be found in the OHM Google Drive (/Data/Coopapalooza/Data-Recovery_Coopapalooza-Survey-Master/...). These data can be transcribed for further analysis if needed in the future._
 
 ### Learnings
-Following are the main outcomes and learnings from Survey A (Survey B has not yet been analysed in depth):
+Following are the main outcomes and learnings from Survey A:
 - Token allocations were highly biased, e.g., one reviewer gave 500 tokens to a single contribution (Logistics) and 1 token to all others. This highlights the risk of gaming and other biases with this model.
 - Fair completion of the task requires:
   - (a) Expertise. Token allocation equates to a relative score for all contributions (expressed as a percentage of the total available tokens). Completing this task fairly thus requires a broad understanding of all the different contributions, how they relate to one another, and their relative worth. This burden of expertise means that the current protocol is not inclusive, as there are only a few people who can complete this task fairly while considering all the moving parts.
