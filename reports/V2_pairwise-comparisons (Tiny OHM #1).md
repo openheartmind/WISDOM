@@ -61,7 +61,7 @@ Experts and reliable reviewers are identified and acknowledged with numerical in
 - Self-bias = % votes for own contribution / likelihood others vote for own contribution
 - _Future: Reliable reviewers earn more OHMnoms for their reviews. Reputation scores as a function of token burns and expertise._
 
-#### 6. Receive (included in slides, but new model will merge this with (4) and use "Replicate" instead)
+#### 6. Receive (included in slides, but new model will merge this with (4) and replace with "Replicate" to highlight the evolving nature instead)
 Community members can meet their needs by application or by trading OHMnoms for resources.
 - OHMniversal Basic Income scheme
   - 3 recipients prior to Tiny OHM (1 shown in results)
