@@ -15,7 +15,7 @@ WISDOM stands for
 **S**ystem for 
 **D**istributed 
 **O**nline 
-**M**anagement (or something like that... It's more the acronym that counts!)
+**M**anagement.
 
 WISDOM is being developed by the [Open Heart + Mind (OHM) Community](https://github.com/openheartmind), who are using [gift-based gatherings](https://github.com/openheartmind/OHM-Gathering/) as a safe space to prototype and refine the WISDOM framework.
 
@@ -25,8 +25,8 @@ WISDOM is based on Open Science principles:
 - _Replicability_. Open source and forkable, so you can stand on the shoulders of giants.
 - _Accessibility_. Our review protocol is user-friendly and cognitively simple.
 - _Collaborative_. Our reward mechanism incentivises collaboration over competition.
-- _Diverse_. Our model is flexible, scaleable and can be customised to the needs of different communities. 
-- _Inclusive_. Literally any community in the world could utilise our framework.
+- _Diversity_. Our model is flexible, scaleable and can be customised to the needs of different communities. 
+- _Inclusion_. Literally any community in the world could utilise our framework.
 
 ### Metascience
 We are developing rigorous, evidence-based methods for determining the relative value of contributions, so that contributors can be given fair credit for their efforts. We aim to overcome bias and gaming through repeated experimentation and iteration as WISDOM evolves. Our initial forays into this new metaresearch paradigm are: 
@@ -44,4 +44,4 @@ We're currently prototyping with diverse arts, scientific and indigenous communi
 See [here](grant-proposals/ACX-2023.md) for a recent grant application. 
 
 ### History
-WISDOM was founded at the beginning of 2022 under the [OHM project](https://github.com/openheartmind). Our first two years of documentation and development were recorded in our transparent workspace in Clickup (contact for access). In March 2024 we moved to Github and Github Projects.
+WISDOM was founded at the beginning of 2022 under the [OHM project](https://github.com/openheartmind). Our first two years of documentation and development were recorded in our transparent workspace in Clickup (contact for access). In March 2024 we began migrating to Github and Github Projects (work in progress; contact us for access to Clickup in the meantime).
