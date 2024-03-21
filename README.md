@@ -26,13 +26,13 @@ WISDOM is based on Open Science principles:
 ... plus some more for good measure:
 - _Honesty_. Metascience and automated algorithms help to control for gaming, bias, etc.
 
-# WISDOM as a community operating system
-WISDOM is a radically transparent framework for self-organising communities, integrating three key functions of society:
-1. Information: Multi-dimensional evaluation and recognition for contributions
+# Objectives
+WISDOM aims to become a complete 'operating system' for self-organising communities, integrating three key functions of society:
+1. Communication: Multi-dimensional evaluation and values-based recognition for contributions
 2. Economics: Gratitude-based rewards within a gifting economy
 3. Governance: Transparent ideation, voting and decision-making
 
-### Information
+### Communication
 We're developing rigorous, evidence-based methods for determining the relative value of contributions, so that contributors can be given fair credit for their efforts. We aim to overcome bias and gaming through repeated experimentation and iteration as WISDOM evolves. Our initial forays into this new metaresearch paradigm are (see /reports for more details): 
 
 1. A survey following the OHM Gathering pilot test (Coopapalooza), in which attendees were asked to allocate a pool of 'gratitude tokens' between the various contributions to the gathering (WisdOHM v0)
@@ -45,7 +45,7 @@ We're developing rigorous, evidence-based methods for determining the relative v
 WISDOM is best thought of as a meta-information system. [MORE ON THIS SOON]
 
 ### Economics
-Introducing our concept token, the OHMnom 🎉 You can think of OHMnoms as representing the delicious little treats that our members contribute to the community. Or alternatively, as a digital token representing the community's collective gratitude (not as tasty, but much more precise). OHMnoms are calculated by applying an algorithm to the meta-information matrix. The current version of the algorithm is very simple -- a 1-to-1 mapping of the Gratitude dimension -- meaning that OHMnoms are a direct measure of the collective gratitude for contributions. In the future, this algorithm may be developed to include more variables, but for now we're just keeping it simple (on this front at least!). 
+Introducing our concept token, the OHMnom! 🎉 You can think of OHMnoms as representing the delicious little treats that our members contribute to the community. Or alternatively, as a digital token representing the community's collective gratitude (not as tasty, but much more precise). OHMnoms are calculated by applying an algorithm to the meta-information matrix. The current version of the algorithm is very simple -- a 1-to-1 mapping of the Gratitude dimension -- meaning that OHMnoms are a direct measure of the collective gratitude for contributions. In the future, this algorithm may be developed to include more variables, but for now we're just keeping it simple (on this front at least!). 
 
 ### Governance
 We're developing a novel framework where community members can earn a reputation by contributing value to the community, which then earns them a bigger influence over collective votes on important issues. Because WISDOM tracks and assigns value to all contributions, we can build a representation of each person's expertise (or experience points) across different projects (e.g., hOHM Base), fields (e.g., music) or combinations thereof (e.g., music at hOHM Base). This representation could be visualised as concentric rings, with the inner-most ring representing a 'circle' of the most experienced contributors (e.g., 2 people) and outer rings including newer contributors with fewer verified contributions. We're calling this model the WISDOM Tree, by analogy to the growth rings that show the age of a tree when dissected. Each community who adopts this model could be visualised as a tree in a forest, with the trunk representing their core community and branches representing each project or sub-community. This analogy only goes so far, because in contrast to a physical tree, our model is infinitely filterable and can therefore be dynamically updated at the click of a button. But hey, that's why we love data at OHM. 
