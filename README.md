@@ -26,7 +26,7 @@ WISDOM is based on Open Science principles:
 ... plus some more for good measure:
 - _Honesty_. Metascience and automated algorithms help to control for gaming, bias, etc.
 
-# Objectives
+## Objectives
 WISDOM aims to become a complete 'operating system' for self-organising communities, integrating three key functions of society:
 1. Communication: Multi-dimensional evaluation and values-based recognition for contributions
 2. Economics: Gratitude-based rewards within a gifting economy
