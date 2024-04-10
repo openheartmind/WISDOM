@@ -40,7 +40,7 @@ Data will be handled in accordance with the [License agreement at OHM](https:
 Your participation in this research is voluntary and you are free to withdraw from the research anytime without penalty or need for explanation. If you choose to stop participating prior to the public release of the research data, all the information collected from/about you will be destroyed and will not be used in the research. If you choose to stop participating after the public release of this dataset, we will anonymise and/or hide your data in any public releases that we have control over from that point forward.
 
 ### Can I hear about the results of this research?
-We anticipate that the results of this research project will be published and/or presented in a variety of forms. Upon doing so we will inform participants via direct contact and the OHM and Vibecamp communities by relevant channels (e.g., Twitter, Discord, Facebook). 
+The results of this research project will be shared publicly and/or presented in a variety of forms. Upon doing so we will inform participants via direct contact and the OHM and Vibecamp communities by relevant channels (e.g., Twitter, Discord, Facebook). 
 
 ### Who can I contact if I have any concerns about the project?
 You are welcome to discuss your participation in this study with the [project lead](mailto:cooper.smout@gmail.com), their affiliated institution ([IGDORE](https://igdore.org/)), or a core member of OHM or Vibecamp. 
