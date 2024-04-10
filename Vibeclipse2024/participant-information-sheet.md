@@ -1,5 +1,5 @@
-# Vibeclipse x WISDOM Prototype
-# Participant information sheet
+# Vibeclipse x WISDOM Contribution Review
+## Participant information sheet
 
 ### Researcher/s: 
 Cooper Smout -- project administrator ([Open Heart + Mind](https://linktr.ee/openheartmind); [IGDORE](https://igdore.org/)) 
