@@ -2,7 +2,7 @@
 
 Hi and welcome to the WISDOM revolution :)
 
-We're building an evidence-based framework to help communities self-organise and celebrate diverse contributions, so that we can empower contributors and accelerate the transition to a gift-based economy that respects all forms of life on this planet. 
+We're building an open science framework for communities to crowdsource the value of contributions, so that we can empower contributors and accelerate the transition to a gift-based economy that respects all life forms on this planet. 
 
 WISDOM stands for 
 **W**eighted
