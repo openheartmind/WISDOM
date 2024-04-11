@@ -7,7 +7,7 @@ We're building an open science framework for communities to crowdsource the valu
 WISDOM stands for 
 **W**eighted
 **I**nformation 
-**S**ystem for 
+**S**chema for 
 **D**istributed 
 **O**nline 
 **M**anagement.
