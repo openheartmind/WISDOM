@@ -1,7 +1,7 @@
 # WISDOM v0: Gratitude Tokens used to review contributions to Coopapalooza (OHM pilot test)
 
 ### Background
-Coopapalooza was a gift-based gathering held in November 2021 to pilot test the OHM Gathering concept. After the gathering, all ~120 participants were invited to participate in a review to express gratitude for contributions to the event. In brief, each reviewer was given a pool of tokens based on how long they were at the event and asked to divide them between the event contributions. 
+Coopapalooza was a gift-based gathering held in November 2021 to celebrate Cooper's 40th birthday and pilot test the OHM Gathering concept. After the gathering, all ~120 participants were invited to participate in a review to express gratitude for contributions to the event. In brief, each reviewer was given a pool of tokens based on how long they were at the event and asked to divide them between the event contributions. 
 
 ### Materials
 - [Participant information sheet (open access)](https://doc.clickup.com/36615879/d/h/12xdp7-62/0ea39f14bc5b86a)
