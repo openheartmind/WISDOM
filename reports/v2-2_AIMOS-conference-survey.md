@@ -21,10 +21,7 @@ AIMOS is a meta-science and open science conference that was hosted at QUT in No
 - X reviewers (ongoing at April 2024)
 
 ### Process
-These methods will be presented in chronological order using the OHM circular model stages of Record, Review, Recognise, Reward, and Respect 
-~~~ 
-NOTE THAT RESULTS ARE ALSO INCLUDED IN THIS SECTION AS PER THE AIMOS PRESENTATION, BUT COULD BE SEPARATED FOR CLARITY)
-~~~
+These methods will be presented in chronological order using the WISDOM framework stages of Record, Review, Recognise, Reward, and Respect.
 
 #### 1. Record
 AIMOS contributions were recorded by participants who completed the Contribution Survey form (see 'contribution data: raw' tab [here](https://docs.google.com/spreadsheets/d/1kQJM2kEVulzwXBQZuvR46wxaQY5_ohm0rbndIkdEkSE/edit?usp=sharing)). CS estimated the vaue of each contribution in OHMnoms. CS & AF added tags to each contribution. CS & AF created histograms to show diversity of selected contributions. CS selected a range of contributions, aiming to create a normal distribution of OHMnom estimates and a diverse selection of contributors and tags ((see 'preprocessing' tab [here](https://docs.google.com/spreadsheets/d/1kQJM2kEVulzwXBQZuvR46wxaQY5_ohm0rbndIkdEkSE/edit?usp=sharing)). 
