@@ -51,9 +51,8 @@ The second innovative feature of WISDOM is the use of meta-reviews to determine 
 - May 2022: Development of WisdOHM app begins (note this app will be open sourced as soon as we can resolve some sensitive data issues in the codebase)
 - June 2022: Hosted Tiny OHM, used to prototype WISDOM v2.0 / v2.1 and collect first complete dataset
 - June 2023: Hosted OHM Gathering (data collection waiting on app)
-- Nov 2023: Presented framework and data at AIMOS conference
-- Dec 2023: AIMOS collaboration begins
-- Apr 2024: Presented framework at Vibeclipse, Vibecamp collaboration begins
+- Nov 2023: Presented framework and data at AIMOS conference; AIMOS collaboration begins
+- Apr 2024: Presented framework at Vibeclipse; Vibecamp collaboration begins
 
 Note that our first two years of documentation and development were recorded in our transparent Clickup workspace (contact Cooper Smout for access). In March 2024 we began migrating to Github and Github Projects (work in progress).
 
