@@ -22,7 +22,12 @@ At the heart of WISDOM is a simple, user-friendly review protocol that rewards i
 
 WISDOM aims to become a complete operating system for any community, integrating the key functions of _information sharing_, [_economics_](https://github.com/openheartmind/WISDOM/tree/main/documents) and [_governance_](https://github.com/openheartmind/WISDOM/blob/main/documents/governance.md). By connecting diverse communities under a common framework, it creates a universal language for sharing gratitude and collaborating effectively toward common goals. 
 
-### Principles and features
+### The Details
+The first innovative feature of WISDOM is the use of pairwise comparisons to review contributions. Pairwise comparisons are cognitively simple, easy and quick, making them an inclusive paradigm for the everyday user. Moreover, pairwise comparisons are relatively standard, meaning that we can treat them as a base unit of contribution and reward them with a single token reflecting community gratitude. 
+
+The second innovative feature of WISDOM is the use of meta-reviews to determine the relative value of all other contributions, relative to reviews. Pairwise comparisons are _themselves_ reviewed under the pairwise comparison paradigm, and the votes for review contributions are used to estimate a baseline and interpolate values for all other contributions. The result is a rich, multidimensional matrix representing the qualities of every single contribution, pegged to the base unit of gratitude for a single pairwise comparison. Contributors can then be rewarded with tokens representing these units of gratitude. By tracking value over time, we can also develop a rich profile for every user, creating an evidence-based mechanism for collective governance by established reputation. 
+
+### Principles and Features
 - _Transparent_. Contributions and reviews are shared publicly, so you know what's going on behind the scenes.
 - _Inclusive_. Everyone is rewarded for their unique contributions, including reviewers under our [pairwise comparisons review protocol](https://github.com/openheartmind/WISDOM/blob/main/reports/v2-1_Tiny-OHM-post-review.md). 
 - _Replicable_. Open source and forkable, so you can stand on the shoulders of giants.
@@ -38,7 +43,25 @@ WISDOM aims to become a complete operating system for any community, integrating
 5. Literally any contribution to _any_ community. We think of WISDOM as a _minimal viable model_, meaning that it is both flexible and adaptable to different community needs. We're collecting a list of organisations interested in exploring the framework, please add your name [here](https://docs.google.com/spreadsheets/d/1XF9CagLX1WUXaPy-HDYlY4kZv8HZngEGu7lM6EQnvy4/edit?usp=sharing) if interested so we can get in touch.
 
 ### Development History
-WISDOM was originally designed as a solution for cultural inertia in academia. [Open Heart + Mind (OHM) Community](https://github.com/openheartmind) was founded in 2022 to prototype the model in the safer context of gift-based gatherings. OHM has prototyped several review models at [diverse gatherings](https://github.com/openheartmind/WISDOM/tree/main/reports), before settling on the pairwise comparison version we call WISDOM. OHM is also developing a bespoke app called ([WisdOHM](https://github.com/openheartmind/wisdohm)) that will be open sourced as soon as we can resolve some sensitive data issues in the codebase. Note that our first two years of documentation and development were recorded in our transparent Clickup workspace (contact Cooper Smout for access). In March 2024 we began migrating to Github and Github Projects (work in progress).
+- 2019-2021: WISDOM designed as a solution for cultural inertia in academia
+- Nov 2021: Hosted Heart + Mind Festival, used to prototype WISDOM v0 (token allocation)
+- Jan 2022: [Open Heart + Mind (OHM)](https://github.com/openheartmind) founded to prototype the model in the safer context of gift-based gatherings
+- Feb 2022: Applications to OHM Gathering open, used to prototype WISDOM v1 (structured rubric)
+- Mar 2022: Pairwise comparison model proposed to community (WISDOM v2)
+- May 2022: Development of WisdOHM app begins (note this app will be open sourced as soon as we can resolve some sensitive data issues in the codebase)
+- June 2022: Hosted Tiny OHM, used to prototype WISDOM v2.0 / v2.1 and collect first complete dataset
+- June 2023: Hosted OHM Gathering (data collection waiting on app)
+- Nov 2023: Presented framework and data at AIMOS conference
+- Dec 2023: AIMOS collaboration begins
+- Apr 2024: Presented framework at Vibeclipse, Vibecamp collaboration begins
+
+Note that our first two years of documentation and development were recorded in our transparent Clickup workspace (contact Cooper Smout for access). In March 2024 we began migrating to Github and Github Projects (work in progress).
+
+### Roadmap (work in progress)
+- Apr 2024: Networking tour of North America and Colombia
+- June 2024: Presenting at SIPS conference (Kenya)
+
+...TBD
 
 ### About the Founder
 Cooper Smout is a designer, data scientist and lifelong student of human behavior. During his PhD (cognitive neuroscience) he became fascinated with the problem of incentivising open science practices and founded the [worlds first collective action platform for researchers](https://freeourknowledge.org/), aiming to overcome cultural inertia through conditional pledges. Drawing on insights from this work, he designed a novel model for scholarly publishing with the potential to generate prestige and compete with traditional journals. Realising that this model was likely too radical for risk-averse academics, and inspired by the creativity of Burning man-style events, he left academia to prototype in the safer (and more inclusive) environment of [gift-based gatherings](https://doc.clickup.com/36615879/d/h/12xdp7-722/0579897aba652af), where he has been collaborating with amazing humans since. 
