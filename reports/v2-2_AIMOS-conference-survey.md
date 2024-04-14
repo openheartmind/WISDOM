@@ -27,7 +27,9 @@ NOTE THAT RESULTS ARE ALSO INCLUDED IN THIS SECTION AS PER THE AIMOS PRESENTATIO
 ~~~
 
 #### 1. Record
-AIMOS contributions were recorded by participants who completed the Contribution Survey form (see 'contribution data: raw' tab [here](https://docs.google.com/spreadsheets/d/1kQJM2kEVulzwXBQZuvR46wxaQY5_ohm0rbndIkdEkSE/edit?usp=sharing)). CS estimated the vaue of each contribution in OHMnoms. CS & AF added tags to each contribution. CS & AF created histograms to show diversity of selected contributions. CS selected a range of contributions, aiming to create a normal distribution of OHMnom estimates and a diverse selection of contributors and tags ((see 'preprocessing' tab [here](https://docs.google.com/spreadsheets/d/1kQJM2kEVulzwXBQZuvR46wxaQY5_ohm0rbndIkdEkSE/edit?usp=sharing))
+AIMOS contributions were recorded by participants who completed the Contribution Survey form (see 'contribution data: raw' tab [here](https://docs.google.com/spreadsheets/d/1kQJM2kEVulzwXBQZuvR46wxaQY5_ohm0rbndIkdEkSE/edit?usp=sharing)). CS estimated the vaue of each contribution in OHMnoms. CS & AF added tags to each contribution. CS & AF created histograms to show diversity of selected contributions. CS selected a range of contributions, aiming to create a normal distribution of OHMnom estimates and a diverse selection of contributors and tags ((see 'preprocessing' tab [here](https://docs.google.com/spreadsheets/d/1kQJM2kEVulzwXBQZuvR46wxaQY5_ohm0rbndIkdEkSE/edit?usp=sharing)). 
+
+Respondants could also use the form to nominate values to be reflected in this research project. CS visualised these responses as a [word cloud](https://drive.google.com/open?id=10N0Z2mfRE1JZ8SjMG4CnT_U2Xju_b9VQ&usp=drive_fs) and the research team agreed to use the 5 most common words for evaluating contributions in this study. 
 
 #### 2. Review
 Reviewers vote between pairs of contributions on multiple dimensions of interest. For each pair, reviewers also select their username from a dropdown box and have the opportunity to add notes.
