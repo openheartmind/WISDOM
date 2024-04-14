@@ -4,7 +4,7 @@
 This prototype is an evolution of the Tiny OHM Survey, incorporating the following updates:
 - removed sensitive info from backend and condensed multiple sheets into a single sheet
 - new process to select controlled set of diverse contributions
-- dimensions of interest selected by crowd-response
+- reviewer questions selected by crowd-response
 
 ### Where was this version tested?
 AIMOS is a meta-science and open science conference that was hosted at QUT in November 2023. Cooper hosted a discussion group at the conference and invited participants to join in a collaboration to review AIMOS contributions (ongoing at April 2024)
