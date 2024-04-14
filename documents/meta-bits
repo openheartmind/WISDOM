@@ -1,0 +1,20 @@
+### Meta-bits
+
+In computing, a bit is the smallest piece of information possible. It represents a 1 or a 0, On or Off, TRUE or FALSE. 
+
+In WISDOM, a meta-bit is the smallest piece of meta-information available. We are interested specifically in the relative value of information, as voted on by users under WISDOM. 
+
+A meta-bit thus represents a single vote between two contributions, by a single user, about a single dimension of interest. Meta-information includes:
+
+- the two piece of information (i.e., contributions) in question
+- the dimension of interest (e.g., gratitude)
+- the user who voted
+- the outcome
+
+Meta-bits can be thought of as a 'relative bit', in that the information is binary but in relation to two other pieces of information. 
+
+Other useful information could reference the version of WISDOM under which the data was collected, e.g.:
+
+- WISDOM framework version
+- implementation versions (e.g., pairing algorithm, analysis algorithm etc)
+- the community of the contributors / contributions 
