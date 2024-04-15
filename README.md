@@ -2,7 +2,7 @@
 
 Hi and welcome to the WISDOM revolution :)
 
-We're developing a universally applicable, standardised framework for recognising and rewarding contributions to any autonomous organisations, so that we can empower contributors, connect communities, and transition to a collaborative gift-based society. 
+We're developing a universally applicable, standardised framework for recognising and rewarding contributions to any community, so that we can empower contributors, connect communities, and transition to a collaborative gift-based society. 
 
 WISDOM stands for 
 **W**eighted
