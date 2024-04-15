@@ -16,24 +16,15 @@ WISDOM stands for
 As our world grows increasingly interconnected, the need to learn from one another's experiences has never been greater. Yet, despite the wealth of knowledge all around us, most people remain resistant to actively sharing their insights and feedback. Entrenched cultural norms and technological inertia make it difficult to incentivize the behaviors needed to harness this collective wisdom.
 
 ### The WISDOM Solution
-WISDOM is a flexible framework designed to crack the code of cultural change. By providing an adaptable model for understanding individual and collective motivations and directly rewarding engagement, WISDOM empowers diverse communities to foster knowledge-sharing and collective growth. By directly rewarding contributors using transparent data and processes, WISDOM empowers contributors to keep on giving in the way that suits them and their community. 
+WISDOM is a flexible framework designed to crack the code of cultural change. By providing an adaptable model for understanding individual and collective motivations and directly rewarding engagement, WISDOM empowers diverse communities to foster knowledge-sharing and collective growth. By directly rewarding contributors using transparent data and processes, WISDOM empowers contributors to decide how to deliver the best value for their community. 
 
-...
-The key innovation in WISDOM is the use of pairwise comparisons as both an inclusive review protocol and a standard unit of contribution. Reviewers are presented with two contributions and asked to vote between them on one or more dimensions of interest (e.g., "Which are you most _grateful_ for"). At the individual level, this task is cognitively simple, quick and easy, meaning that anyone in the community can contribute meaningful data with a modicum of effort or expertise. At the group level, these simple decisions sum to create a rich representation of the relative qualities of each contribution. 
-
-...
 At the heart of WISDOM is a user-friendly review protocol that directly rewards high-quality feedback about the relative value of contributions. This input is then synthesized into a rich information matrix representing the relative value of every contribution across multiple dimensions of interest. Contributors are then rewarded with tokens to reflect the collective gratitude of the community, and badges to reflect their reliability and expertise. 
 
 WISDOM aims to become a complete operating system for any community, integrating the key functions of _information sharing_, [_economics_](https://github.com/openheartmind/WISDOM/tree/main/documents) and [_governance_](https://github.com/openheartmind/WISDOM/blob/main/documents/governance.md). By connecting diverse communities under a common framework, it creates a universal language for sharing gratitude and collaborating effectively toward common goals. 
 
-
-### Embedded Values
-
-
-
 ### Core Model
 _0. Embed Values_
-Every community has the opportunity to decide the dimension/s of interest that reviewers vote on, meaning that they can directly embed their values into the code. We suggest communities adopt the common dimension of "Gratitude" to facilitate cross-comparison between communities. Beyond this, each community is free to explore any number of dimensions of their choosing, which can also evolve over time in response to feedback and evidence. 
+Every community has the opportunity to decide which dimensions their reviewers will vote on, meaning that they can directly embed their values into the code. We suggest communities adopt the common dimension of "Gratitude" to facilitate cross-comparison between communities. Beyond this, each community is free to choose any number of dimensions, and dimensions can also evolve over time in response to evidence and feedback. 
 
 _1. Record._ Contributions are recorded in a transparent register of the community's choice. The scale and scope of records depends on the community, and members are incentivised to keep the register current, complete and accurate. 
 
