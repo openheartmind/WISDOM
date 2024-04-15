@@ -2,7 +2,7 @@
 
 Hi and welcome to the WISDOM revolution :)
 
-We're developing an open science framework for recognising and rewarding contributions to autonomous organisations, so that we can empower contributors, connect communities, and transition to a collaborative gift-based society. 
+We're developing a universally applicable, standardised framework for recognising and rewarding contributions to any autonomous organisations, so that we can empower contributors, connect communities, and transition to a collaborative gift-based society. 
 
 WISDOM stands for 
 **W**eighted
@@ -16,20 +16,45 @@ WISDOM stands for
 As our world grows increasingly interconnected, the need to learn from one another's experiences has never been greater. Yet, despite the wealth of knowledge all around us, most people remain resistant to actively sharing their insights and feedback. Entrenched cultural norms and technological inertia make it difficult to incentivize the behaviors needed to harness this collective wisdom.
 
 ### The WISDOM Solution
-WISDOM is a flexible framework designed to crack the code of cultural change. By providing an adaptable model for understanding individual and collective motivations and directly rewarding engagement, WISDOM empowers diverse communities to foster knowledge-sharing and collective growth. 
+WISDOM is a flexible framework designed to crack the code of cultural change. By providing an adaptable model for understanding individual and collective motivations and directly rewarding engagement, WISDOM empowers diverse communities to foster knowledge-sharing and collective growth. By directly rewarding contributors using transparent data and processes, WISDOM empowers contributors to keep on giving in the way that suits them and their community. 
 
-At the heart of WISDOM is a user-friendly review protocol that incentivises feedback about the relative quality of contributions. This input is then synthesized into a rich information matrix representing the crowd-valuation of every contribution across multiple dimensions of interest. Contributors are then rewarded with tokens reflecting the collective gratitude of the community, and awarded with badges reflecting their reliability and expertise within the community. 
+...
+The key innovation in WISDOM is the use of pairwise comparisons as both an inclusive review protocol and a standard unit of contribution. Reviewers are presented with two contributions and asked to vote between them on one or more dimensions of interest (e.g., "Which are you most _grateful_ for"). At the individual level, this task is cognitively simple, quick and easy, meaning that anyone in the community can contribute meaningful data with a modicum of effort or expertise. At the group level, these simple decisions sum to create a rich representation of the relative qualities of each contribution. 
+
+...
+At the heart of WISDOM is a user-friendly review protocol that directly rewards high-quality feedback about the relative value of contributions. This input is then synthesized into a rich information matrix representing the relative value of every contribution across multiple dimensions of interest. Contributors are then rewarded with tokens to reflect the collective gratitude of the community, and badges to reflect their reliability and expertise. 
 
 WISDOM aims to become a complete operating system for any community, integrating the key functions of _information sharing_, [_economics_](https://github.com/openheartmind/WISDOM/tree/main/documents) and [_governance_](https://github.com/openheartmind/WISDOM/blob/main/documents/governance.md). By connecting diverse communities under a common framework, it creates a universal language for sharing gratitude and collaborating effectively toward common goals. 
 
-### The Details
-The first innovative feature of WISDOM is the use of pairwise comparisons to review contributions. Pairwise comparisons are cognitively simple, easy and quick, making them an inclusive paradigm for the everyday user. Moreover, pairwise comparisons are relatively standard, meaning that we can treat them as a base unit of contribution and reward them with a single token reflecting community gratitude. 
 
-The second innovative feature of WISDOM is the use of meta-reviews to determine the relative value of all other contributions, relative to reviews. Pairwise comparisons are _themselves_ reviewed under the pairwise comparison paradigm, and the votes for review contributions are used to estimate a baseline and interpolate values for all other contributions. The result is a rich, multidimensional matrix representing the qualities of every single contribution, pegged to the base unit of gratitude for a single pairwise comparison. Contributors can then be rewarded with tokens representing these units of gratitude. By tracking value over time, we can also develop a rich profile for every user, creating an evidence-based mechanism for collective governance by established reputation. 
+### Embedded Values
+
+
+
+### Core Model
+_0. Embed Values_
+Every community has the opportunity to decide the dimension/s of interest that reviewers vote on, meaning that they can directly embed their values into the code. We suggest communities adopt the common dimension of "Gratitude" to facilitate cross-comparison between communities. Beyond this, each community is free to explore any number of dimensions of their choosing, which can also evolve over time in response to feedback and evidence. 
+
+_1. Record._ Contributions are recorded in a transparent register of the community's choice. The scale and scope of records depends on the community, and members are incentivised to keep the register current, complete and accurate. 
+
+_2. Review._ WISDOM uses pairwise comparisons to generate ratings at the crowd-level. Pairwise comparisons are a quick, simple and user-friendly review protocol, ensuring that diverse people can contribute data, regardless of expertise or technical prowess. Anyone in the community can complete a pairwise comparison by voting between two contributions on each dimension of interest (e.g., "Which of these two contributions are you most grateful for?"). Reliable reviewers might also earn the status of '_meta-reviewer_', which entitles them to vote on the relative value of reviews themselves (termed a '_meta-review_') on the primary dimension of Gratitude. 
+
+_3. Recognise._ Pairwise comparisons are relatively uniform, meaning that we can treat them as a 'standard unit' of contribution and use them to peg the value/s of all other contributions. This is achieved by including a range of review contributions (e.g., 32, 64, and 128 pairwise comparisons) in the meta-review, fitting a function to the resulting votes (see 'algorithm' tab in our [pilot dataset](http://tiny.cc/tinyOHMresults)), and interpolating values for all regular contributions. The result is a rich information matrix spanning multiple dimensions that recognises the unique qualities of every single contribution, and can be filtered in an infinite number of ways.
+
+_4. Reward._ Contributors are rewarded with tokens representing the collective gratitude for their contributions. Reviews are rewarded at the rate of 1 token per pairwise comparison across all dimensions, and other contributions are rewarded with one token per point on the Gratitude dimension (in the future, more complicated transfer functions could be explored). Communities might also agree to subtract common costs (e.g., the average cost of an event), leaving a balance that reflects each contributor’s total energetic exchange with the community (see 'Summary' tab, 'Reward' column, in our [pilot dataset](http://tiny.cc/tinyOHMresults)). Excess tokens can be paid forward to other people who the contributor wishes to thank in turn, forming the basis of an evidence-based gifting economy.
+
+_5. Respect._ By measuring the value of contributions over time, we can generate metrics reflecting each persons unique strengths and cumulative value provided to the community. Reviewer reliability can be measured using a range of measures (e.g., test-retest reliability, internal consistency), and trustworthy reviewers can be elevated to the status of _meta-reviewer_. Experts in particular fields and topics can be identified by tracking the value they add to that field over time. Collectively, these metrics could form the basis of a merit-based participatory democracy algorithm, in which votes are weighted according to each person's validated expertise in the topic of interest. 
+
+_6. Replicate._ All of the above processes should be conducted transparently and shared with the community, so that they can learn and grow together. The final stage is therefore to replicate the previous materials, embed any learnings, and repeat the process again. 
+
+### A Universal Framework
+WISDOM is designed to be maximally inclusive to all communities. The core model above is the simplest model possible for capturing quantitative meta-information -- information about the relative value of information. There are of course more nuanced ways to conduct reviews, but all of these can be considered derivatives of the universal model we outline here. Each community would be encouraged to develop additional layers that enhance this core model, using the pairwise comparison method to determine the relative value of those layers (e.g., the value of a qualitative review could be given in terms of an equivalent number of pairwise comparisons). 
+
+At OHM, we call our tokens OHMnoms, but each community would be free to create their own customis tokens. Each community could decide what other communities to cooperate and trade with, by assessing their transparent processes and data and deciding (if necessary) a relative weighting for the respective tokens. 
 
 ### Principles and Features
 - _Transparent_. Contributions and reviews are shared publicly, so you know what's going on behind the scenes.
-- _Inclusive_. Everyone is rewarded for their unique contributions, including reviewers under our [pairwise comparisons review protocol](https://github.com/openheartmind/WISDOM/blob/main/reports/v2-1_Tiny-OHM-post-review.md). 
+- _Inclusive_. Everyone is rewarded for their unique contributions, including reviews, meaning that everyone can contribute in the way that works for them.
 - _Replicable_. Open source and forkable, so you can stand on the shoulders of giants.
 - _Accessible_. Our review protocol is user-friendly and cognitively simple, so that anyone can contribute meaningful data no matter their circumstances.
 - _Collaborative_. Our crowd-based reward mechanism incentivises collaboration over competition.
