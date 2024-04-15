@@ -22,9 +22,8 @@ At the heart of WISDOM is an inclusive review protocol that incentivises high-qu
 
 WISDOM aims to become a complete operating system for any community, integrating the key functions of _information sharing_, [_economics_](https://github.com/openheartmind/WISDOM/tree/main/documents) and [_governance_](https://github.com/openheartmind/WISDOM/blob/main/documents/governance.md). By connecting diverse communities under a common framework, WISDOM creates a universal language for sharing gratitude and collaborating more effectively toward common goals. 
 
-### Core Model
-_0. Embed Values_
-Every community has the opportunity to decide which dimensions their reviewers will vote on, meaning that they can directly embed their values into the code. We suggest communities adopt the common dimension of "Gratitude" to facilitate cross-comparison between communities. Beyond this, each community is free to choose any number of dimensions, and dimensions can also evolve over time in response to evidence and feedback. 
+### Minimal Viable Model
+_0. Embed Values._ Every community has the opportunity to decide which dimensions their reviewers will vote on, meaning that they can directly embed their values into the code. We suggest communities adopt the common dimension of "Gratitude" to facilitate cross-comparison between communities. Beyond this, each community is free to choose any number of dimensions, and dimensions can also evolve over time in response to evidence and feedback. 
 
 _1. Record._ Contributions are recorded in a transparent register of the community's choice. The scale and scope of records depends on the community, and members are incentivised to keep the register current, complete and accurate. 
 
@@ -36,7 +35,7 @@ _4. Reward._ Contributors are rewarded with tokens representing the collective g
 
 _5. Respect._ By measuring contributions over time, we can generate metrics reflecting each persons unique strengths and value proposition to the community. Reviewer reliability can be measured using a range of measures (e.g., test-retest reliability, internal consistency), and trustworthy reviewers can be elevated to the status of _meta-reviewer_. Experts in particular fields and topics can be identified by tracking the value they add to that field over time. Collectively, these metrics could form the basis of a merit-based participatory democracy algorithm, in which votes are weighted according to each person's validated expertise in the topic of interest. 
 
-_6. Replicate._ All of the above processes should be conducted transparently and shared with the community, so that they can learn and grow together. The final stage is therefore to replicate the previous materials, embed any learnings, and repeat the process again. 
+_6. Replicate and Repeat._ All of the above processes should be conducted transparently and shared with the community, so that they can learn and grow together. The final stage is therefore to replicate the previous materials, embed any learnings, and repeat the process again. 
 
 ### Principles and Features
 - _Transparent_. Contributions and reviews are shared publicly, so you know what's going on behind the scenes.
