@@ -2,11 +2,13 @@
 
 ### Fellowships (bold = applied, strikethrough = rejected) 
 * Mozilla Senior Fellowship (6 May 2024)
+* [Sequoia Open Source Fellowhsip](https://www.sequoiacap.com/article/open-source-fellowship-applications/)
 * FUTO (rolling application)
 * [Weizenbaum Institute for the Networked Society](https://www.weizenbaum-institut.de/en/institute/work-and-career/fellowships/open-research-program/) (Sept 2024?)
 * ARC/NHMRC 
 * [Mercatus Emergent Ventures](https://www.mercatus.org/emergentventures) (rolling application?)
 * [Moore Inventor Fellows](https://www.moore.org/initiative-strategy-detail?initiativeId=moore-inventor-fellows) (Nov 2024?)
+* [Open Bioinformatics Foundation](https://www.open-bio.org/event-awards/) 
 
 ### Grants (bold = applied, strikethrough = rejected)
 * https://www.reset.tech/open-calls/ -- disinformation pitch
