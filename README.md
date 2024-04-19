@@ -22,7 +22,7 @@ At the heart of WISDOM is an inclusive review protocol that incentivises high-qu
 
 WISDOM aims to become a complete operating system for any community, integrating the key functions of _information sharing_, [_economics_](https://github.com/openheartmind/WISDOM/tree/main/documents) and [_governance_](https://github.com/openheartmind/WISDOM/blob/main/documents/governance.md). By connecting diverse communities under a common framework, WISDOM creates a universal language for sharing gratitude and collaborating more effectively toward common goals. 
 
-### Minimal Viable Model (MVM)
+### Minimal Universal Model (MUM)
 _0. Embed Values._ Every community has the opportunity to decide which dimensions their reviewers will vote on, meaning that they can directly embed their values into the code. We suggest communities adopt the common dimension of "Gratitude" to facilitate cross-comparison between communities. Beyond this, each community is free to choose any number of dimensions, and dimensions can also evolve over time in response to evidence and feedback. 
 
 _1. Record._ Contributions are recorded in a transparent register of the community's choice. The scale and scope of records depends on the community, and members are incentivised to keep the register current, complete and accurate. 
@@ -55,7 +55,7 @@ Communities are also free to develop their own terms, standards, processes and a
 1. Gatherings. See [data and results](https://docs.google.com/spreadsheets/d/1HS7HFa9y6PfF61_wTuCAbj9RTHe94VLXulS0pDYgtns/edit?usp=sharing) from a [Open Heart + Mind (OHM)](https://github.com/openheartmind) gathering called Tiny OHM (see also [/reports](https://github.com/openheartmind/WISDOM/tree/main/reports)). We're also prototyping with [Vibe Camp](https://github.com/vibecamp) to review [contributions to Vibeclipse](https://docs.google.com/spreadsheets/d/1t1mzPUlnKUeTf_lUKJySg1yiL5AxLkMORp6L5ZHOTww/edit?usp=sharing).
 2. Conferences. See our [working prototype](https://docs.google.com/spreadsheets/d/1kQJM2kEVulzwXBQZuvR46wxaQY5_ohm0rbndIkdEkSE/edit?usp=sharing) to evaluate contributions to the 2023 AIMOS open/meta-science conference.
 4. Scholarly communication. Our model was originally designed to solve cultural inertia in the transition to open science platforms. If you work in the scholarly communication / evaluation space, we'd love to hear from you! 
-5. Literally any contribution to _any_ community. We think of WISDOM as a _minimal viable model_, meaning that it is both flexible and adaptable to different community needs. We're collecting a list of organisations interested in exploring the framework, please add your name [here](https://docs.google.com/spreadsheets/d/1XF9CagLX1WUXaPy-HDYlY4kZv8HZngEGu7lM6EQnvy4/edit?usp=sharing) if interested so we can get in touch.
+5. Literally any contribution to _any_ community. We think of WISDOM as a _minimal universal model_, meaning that it is both flexible and adaptable to different community needs. We're collecting a list of organisations interested in exploring the framework, please add your name [here](https://docs.google.com/spreadsheets/d/1XF9CagLX1WUXaPy-HDYlY4kZv8HZngEGu7lM6EQnvy4/edit?usp=sharing) if interested so we can get in touch.
 
 ### Development History
 - 2019-2021: WISDOM designed as a solution for cultural inertia in academia
