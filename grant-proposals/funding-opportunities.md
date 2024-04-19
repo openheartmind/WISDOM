@@ -9,6 +9,7 @@
 - ~~ACX-microgrant~~ applied 2023, not successful
 
 ... more options to research
+- Artizen https://x.com/artizenfund/status/1656757687135404032?s=46&t=wIrZlva3cipt8G7gs8KEvg
 - see suggestions [here](https://www.astralcodexten.com/p/so-you-want-to-run-a-microgrants?hide_intro_popup=true)
 - Fast Grants
 - Scott Aaronson ran a grants round recently
