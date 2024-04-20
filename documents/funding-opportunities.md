@@ -1,4 +1,8 @@
-(copied from FOK)
+# Funding Opportunities for WISDOM Framework
+### Fellowships
+- [FUTO Fellows](https://futo.org/fellows/)
+- [Open Science Fellows Program](https://en.wikiversity.org/wiki/Wikimedia_Deutschland/Open_Science_Fellows_Program)
+
 
 ### Fellowships (bold = applied, strikethrough = rejected) 
 * Mozilla Senior Fellowship (6 May 2024)
@@ -13,12 +17,22 @@
 * [Open Bioinformatics Foundation](https://www.open-bio.org/event-awards/) 
 
 ### Grants (bold = applied, strikethrough = rejected)
+* [Artizen](https://x.com/artizenfund/status/1656757687135404032?s=46&t=wIrZlva3cipt8G7gs8KEvg) 
+* [FUTO Legendary Grants](https://futo.org/grants/legendary-grants/)
 * https://www.reset.tech/open-calls/ -- disinformation pitch
 * [Mellon Foundation](https://www.mellon.org/article/grant-application-process)
 * [John Templeton small <$230k / large >230k](https://templeton.org/grants/grant-calendar) (August 16, 2024) 
 * ARC Discovery Early Career Researcher Award (13 March 2019) 
+- ~~ACX-microgrant~~ applied 2023, not successful
+
+### more options to research
+- see suggestions [here](https://www.astralcodexten.com/p/so-you-want-to-run-a-microgrants?hide_intro_popup=true)
+- Fast Grants
+- Scott Aaronson ran a grants round recently
+
 
 ### Need to check if still active
+* Gambling Community Benefit Fund (for OHM)
 * National Science Foundation (US)? 
 * Figshare? 
 * Arcadia https://www.arcadiafund.org.uk/,
@@ -34,8 +48,8 @@
 * [Gates Foundation](https://www.gatesfoundation.org/How-We-Work/General-Information/Grantseeker-FAQ)  
 * Arnold Foundation
 
-### Crowdfunding (bold = initiated)
-* GoFundMe.com, https://www.gofundme.com/f/rpjkz-test
+### Crowdfunding 
+* [GoFundMe.com](https://www.gofundme.com/f/rpjkz-test)
 * https://lets-fund.org/better-science/ (Chris Chambers used them for Registered Reports)
 * https://startsomegood.com/
 
