@@ -2,6 +2,7 @@
 
 ### Fellowships (bold = applied, strikethrough = rejected) 
 * Mozilla Senior Fellowship (6 May 2024)
+* [Open Future Fellows 2024](https://openfuture.eu/open-call-for-2024-open-future-fellows/) (rolling application)
 * [O’Shaughnessy Fellowships 2024](https://opportunitiesforyouth.org/2024/04/03/call-for-applications-oshaughnessy-fellowships-2024receive-100000-grant-and-awards/ ) (Receive $100,000 grant and awards)
 * [Sequoia Open Source Fellowhsip](https://www.sequoiacap.com/article/open-source-fellowship-applications/)
 * FUTO (rolling application)
