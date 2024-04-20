@@ -1,10 +1,6 @@
 # Funding Opportunities for WISDOM Framework
-### Fellowships
-- [FUTO Fellows](https://futo.org/fellows/)
-- [Open Science Fellows Program](https://en.wikiversity.org/wiki/Wikimedia_Deutschland/Open_Science_Fellows_Program)
-
-
 ### Fellowships (bold = applied, strikethrough = rejected) 
+- [FUTO Fellows](https://futo.org/fellows/)
 * Mozilla Senior Fellowship (6 May 2024)
 * [Open Future Fellows 2024](https://openfuture.eu/open-call-for-2024-open-future-fellows/) (rolling application)
 * [O’Shaughnessy Fellowships 2024](https://opportunitiesforyouth.org/2024/04/03/call-for-applications-oshaughnessy-fellowships-2024receive-100000-grant-and-awards/ ) (Receive $100,000 grant and awards)
@@ -57,5 +53,6 @@
 ### Discontinued 
 * ~~Creative Commons Community Activities Fund $1000 (anytime)~~
 * Welcome Open Research Fund, Full Application £50k (3 September 2019) https://wellcome.ac.uk/funding/open-research-fund -- [[submitted proposal]](https://docs.google.com/document/d/1D5Il4sEEeVZ56xURgkFZRWjjaThXEqZJ0JyDP1DNwDY/edit?usp=sharing)
+* [Open Science Fellows Program](https://en.wikiversity.org/wiki/Wikimedia_Deutschland/Open_Science_Fellows_Program)
 
 
