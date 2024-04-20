@@ -14,7 +14,8 @@
 * ARC/NHMRC 
 * [Mercatus Emergent Ventures](https://www.mercatus.org/emergentventures) (rolling application?)
 * [Moore Inventor Fellows](https://www.moore.org/initiative-strategy-detail?initiativeId=moore-inventor-fellows) (Nov 2024?)
-* [Open Bioinformatics Foundation](https://www.open-bio.org/event-awards/) 
+* [Open Bioinformatics Foundation](https://www.open-bio.org/event-awards/)
+* ... see also [this list](https://www.linkedin.com/pulse/list-fully-funded-fellowships-apply-xxtvf/)
 
 ### Grants (bold = applied, strikethrough = rejected)
 * [Artizen](https://x.com/artizenfund/status/1656757687135404032?s=46&t=wIrZlva3cipt8G7gs8KEvg) 
