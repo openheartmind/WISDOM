@@ -1,5 +1,6 @@
 Ideas for the WISDOM acronym:
 
+- Weighted Information Schema for Driving Open Science and Metascience
 - Weighted Information Schema for Diverse / Distributed Organisations and Metascience 
 - Weighted Information System for Disrupting Oligopolies and 
 - Weighted Information Standards for Data Organisation and Metascience
