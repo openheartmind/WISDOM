@@ -7,7 +7,7 @@ We're developing a universal framework for recognising and rewarding valuable co
 ### The Problem
 Fair recognition and reward are central challenges in collaborative efforts, especially in commons-oriented fields like open source and academia. An ideal system should capture, recognise and reward the unique qualities of every contribution, fostering trust and incentivising engagement. 
 
-Recognition and reward systems often fall short, however, failing to capture the full range of contributions, recognise their unique qualities, or reward contributors fairly. Furthermore, the diverse range and incompatibility of systems means that aligned communities often fail to cooperate, where they could otherwise be cooperating toward their shared goals. 
+Recognition and reward systems often fall short, however, failing to capture the full range of contributions, recognise their unique qualities, or reward contributors fairly. More broadly, the diverse range and incompatibility of systems means that aligned communities often fail to cooperate, where they could otherwise be cooperating toward their shared goals. 
 
 ### The WISDOM Solution
 WISDOM is a flexible framework designed to crack the code of cultural change. By creating a standardised, universal measure of gratitude for contributions, WISDOM aims to empower contributors and connect aligned communities in the pursuit of their common goals. 
