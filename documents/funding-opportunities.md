@@ -2,6 +2,7 @@
 
 ### Fellowships (bold = applied, strikethrough = rejected) 
 * Mozilla Senior Fellowship (6 May 2024)
+* [O’Shaughnessy Fellowships 2024](https://opportunitiesforyouth.org/2024/04/03/call-for-applications-oshaughnessy-fellowships-2024receive-100000-grant-and-awards/ ) (Receive $100,000 grant and awards)
 * [Sequoia Open Source Fellowhsip](https://www.sequoiacap.com/article/open-source-fellowship-applications/)
 * FUTO (rolling application)
 * [Weizenbaum Institute for the Networked Society](https://www.weizenbaum-institut.de/en/institute/work-and-career/fellowships/open-research-program/) (Sept 2024?)
