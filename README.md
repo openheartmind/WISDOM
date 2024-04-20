@@ -2,34 +2,28 @@
 
 Hi and welcome to the WISDOM revolution :)
 
-We're developing a universally applicable, standardised framework for recognising and rewarding contributions to any community, so that we can empower contributors, connect communities, and transition to a collaborative gift-based society. 
+We're developing a universal framework for recognising and rewarding valuable contributions to society, so that we can empower contributors and connect diverse communities with common goals.
 
-WISDOM stands for 
-**W**eighted
-**I**nformation 
-**S**chema for 
-**D**iverse / Distributed 
-**O**rganisations and 
-**M**etascience (or something like that... it's more the sentiment that counts).
+### The Problem
+Fair recognition and reward are central challenges in collaborative efforts, especially in commons-oriented fields like open source and academia. An ideal system should capture, recognise and reward the unique qualities of every contribution, fostering trust and incentivising engagement. 
 
-### The challenge of cultural change
-As our world grows increasingly interconnected, the need to learn from one another's experiences has never been greater. Yet, despite the wealth of knowledge all around us, most people remain resistant to actively sharing their insights and feedback. Entrenched cultural norms and technological inertia make it difficult to incentivize the behaviors needed to harness this collective wisdom.
+Recognition and reward systems often fall short, however, failing to capture the full range of contributions, recognise their unique qualities, or reward contributors fairly. Furthermore, the diverse range and incompatibility of systems means that aligned communities often fail to cooperate, where they could otherwise be cooperating toward their shared goals. 
 
 ### The WISDOM Solution
-WISDOM is a flexible framework designed to crack the code of cultural change. By providing an adaptable model for understanding individual and collective motivations and directly rewarding engagement, WISDOM empowers diverse communities to foster knowledge-sharing and collective growth. By directly rewarding contributors using transparent data and processes, WISDOM empowers contributors to decide how to deliver the best value for their community. 
+WISDOM is a flexible framework designed to crack the code of cultural change. By creating a standardised, universal measure of gratitude for contributions, WISDOM aims to empower contributors and connect aligned communities in the pursuit of their common goals. 
 
-At the heart of WISDOM is an inclusive review protocol that incentivises high-quality feedback about contributions, and generates a rich representation of the diverse qualities of every single contribution. Contributors are then rewarded with tokens reflecting the collective gratitude of the community, which can be paid forward to other people. Reliable reviewers and experts can also be respected via evidence-based metrics, providing a platform for those people we should be listening to. 
+At the heart of WISDOM is an inclusive review protocol that incentivises feedback about diverse contributions. This input is then converted into a rich information matrix, recognising the unique qualities of every recorded contribution. Contributors can then be rewarded with tokens representing the collective gratitude for their contibutions, which can be paid forward in thanks to other people in turn. Contributor expertise and reliability can also be expressed numerically, creating a platform for people who consistently deliver value to their community. 
 
-WISDOM aims to become a complete operating system for any community, integrating the key functions of _information sharing_, [_economics_](https://github.com/openheartmind/WISDOM/tree/main/documents) and [_governance_](https://github.com/openheartmind/WISDOM/blob/main/documents/governance.md). By connecting diverse communities under a common framework, WISDOM creates a universal language for sharing gratitude and collaborating more effectively toward common goals. 
+By integrating the three key functions of _information sharing_, [_economics_](https://github.com/openheartmind/WISDOM/tree/main/documents) and [_governance_](https://github.com/openheartmind/WISDOM/blob/main/documents/governance.md), WISDOM aims to become a complete 'community operating system' for literally _any_ community. 
 
 ### Minimal Viable Model (MVM)
-_0. Embed Values._ Every community can embed their values directly into the code. For the MVM, we suggest all communities adopt a common primary dimension of "Gratitude" to [facilitate cross-comparison](https://doi.org/10.3389/fncom.2012.00079). Beyond Gratitude, each community can define their own dimensions and evolve them in line with feedback and metascience conducted on the data. 
+_0. Embed Values._ Every community can embed their values directly into the code in the form of dimensions that reviewers vote on. WISDOM builds on [open evaluation models](https://doi.org/10.3389/fncom.2012.00079) that propose a common 'primary dimension' to facilitate cross-comparison between communities. Here, we propose "Gratitude" as the primary dimension because of its universal applicability and psychological benefits for communities who practice it. Beyond Gratitude, however, each community can define as many dimensions as they wish and evolve them in line with feedback and metaresearch on the data. 
 
 _1. Record._ Contributions are recorded in a transparent register of the community's choice. The scale and scope of records depends on the community, and members are incentivised to keep the register current, complete and accurate. 
 
-_2. Review._ WISDOM uses pairwise comparisons to generate ratings at the crowd-level. Pairwise comparisons are a quick, simple and user-friendly review protocol, ensuring that diverse people can contribute data, regardless of expertise or technical prowess. Anyone in the community can complete a pairwise comparison by voting between two contributions on each dimension of interest (e.g., "Which of these two contributions are you most grateful for?"). Reliable reviewers might also earn the status of '_meta-reviewer_', which entitles them to vote on the relative value of reviews themselves (termed a '_meta-review_'). 
+_2. Review._ WISDOM uses pairwise comparisons to generate ratings at the crowd-level. Pairwise comparisons are a quick, simple and user-friendly review protocol, ensuring that diverse people can contribute data, regardless of expertise or technical prowess. Anyone in the community can complete a pairwise comparison by voting between two contributions on each dimension of interest (e.g., "Which of these two contributions are you most grateful for?"). Reliable reviewers can also earn the status of '_meta-reviewer_', which entitles them to vote on the relative value of reviews themselves (termed a '_meta-review_'). 
 
-_3. Recognise._ Pairwise comparisons are relatively uniform, meaning that we can treat them as a 'standard unit' of contribution and use them to baseline the values of all other contributions. This is achieved by including a range of review contributions (e.g., 32, 64, and 128 pairwise comparisons) in the meta-review, fitting a function to the resulting votes, and interpolating values for all regular contributions (see _3. Recognise_ tab in our [pilot dataset](http://tiny.cc/tinyOHMresults)). The result is a numerical value representing the collective gratitude for every single contribution (see _Gratitude per contribution_ chart in our [pilot dataset](https://docs.google.com/spreadsheets/d/1HS7HFa9y6PfF61_wTuCAbj9RTHe94VLXulS0pDYgtns/edit?usp=sharing)). Communities who review on more than one dimension can generate a rich multi-dimensional representation of the unique qualities of each contribution at this stage (see _Contribution Qualities_ chart in our [pilot dataset](https://docs.google.com/spreadsheets/d/1HS7HFa9y6PfF61_wTuCAbj9RTHe94VLXulS0pDYgtns/edit?usp=sharing)).
+_3. Recognise._ Pairwise comparisons are relatively uniform, meaning that we can treat them as a 'standard unit' of contribution and use them to scale all other contributions. We do this by including a range of review contributions (e.g., 32, 64, and 128 pairwise comparisons) in the meta-review stage and fitting a function to the resulting votes, then interpolating values for all non-review contributions (see _3. Recognise_ tab in our [pilot dataset](http://tiny.cc/tinyOHMresults)). The result is a numerical value representing the collective gratitude for every single contribution (see _Gratitude per contribution_ chart in our [pilot dataset](https://docs.google.com/spreadsheets/d/1HS7HFa9y6PfF61_wTuCAbj9RTHe94VLXulS0pDYgtns/edit?usp=sharing)). Communities who include more than one review dimension can generate a multi-dimensional information matrix about each and every contribution (see _Contribution Qualities_ chart in our [pilot dataset](https://docs.google.com/spreadsheets/d/1HS7HFa9y6PfF61_wTuCAbj9RTHe94VLXulS0pDYgtns/edit?usp=sharing)), which is infinitely filterable and ideal as a high-signal training ground for AI models.
 
 _4. Reward._ Contributors are rewarded with tokens representing the collective gratitude for their contributions (see _OHMnoms per Contributor_ chart in our [pilot dataset](http://tiny.cc/tinyOHMresults)). Reviews are rewarded at the rate of 1 token per pairwise comparison (including all dimensions), and regular contributions are rewarded commensurate to the number of units on the Gratitude dimension (more complicated transfer functions could be explored in the future). Communities may agree to subtract common costs (e.g., the average cost of an event), leaving a balance that reflects each contributor’s total energetic exchange with the community (see _OHMnom Balances_ chart in our [pilot dataset](http://tiny.cc/tinyOHMresults)). Excess tokens can be paid forward to other people who the contributor wishes to thank in turn, forming the basis of an evidence-based gifting economy.
 
@@ -81,3 +75,14 @@ Note that our first two years of development were recorded in our transparent Cl
 
 ### About the Founder
 Cooper Smout is a designer, data scientist and lifelong student of human behavior. During his PhD he became fascinated with the problem of incentivising open science practices and founded the [worlds first collective action platform for researchers](https://freeourknowledge.org/), aiming to overcome cultural inertia through conditional pledges. Drawing on insights from this work, he then designed a novel model for scholarly communication that aimed to incentivise participation by generating prestige through AI-powered open evaluation. Realising that this model was likely too radical for risk-averse academics, and inspired by the creativity of Burning man-style events, he left academia to prototype in the safer, more dynamic and inclusive environment of [gift-based gatherings](https://doc.clickup.com/36615879/d/h/12xdp7-722/0579897aba652af), where he has been dancing and collaborating with amazing humans since. 
+
+### About the acronym
+
+WISDOM stands for 
+**W**eighted
+**I**nformation 
+**S**chema for 
+**D**iverse  
+**O**rganisations and 
+**M**etascience (or something like that... it's more the sentiment that counts).
+
