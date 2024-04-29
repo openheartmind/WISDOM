@@ -2,7 +2,7 @@
 
 Hi and welcome to the WISDOM revolution :)
 
-We're developing a universal framework for recognising and rewarding contributions to the commons, so that we can empower contributors and connect diverse communities with aligned goals.
+We're developing a universal open science framework for recognising and rewarding contributions to the commons, so that we can empower contributors and connect diverse communities with aligned goals. 
 
 ### The Problem
 Fair recognition and reward are central challenges in collaborative efforts, especially in commons-oriented fields like open source and academia. An ideal system should capture, recognise and reward the unique qualities of every contribution, fostering trust and incentivising engagement. 
