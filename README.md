@@ -90,5 +90,5 @@ Note that our first two years of development were recorded in our transparent Cl
 Cooper Smout is a designer, data scientist and lifelong student of human behavior. During his PhD he became fascinated with the problem of incentivising open science practices and founded the [worlds first collective action platform for researchers](https://freeourknowledge.org/), aiming to overcome cultural inertia through conditional pledges. Drawing on insights from this work, he then designed a novel model for scholarly communication that aimed to incentivise participation by generating prestige through AI-powered open evaluation. Realising that this model was likely too radical for risk-averse academics, and inspired by the creativity of Burning man-style events, he left academia to prototype in the safer, more dynamic and inclusive environment of [gift-based gatherings](https://doc.clickup.com/36615879/d/h/12xdp7-722/0579897aba652af), where he has been dancing and collaborating with amazing humans since. 
 
 ### About the Name
-WISDOM stands for Web3 Information Standards for Distributed Open science and Meta-research... or something like that (it's more the sentiment that counts). 
+WISDOM stands for Weighted Information Schema for Distributed Open science and Meta-research... or something like that (it's more the sentiment that counts). 
 
