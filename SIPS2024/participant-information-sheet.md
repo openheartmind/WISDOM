@@ -1,11 +1,11 @@
 # WISDOM x SIPS2024
 ## Participant information sheet
 
-### Researcher/s: 
+### Researcher/s 
 Cooper Smout -- project administrator ([Open Heart + Mind](https://linktr.ee/openheartmind); [IGDORE](https://igdore.org/)) 
 (additional researchers may be recruited via this form and updated here periodically)
 
-### Project:
+### Project
 Society for the Improvement of Psychological Science (SIPS) Annual Meeting 2024
 
 ### Introduction
@@ -29,7 +29,7 @@ Potential benefits to various stakeholders include:
 - metascientists and other researchers, who may benefit from prototyping a radically transparent information system
 - funders, who may benefit from prototyping an automated funding mechanism
 - other communities, who may adopt or fork the WISDOM framework
-- the public, who may benefit from the provision of a free, transparent, open source, replicable, dynamic, flexible and inclusive meta-communication system
+- the public, who may benefit from the development of a free, transparent, open source, replicable, dynamic, flexible and inclusive meta-communication system
 
 Participants may also benefit personally by receiving 'token' rewards that represent the collective gratitude of the community. In the future these tokens may have further uses within the SIPS community (e.g., paying for conference fees) and other communities (e.g., attending [OHM Gatherings](https://app.clickup.com/36615879/v/dc/12xdp7-722)), depending on the level of adoption and support. 
 
@@ -37,7 +37,7 @@ Participants may also benefit personally by receiving 'token' rewards that repre
 Reviewers may find the questions we ask stressful, such as rating and comparing contributions on sensitive dimensions of interest. Reviewers may also be exposed to criticism of their publicly shared reviews. Participants may feel that the reviews or tokens awarded do not fairly reflect the level of effort or value added to the community. In these circumstances, we encourage participants and reviewers to treat these valuations as imperfect reflections of the true value and to share these concerns in the interests of developing a fairer system, together.
 
 ### What will happen to the information about me?
-Data will be handled in accordance with the [License agreement at OHM](https://doc.clickup.com/36615879/d/h/12xdp7-382/ed51fc76f354e55). All non-personal data and outputs (e.g., contributions, reviews, data analyses, reports) will be made openly available via CC-BY licences. The username you provide will be associated with your contributions upon public release. Any personal information you provide (e.g., real name, email) will remain confidential and only accessible to the project administrators. 
+Data will be handled in accordance with the [OHM License agreement](https://doc.clickup.com/36615879/d/h/12xdp7-382/ed51fc76f354e55). All non-personal data and outputs (e.g., contributions, reviews, data analyses, reports) will be made openly available via CC-BY licences. The username you provide will be associated with your contributions upon public release. Any personal information you provide (e.g., real name, email) will remain confidential and only accessible to the project administrators. 
 
 ### What will happen if I decide to withdraw?
 Your participation in this research is voluntary and you are free to withdraw from the research anytime without penalty or need for explanation. If you choose to stop participating prior to the public release of the research data, all the information collected from/about you will be destroyed and will not be used in the research. If you choose to stop participating after the public release of this dataset, we will anonymise and/or hide your data in any public releases that we have control over from that point forward.
