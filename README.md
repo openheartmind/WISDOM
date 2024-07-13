@@ -7,10 +7,10 @@ We're developing a generalizable open scientific framework for recognising and r
 ### The Problem
 Fair recognition and reward are central challenges in collaborative efforts, especially in commons-oriented fields like open source and academia. An ideal system should capture, recognise and reward the unique qualities of every contribution, fostering trust and incentivising engagement. 
 
-Modern systems tend to be overly centralised, subjective, biased and/or unreliable, however, incentivising behaviours that reinforce the status quo rather than change it. More broadly, the use incompatible systems by ideologically aligned communities limits the capacity for pooling resources and skills in yhe pursuit of systemic change.
+Modern systems tend to be overly centralised, subjective, biased and/or unreliable, however, incentivising behaviours that reinforce the status quo rather than change it. More broadly, the use of incompatible systems limits the capacity for effective cooperation between organizations with aligned goals. 
 
 ### The WISDOM Solution
-WISDOM is a flexible framework designed to crack the code of cultural change. By creating a standardised, universal measure of gratitude for contributions, WISDOM aims to empower contributors and connect aligned communities in the pursuit of their common goals. 
+WISDOM is a flexible framework designed to crack the code of cultural change. By creating a standardised measure of gratitude for contributions, WISDOM aims to empower contributors and connect aligned communities in the pursuit of their common goals. 
 
 At the heart of WISDOM is an inclusive review protocol that incentivises feedback about diverse contributions. This input is then converted into a rich information matrix, recognising the unique qualities of every recorded contribution. Contributors can then be rewarded with tokens representing the collective gratitude for their contibutions, which can be paid forward in thanks to other people in turn. Contributor expertise and reliability can also be expressed numerically, creating a platform for people who consistently deliver value to their community. 
 
