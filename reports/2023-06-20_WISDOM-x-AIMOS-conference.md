@@ -48,6 +48,7 @@ The Polar Plot below shows each contribution as a coloured line, with scores on 
 **4. Reward.** TBD.
 **5. Respect.** TBD
 
+
 # Discussion
 
 ### Autonomous Valuation
