@@ -10,7 +10,7 @@ We made several upgrades to the prototype, based on learnings from our OHM exper
 ## Methods & Results
 ### Materials
 - [Contribution Survey form](https://forms.gle/nyAr8baUuQ23FdUK9)
-- [WISDOM Prototype](https://docs.google.com/spreadsheets/d/1kQJM2kEVulzwXBQZuvR46wxaQY5_ohm0rbndIkdEkSE/edit?usp=sharing), including tabs for [Contribution Record](https://docs.google.com/spreadsheets/d/1kQJM2kEVulzwXBQZuvR46wxaQY5_ohm0rbndIkdEkSE/edit?gid=1156578512#gid=1156578512), [Reviews](https://docs.google.com/spreadsheets/d/1kQJM2kEVulzwXBQZuvR46wxaQY5_ohm0rbndIkdEkSE/edit?gid=7517777#gid=7517777), [Meta-reviews](https://docs.google.com/spreadsheets/d/1kQJM2kEVulzwXBQZuvR46wxaQY5_ohm0rbndIkdEkSE/edit?gid=1777353795#gid=1777353795) and [Recognition metrics](https://docs.google.com/spreadsheets/d/1kQJM2kEVulzwXBQZuvR46wxaQY5_ohm0rbndIkdEkSE/edit?gid=1929743917#gid=1929743917))
+- [WISDOM Prototype](https://docs.google.com/spreadsheets/d/1kQJM2kEVulzwXBQZuvR46wxaQY5_ohm0rbndIkdEkSE/edit?usp=sharing) (including tabs for [Contribution Record](https://docs.google.com/spreadsheets/d/1kQJM2kEVulzwXBQZuvR46wxaQY5_ohm0rbndIkdEkSE/edit?gid=1156578512#gid=1156578512), [Reviews](https://docs.google.com/spreadsheets/d/1kQJM2kEVulzwXBQZuvR46wxaQY5_ohm0rbndIkdEkSE/edit?gid=7517777#gid=7517777), [Meta-reviews](https://docs.google.com/spreadsheets/d/1kQJM2kEVulzwXBQZuvR46wxaQY5_ohm0rbndIkdEkSE/edit?gid=1777353795#gid=1777353795) and [Recognition metrics](https://docs.google.com/spreadsheets/d/1kQJM2kEVulzwXBQZuvR46wxaQY5_ohm0rbndIkdEkSE/edit?gid=1929743917#gid=1929743917))
 - [Project board](https://github.com/orgs/openheartmind/projects/1)
 
 ### Participants
@@ -21,7 +21,7 @@ These methods will be presented in chronological order using the WISDOM framewor
 
 **0. Embed values.** Survey respondents nominated a range of values to be reflected in this research project. We visualised these responses as a [word cloud](https://drive.google.com/open?id=10N0Z2mfRE1JZ8SjMG4CnT_U2Xju_b9VQ&usp=drive_fs) and agreed to select the 5 most common words as dimensions in this study: _Generosity, Inclusivity, Transparency, Integrity,_  and _Creativity_. We also included _Gratitude_, as this was the only stable baseline dimension in our Tiny OHM Prototype and including it would enable comparison between datasets.
 
-<word-cloud>
+[word-cloud]
 
 **1. Record.** Survey respondents nominated a diverse range of conference contributions, including both visible contributions (e.g., talks, workshops) and less visible contributions that would normally go unnoticed (e.g., administration tasks). One person was nominated who "Made a really big effort during discussion breakouts to attend the group which had the lowest turnout, regardless of their own interests", demonstrating the inclusive nature of WISDOM. 
 
@@ -45,6 +45,7 @@ The Polar Plot below shows each contribution as a coloured line, with scores on 
 [picture]
 
 **4. Reward.** TBD.
+
 **5. Respect.** TBD
 
 
