@@ -1,9 +1,8 @@
 # WISDOM x Tiny OHM #1
 
-Tiny OHM #1 was a gift-based gathering held in Orleigh Park, West End, on 25th June 2022. It was a public event attended by well over 100 people and co-created by our diverse cOHMunity, featuring art, music, science and wellbeing offerings (see [here](https://github.com/openheartmind/WISDOM/blob/main/reports/2022-06-25_Tiny-OHM-1.md) for more details).
+Tiny OHM #1 was a gift-based gathering in June 2022, attended and adored by well over 100 people (see [here](https://openheartmind.org/tiny-ohm-1/?preview_id=1&preview_nonce=822c709527&preview=true)). Prior to the event, we used a partial version of the [WISDOM v2 model](https://github.com/openheartmind/WISDOM/blob/main/reports/WISDOM_v2.md) to review headline offerings, leaving out meta-reviews since they are not required to generate a simple rank-order of offerings. 
 
-### Open review model
-In our pre-event 'headliner' review, we used the updated [WISDOM v2 model](https://github.com/openheartmind/WISDOM/blob/main/reports/WISDOM_v2.md) but left out the meta-review component, since we were only interested in generating a ranked list for scheduling purposes. After the event, we conducted another open review of the actual contributions to the event, including both scheduled and non-scheduled contributions (e.g., food and drink, production). This second dataset included the unique feature of our model, _meta-reviews_, and thus became the first proof-of-concept dataset for the complete WISDOM v2 model.
+After the event, we conducted another review of actual event contributions, including both scheduled and non-scheduled contributions (e.g., food and drink, production and planning), and using the full WISDOM v2 model so that we could generate relative valuations of reviewed contributions. This second review round is the subject of the below report. 
 
 ## Methods
 ### Materials
