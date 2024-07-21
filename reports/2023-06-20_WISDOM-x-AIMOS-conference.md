@@ -1,5 +1,4 @@
-# WISDOM x AIMOS Conference
-
+### WISDOM x AIMOS Conference
 AIMOS is a meta-science and open science community who hosted their fifth annual conference at QUT in November 2023. Cooper hosted a discussion group to introduce OHM and invited participants to join in a new research project reviewing AIMOS contributions under the WISDOM system. After the conference, AIMOS attendees were sent a survey form inviting them to (a) nominate contributions, (b) consent to having their contributions reviewed, (c) nominate values to be reflected in the study, and (d) self-nominate as a reviewer or research team member.
 
 ### Prototype upgrades
