@@ -40,7 +40,11 @@ Reviewers vote between pairs of contributions on multiple dimensions of interest
 - 1 comparison question: "Overall, which are you more grateful for?"
 
 #### 3. Recognise
-TBD
+Method
+1. Votes within gratitude dimension tallied for each contribution
+2. Meta-review votes (also called Atomic Reviews) used to fit a function that converts votes into Gratitude Units (blue line in plot on [RECOGNIZE tab](https://docs.google.com/spreadsheets/d/1kQJM2kEVulzwXBQZuvR46wxaQY5_ohm0rbndIkdEkSE/edit?gid=1929743917#gid=1929743917))
+3. Gratitude units calculated for all contributions by interpolating this function (red dots in same plot)
+4. Other dimensions calculated using Gratitude as a baseline (e.g., Gratitude Units * Generosity votes / Gratitude votes)
 
 #### 4. Reward
 TBD
