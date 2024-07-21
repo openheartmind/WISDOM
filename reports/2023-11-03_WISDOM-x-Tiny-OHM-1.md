@@ -4,7 +4,9 @@ Tiny OHM #1 was a gift-based gathering in June 2022, attended and adored by well
 
 After the event, we conducted another review of actual event contributions, including both scheduled and non-scheduled contributions (e.g., food and drink, production and planning), and using the full WISDOM v2 model so that we could generate relative valuations of all contributions. This second review round is the subject of the below report. 
 
+
 ## Methods & Results
+
 ### Materials
 - [Post-Tiny OHM Survey TEMPLATE (open access)](https://docs.google.com/spreadsheets/d/1tkwqzx2RmbYZXYHtkanUfepgWaoiAusp5NAXUO5jKNc/edit?usp=sharing)
 - [Post-Tiny OHM Survey Backend (restricted)](https://docs.google.com/spreadsheets/d/1Z4Y0bLmKW8koYfsDj0iMaQP9yS4P6-WhScdvgzu4-wE/edit?usp=sharing)
@@ -22,7 +24,7 @@ Methods will be presented in chronological order using the main stages of WISDOM
 - “Which offering best supported the **OHM vision** and mission?”
 - “Which offering best supported our principle of **Diversity and Inclusion**?”_
 
-**1. Record.** Tiny OHM contributions were recorded in our transparent workspace, from which the research team selected a diverse sample of contributions to undergo review. 29 contributions were selected, including 26 event contributions (e.g., performances, volunteering) and 3 review contributions (completion of 1, 4 & 16 surveys, respectively). 
+**1. Record.** Tiny OHM contributions were recorded in our transparent workspace, from which the research team selected a diverse sample of contributions to undergo review. 30 contributions were selected, including 27 event contributions (e.g., performances, volunteering) and 3 review contributions (completion of 1, 4 & 16 surveys, respectively). 
 
 **2. Review.** Reviewers voted between pairs of contributions on each dimension of interest. There were 35 surveys in total: 26 regular surveys containing only event contributions, and 9 meta-review surveys containing event _and_ review contributions. Each survey contained 25 random pairs and was assigned to a single reviewer. Pairings were fully balanced, with every pair combination represented twice ('A vs B', and 'B vs A').
 
