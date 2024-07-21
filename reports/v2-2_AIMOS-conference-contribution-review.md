@@ -18,7 +18,7 @@ AIMOS is a meta-science and open science conference that was hosted at QUT in No
 ### Participants
 - 22 respondants to Contribution Survey form
 - 5 Research team members
-- X reviewers (ongoing at April 2024)
+- 10 reviewers
 
 ### Process
 These methods will be presented in chronological order using the WISDOM framework stages of Record, Review, Recognise, Reward, and Respect.
