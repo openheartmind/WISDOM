@@ -37,13 +37,13 @@ Meta-reviewers answered just one question when comparing event contributions to 
 
 **3. Recognise.** _Atomic Reviews_ were awarded one _Gratitude Unit_ each (blue dots) and meta-review votes were used to fit a function to convert votes into Gratitude Units. Gratitude units were then calculated for all other contributions by interpolating this function (red dots). 
 
-<picture>
+[picture]
 
 Scores in the Gratitude dimension were then used to normalise the other five dimensions (e.g., Gratitude Units * Generosity votes / Gratitude votes), generating a multi-dimensional representation of each contribution on the six dimensions of interest.
 
 The Polar Plot below shows each contribution as a coloured line, with scores on each dimension represented as a point on the relevant axis. You can see that "Created website" scored the highest on all dimensions, followed closely by "Create AIMOS-WISDOM prototype" (yes, we recognized our own work in running this study!). Conversely, "Attempting to balance attendance at breakout groups", mentioned above, was one of the lowest scoring contributions, but that person might still appreciate being acknoweldged and recognized for their efforts (see the data in more detail [here](https://docs.google.com/spreadsheets/d/1kQJM2kEVulzwXBQZuvR46wxaQY5_ohm0rbndIkdEkSE/edit?gid=1929743917#gid=1929743917)).
 
-<picture>
+[picture]
 
 **4. Reward.** TBD.
 **5. Respect.** TBD
