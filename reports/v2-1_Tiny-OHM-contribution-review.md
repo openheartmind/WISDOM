@@ -76,10 +76,6 @@ Community members can meet their needs by application or by trading OHMnoms for 
 - [Video recording](https://youtu.be/NHgG599NoSk?si=CKAcxIM36oMvLlPc) and [slides](https://docs.google.com/presentation/d/1PDAqqHFCZsq3-z8pjbRob9QhcJ7vnTFwHxqXcuwGs2s/edit?usp=sharing) from our presentation at AIMOS 2023 conference
 - TBC
 
-### Learnings
-- Pairwise comparisons are user-friendly
-  - Surveys rated as moderately easy (28%) or very easy (48%); and comfortable (46%) or neutral (50%)
-  - Average duration = 23 minutes (<1 min per comparison)
 - Successes:
   - Autonomous, community-controlled system
   - Transparent, replicable, inclusive, diverse
@@ -88,6 +84,11 @@ Community members can meet their needs by application or by trading OHMnoms for 
   - Did not identify all participants or contributions 
   - Skewed benchmarking for Uniqueness and Diversity
   - Could be improved with more meta-reviews (e.g., 2 & 8 surveys) or smarter ranking algorithm (e.g., ELO)
+
+### Learnings
+1. Inclusive. The survey was rated as moderately easy (28%) or very easy (48%); and comfortable (46%) or neutral (50%), suggesting that the new pairwise comparison format was user-friendly and inclusive. 
+2. Time-efficient. A single pairwise comparison took less than one minute to complete on average, meaning that reviewers can add a single datapoint in a modicum of time. 
+3. Gratitude is a stable baseline dimension. We also tested Uniqueness, Diversity and Inclusion, and alignment with the OHM Vision, but each of these exhibited instabilities during baselining and were instead baselined against the Gratitude dimension. 
 
 ### Next steps
 - Algorithm upgrades (ELO, priors)
