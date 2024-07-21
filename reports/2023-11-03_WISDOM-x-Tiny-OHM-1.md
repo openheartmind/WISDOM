@@ -1,6 +1,6 @@
 # WISDOM x Tiny OHM #1
 
-Tiny OHM #1 was our gift-based gathering in June 2022, attended and adored by well over 100 people (see [here](https://openheartmind.org/tiny-ohm-1/?preview_id=1&preview_nonce=822c709527&preview=true)). Prior to the event, we used a partial version of the [WISDOM v2 model](https://github.com/openheartmind/WISDOM/blob/main/reports/WISDOM_v2.md) to review headline offerings, leaving out meta-reviews since they were not required to rank-order offerings. 
+[Tiny OHM #1](https://openheartmind.org/tiny-ohm-1/?preview_id=1&preview_nonce=822c709527&preview=true) was our first opportunity to prototype our new pairwise comparison WISDOM model. Prior to the event, we used a partial version of the [WISDOM v2 model](https://github.com/openheartmind/WISDOM/blob/main/reports/WISDOM_v2.md) to review headline offerings, leaving out meta-reviews since they were not required to rank-order offerings. 
 
 After the event, we conducted another review of actual event contributions, including both scheduled and non-scheduled contributions (e.g., food and drink, production and planning), and using the full WISDOM v2 model so that we could generate relative valuations of all contributions. This second review round is the subject of the below report. 
 
