@@ -60,9 +60,9 @@ Experts and reliable reviewers are identified and acknowledged with numerical in
 - [Post-Tiny OHM Results](https://docs.google.com/spreadsheets/d/1HS7HFa9y6PfF61_wTuCAbj9RTHe94VLXulS0pDYgtns/edit?usp=sharing)
 
 ### Learnings
-1. Inclusive. The survey was rated as moderately easy (28%) or very easy (48%); and comfortable (46%) or neutral (50%), suggesting that the new pairwise comparison format was user-friendly and inclusive. 
-2. Time-efficient. A single pairwise comparison took less than one minute to complete on average, meaning that reviewers can add a single datapoint in a modicum of time. 
-3. Gratitude is a stable baseline dimension. We also tested Uniqueness, Diversity and Inclusion, and alignment with the OHM Vision, but each of these produced skewed results after baselining and were instead baselined against the Gratitude dimension. 
+1. **Inclusive**. The survey was rated as moderately easy (28%) or very easy (48%); and comfortable (46%) or neutral (50%), suggesting that the new pairwise comparison format was user-friendly and inclusive. 
+2. **Time-efficient**. A single pairwise comparison took less than one minute to complete on average, meaning that reviewers can add a single datapoint in a modicum of time. 
+3. **Gratitude** is a stable baseline dimension. We also tested Uniqueness, Diversity and Inclusion, and alignment with the OHM Vision, but each of these produced skewed results after baselining and were instead baselined against the Gratitude dimension. 
 
 ### Next steps
 - Algorithm upgrades (ELO, priors, filter by exposure)
