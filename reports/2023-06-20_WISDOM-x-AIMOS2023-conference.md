@@ -1,11 +1,5 @@
 ### WISDOM x AIMOS2023 Conference
-AIMOS2023 was a meta-research and open science conference held at QUT in November 2023. Cooper hosted a discussion group to introduce OHM and invited participants to join in a new research project reviewing AIMOS2023 contributions under the WISDOM system. After the conference, attendees were sent a survey form inviting them to (a) nominate contributions, (b) consent to having their contributions reviewed, (c) nominate values to be reflected in the study, and (d) self-nominate as a reviewer or research team member.
-
-### Prototype upgrades
-We made several upgrades to the prototype, based on learnings from our OHM experiments at OHM. Most notably, we:
-- removed sensitive info from backend and condensed multiple sheets into a single sheet
-- developed a pre-review process to select a representative sample of diverse contributions
-- selected dimensions of interest based on popular response from the community
+[AIMOS2023](https://openheartmind.org/aimos-conference-and-collaboration/) was both our first conference presentation for OHM and our first opportunity to explore the WISDOM framework with a new community and use case: peer-reviewing contributions to the AIMOS conference itself. In the months that followed, the research team met online multiple times to discuss various issues, prepare the prototype, and send it out for open review (see the [project board](https://github.com/orgs/openheartmind/projects/1) for details). The report below is a summary of this collaborative effort.
 
 ## Methods & Results
 ### Materials
@@ -13,28 +7,42 @@ We made several upgrades to the prototype, based on learnings from our OHM exper
 - [WISDOM Prototype](https://docs.google.com/spreadsheets/d/1kQJM2kEVulzwXBQZuvR46wxaQY5_ohm0rbndIkdEkSE/edit?usp=sharing) (including tabs for [Contribution Record](https://docs.google.com/spreadsheets/d/1kQJM2kEVulzwXBQZuvR46wxaQY5_ohm0rbndIkdEkSE/edit?gid=1156578512#gid=1156578512), [Reviews](https://docs.google.com/spreadsheets/d/1kQJM2kEVulzwXBQZuvR46wxaQY5_ohm0rbndIkdEkSE/edit?gid=7517777#gid=7517777), [Meta-reviews](https://docs.google.com/spreadsheets/d/1kQJM2kEVulzwXBQZuvR46wxaQY5_ohm0rbndIkdEkSE/edit?gid=1777353795#gid=1777353795) and [Recognition metrics](https://docs.google.com/spreadsheets/d/1kQJM2kEVulzwXBQZuvR46wxaQY5_ohm0rbndIkdEkSE/edit?gid=1929743917#gid=1929743917))
 - [Project board](https://github.com/orgs/openheartmind/projects/1)
 
+### Prototype upgrades
+We made several upgrades to the prototype, based on learnings from our Tiny OHM prototype. Most notably, we:
+- condensed individual surveys into a single spreadsheet so that all reviews and results can be seen together
+- developed a pre-review process to select a representative sample of diverse contributions
+- selected dimensions of interest based on popular response from the community
+- added a dynamically-updating token count to reward reviewers as they completed reviews
+
 ### Participants
-22 people responded to our Contribution Survey form, including 5 who elected to join the research team and 10 who elected to become reviewers.
+After the conference, attendees were sent a survey form inviting them to (a) nominate contributions to the conference, (b) consent to having their contributions reviewed, (c) nominate values to be reflected in the study, and (d) self-nominate as a reviewer or research team member. 22 people responded to our Contribution Survey form, including 5 who elected to join the research team and 10 who elected to become reviewers.
 
 ### Procedure
-These methods will be presented in chronological order using the WISDOM framework stages of Embed values, Record, Review, Recognise, Reward, and Respect.
+These methods will be presented in chronological order using the new WISDOM stages of Value, Record, Review, Recognise, Reward, and Respect.
 
-**0. Embed values.** Survey respondents nominated a range of values to be reflected in this research project. We visualised these responses as a [word cloud](https://drive.google.com/open?id=10N0Z2mfRE1JZ8SjMG4CnT_U2Xju_b9VQ&usp=drive_fs) and agreed to select the 5 most common words as dimensions in this study: _Generosity, Inclusivity, Transparency, Integrity,_  and _Creativity_. We also included _Gratitude_, as this was the only stable baseline dimension in our Tiny OHM Prototype and including it would enable comparison between datasets.
+#### 0. Choose Values
+Survey respondents nominated a range of values to be reflected in this research project. We visualised these responses as a semantic word cloud and the research team agreed to use the 5 most popular words as dimensions in this study: _Generosity, Inclusivity, Transparency, Integrity,_  and _Creativity_. We also included _Gratitude_ as the baseline dimension, since this was the only stable baseline dimension in our Tiny OHM Prototype and including it would enable comparison between datasets.
 
 [word-cloud]
 
-**1. Record.** Survey respondents nominated a diverse range of conference contributions, including both visible contributions (e.g., talks, workshops) and less visible contributions that would normally go unnoticed (e.g., administration tasks). One person was nominated who "Made a really big effort during discussion breakouts to attend the group which had the lowest turnout, regardless of their own interests", demonstrating the inclusive nature of WISDOM. 
+#### 1. Record
+Survey respondents nominated a diverse range of conference contributions, including both visible contributions (e.g., talks, workshops) and less visible contributions that would normally go unnoticed (e.g., administration tasks). One person was nominated who "Made a really big effort during discussion breakouts to attend the group which had the lowest turnout, regardless of their own interests", demonstrating the inclusive nature of WISDOM. 
 
-The research team then completed a pre-review process to select contributions for review. CS estimated the vaue of each contribution in OHMnoms. CS & AF added tags to each contribution. CS & AF created histograms to show diversity of selected contributions. CS selected a range of contributions, aiming to create a normal distribution of OHMnom estimates and a diverse selection of contributors and tags ((see 'preprocessing' tab [here](https://docs.google.com/spreadsheets/d/1kQJM2kEVulzwXBQZuvR46wxaQY5_ohm0rbndIkdEkSE/edit?usp=sharing)). 
+The research team then completed a pre-review process to select a subset of contributions for review. CS predicted the vaue of each contribution in Gratitude Units. CS & AF added tags to each contribution. CS & AF created histograms to show diversity of selected contributions. CS then selected a range of contributions, aiming to create a normal distribution across Gratitude scores and a representative sample across contributors and tags (see ['preprocessing' tab](https://docs.google.com/spreadsheets/d/1kQJM2kEVulzwXBQZuvR46wxaQY5_ohm0rbndIkdEkSE/edit?gid=1750896307#gid=1750896307)). 
  
-
-**2. Review.** Ten survey respondents elected to become reviewers, completing a total of 936 pairwise comparison review sets between them. Reviewers completed between 10 and 215 reviews each. Reviewers voted between pairs of conference contributions on the following 6 questions:
+#### 2. Review
+Ten survey respondents elected to become reviewers, completing a total of 936 pairwise comparison review sets (X regular reviews, X metareviews. Reviewers completed between 10 and 215 reviews each. Regular reviewers voted between pairs of conference contributions on the following 6 questions:
 - 1-5: "Select the contribution that demonstrates more... Generosity / Inclusivity / Transparency /	Integrity /	Creativity"
 - 6: "Overall, which are you more grateful for?"
 
+[review picture]
+
 Meta-reviewers answered just one question when comparing event contributions to review contributions: "Overall, which are you more grateful for?"
 
-**3. Recognise.** _Atomic Reviews_ were awarded one _Gratitude Unit_ each (blue dots) and meta-review votes were used to fit a function to convert votes into Gratitude Units. Gratitude units were then calculated for all other contributions by interpolating this function (red dots). 
+[meta-review picture]
+
+#### 3. Recognise
+_Atomic Reviews_ were awarded one _Gratitude Unit_ each (blue dots) and meta-review votes were used to fit a function to convert votes into Gratitude Units. Gratitude units were then calculated for all other contributions by interpolating this function (red dots). 
 
 [picture]
 
@@ -44,21 +52,25 @@ The Polar Plot below shows each contribution as a coloured line, with scores on 
 
 [picture]
 
-**4. Reward.** TBD.
+#### 4. Reward (TBD)
 
-**5. Respect.** TBD
-
+#### 5. Respect (TBD)
 
 # Discussion
 
 ### Autonomous Valuation
-The key point to note here is that no one person was in charge of generating these scores, everyone was invited to participate in an inclusive review protocol that required minimal expertise or time to complete, and all reviewers were _directly and immediately rewarded_ for their valuable review data. The review data and recognition scores are then a public good that could be utilised by users and the community in a myriad of ways.
+The key point to note here is that no one person was in charge of generating the ratings, everyone was invited to participate in an inclusive review protocol that required minimal expertise or time to complete, and all reviewers were _directly and immediately rewarded_ for their valuable review data. The review data and recognition scores become a public good that could be utilised by users and the community in a myriad of ways.
 
 ### Incentivizing contributions
-Already, we have the beginnings of an incentive mechanism. Future contributors could use this dataset to predict how their contributions will be received by the community. We also have the beginnings of a <i>replicable template</i>, whereby future conference organizers could use this data to plan and assign tasks to the organizing team, or let the crowd self-select tasks based on their own abilities.  
+Already, we have the beginnings of an incentive mechanism. Future contributors could use this dataset to predict how their contributions will be received by the community. We also have the beginnings of a _replicable template_, whereby future conference organizers could use this data to plan and assign tasks to the organizing team, or let the crowd self-select tasks based on their own abilities.  
+
+# Conclusion
+The AIMOS prototype marked the first generalization of WISDOM outside of OHM and proof-of-concept for use in academia. We validated interest in the framework and developed a proof-of-concept for ratings diverse contributions within academia. 
 
 ### An evolving experiment
-The AIMOS prototype is a dynamically evolving experiment, much like the WISDOM framework in general. Future work will explore relationships between the dimensions and other [research questions](https://docs.google.com/spreadsheets/d/1kQJM2kEVulzwXBQZuvR46wxaQY5_ohm0rbndIkdEkSE/edit?gid=1589203329#gid=1589203329), and generate Reward and Respect metrics for our contributors, reviewers and meta-reviewers. If there's any research questions you think we should explore, we'd love to hear from you! 
+The AIMOS prototype is a dynamically evolving experiment, much like the WISDOM framework in general. Future work will explore relationships between the dimensions and other [research questions](https://docs.google.com/spreadsheets/d/1kQJM2kEVulzwXBQZuvR46wxaQY5_ohm0rbndIkdEkSE/edit?gid=1589203329#gid=1589203329), and generate Reward and Respect metrics for our contributors, reviewers and meta-reviewers. 
+
+If there's any research questions you think we should explore, we'd love to hear from you! 
 
 
 ~~~
