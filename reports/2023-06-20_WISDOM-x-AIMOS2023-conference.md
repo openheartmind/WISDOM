@@ -1,5 +1,5 @@
-## WISDOM x AIMOS2023 Conference
-[AIMOS2023](https://openheartmind.org/aimos-conference-and-collaboration/) was both our first conference presentation for OHM and our first opportunity to explore the WISDOM framework with a new community and use case: peer-reviewing contributions to the AIMOS conference itself. In the months that followed, the research team met online multiple times to discuss various issues, prepare the prototype, and send it out for open review (see the [project board](https://github.com/orgs/openheartmind/projects/1) for details). The report below is a summary of this collaborative effort.
+## WISDOM x AIMOS 2023
+[AIMOS2023](https://openheartmind.org/aimos-conference-and-collaboration/) was both the first conference we presented OHM at and our first opportunity to generalize WISDOM, by peer-reviewing contributions to the AIMOS conference itself. In the months that followed, AIMOS members formed a research team and met online to discuss various issues, prepare the prototype, and send it out for open review (see the [project board](https://github.com/orgs/openheartmind/projects/1) for details). The report below is a summary of this collaborative effort.
 
 ## Methods & Results
 ### Materials
