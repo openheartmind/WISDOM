@@ -20,17 +20,17 @@ After the conference, attendees were sent a survey form inviting them to (a) nom
 ### Procedure
 These methods will be presented in chronological order using the new WISDOM stages of Value, Record, Review, Recognise, Reward, and Respect.
 
-#### 0. Choose Values
+##### 0. Choose Values
 Survey respondents nominated a range of values to be reflected in this research project. We visualised these responses as a semantic word cloud and the research team agreed to use the 5 most popular words as dimensions in this study: _Generosity, Inclusivity, Transparency, Integrity,_  and _Creativity_. We also included _Gratitude_ as the baseline dimension, since this was the only stable baseline dimension in our Tiny OHM Prototype and including it would enable comparison between datasets.
 
 [word-cloud]
 
-#### 1. Record
+##### 1. Record
 Survey respondents nominated a diverse range of conference contributions, including both visible contributions (e.g., talks, workshops) and less visible contributions that would normally go unnoticed (e.g., administration tasks). One person was nominated who "Made a really big effort during discussion breakouts to attend the group which had the lowest turnout, regardless of their own interests", demonstrating the inclusive nature of WISDOM. 
 
 The research team then completed a pre-review process to select a subset of contributions for review. CS predicted the vaue of each contribution in Gratitude Units. CS & AF added tags to each contribution. CS & AF created histograms to show diversity of selected contributions. CS then selected a range of contributions, aiming to create a normal distribution across Gratitude scores and a representative sample across contributors and tags (see ['preprocessing' tab](https://docs.google.com/spreadsheets/d/1kQJM2kEVulzwXBQZuvR46wxaQY5_ohm0rbndIkdEkSE/edit?gid=1750896307#gid=1750896307)). 
  
-#### 2. Review
+##### 2. Review
 Ten survey respondents elected to become reviewers, completing a total of 936 pairwise comparison review sets (X regular reviews, X metareviews. Reviewers completed between 10 and 215 reviews each. Regular reviewers voted between pairs of conference contributions on the following 6 questions:
 - 1-5: "Select the contribution that demonstrates more... Generosity / Inclusivity / Transparency /	Integrity /	Creativity"
 - 6: "Overall, which are you more grateful for?"
@@ -41,7 +41,7 @@ Meta-reviewers answered just one question when comparing event contributions to 
 
 [meta-review picture]
 
-#### 3. Recognise
+##### 3. Recognise
 _Atomic Reviews_ were awarded one _Gratitude Unit_ each (blue dots) and meta-review votes were used to fit a function to convert votes into Gratitude Units. Gratitude units were then calculated for all other contributions by interpolating this function (red dots). 
 
 [picture]
@@ -52,9 +52,9 @@ The Polar Plot below shows each contribution as a coloured line, with scores on 
 
 [picture]
 
-#### 4. Reward (TBD)
+##### 4. Reward (TBD)
 
-#### 5. Respect (TBD)
+##### 5. Respect (TBD)
 
 ## Discussion
 
@@ -67,7 +67,7 @@ Already, we have the beginnings of an incentive mechanism. Future contributors c
 ### Limitations
 As with the Tiny OHM prototype, we restricted the review to a subset of all contributions, since reviewing all contributions would result in a combinatorial explosion of pairings under the fully balanced pairwise design. 
 
-# Conclusion
+## Conclusion
 The AIMOS prototype marked the first generalization of WISDOM outside of OHM and proof-of-concept for use in academia. We validated interest in the framework and developed a proof-of-concept for rating diverse contributions to an academic conference. Future conference organisers might find this dataset useful for planning purposes or for recognizing contributors. Future efforts could expand on this prototype to explore other use cases, such as rating contributions to a paper, contributions to a research group, or contributions to an entire research field (e.g., papers, data, code). In all cases, it will be valuable to explore more advanced algorithms that can handle a larger set of contributions without an excessive burden of time on reviewers.
 
 ### Work in progress
