@@ -65,7 +65,7 @@ Financial costs were also subtracted from balances, serving as a proof-of-concep
 - Compare pre-vs post-event (‘super predictors’)
 - Present at AIMOS conference 
 
-### Conclusion
+## Conclusion
 This experiment marked the first proof-of-concept for the complete WISDOM v2 model. In general it was a success, demonstrating an autonomous, inclusive, community-controlled system that can generate multidimensional ratings across diverse contributions. We generated estimates for each contribution category, including an OHMnom/$ rate for financial donations. The reviewed contributions represent only a partial sample of all contributions, however, demonstrating a need to improve recording processes and develop more efficient algorithms that can handle more contributions without a full balancing of all contribution pairings. Nevertheless, the results mark our first step toward an autonomous gathering template, which might one day be used to organise similar gatherings in a decentralised, autonomous fashion. 
 
 ### EDITS
