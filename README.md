@@ -15,7 +15,7 @@ WISDOM is a flexible framework designed to crack the code of cultural change. By
 At the heart of WISDOM is an inclusive review protocol that incentivises feedback about diverse contributions. This input is then converted into a rich information matrix, recognising the unique qualities of every recorded contribution. Contributors can then be rewarded with tokens representing the collective gratitude for their contibutions, which can be paid forward in thanks to other people in turn. Contributor expertise and reliability can also be expressed numerically, creating a platform for people who consistently deliver value to their community. 
 
 ### Minimal Viable Model (MVM)
-_0. Embed Values._ Every community can embed their values directly into the code in the form of dimensions that reviewers vote on. WISDOM builds on previous [open evaluation models](https://doi.org/10.3389/fncom.2012.00079) that suggest a common 'primary dimension' can facilitate cross-comparison between communities. We propose "Gratitude" as the primary dimension because of its universal applicability and psychological benefits for communities of practice, but communities are free to choose any number of dimensions that reflect their values and particular use cases. 
+_0. Choose Values._ Every community can embed their values directly into the code in the form of dimensions that reviewers vote on. WISDOM builds on previous [open evaluation models](https://doi.org/10.3389/fncom.2012.00079) that suggest a common 'primary dimension' can facilitate cross-comparison between communities. We propose "Gratitude" as the primary dimension because of its universal applicability and psychological benefits for communities of practice, but communities are free to choose any number of dimensions that reflect their values and particular use cases. 
 
 _1. Record._ Contributions are recorded in a transparent register of the community's choice. The scale and scope of records depends on the community, and members are incentivised to keep the register current, complete and accurate. 
 
@@ -38,7 +38,7 @@ _6. Replicate and Repeat._ All of the above processes should be conducted transp
 - _Diverse_. Our framework is flexible, scaleable and can be customised to the needs of different communities.
 - _Honest_. Transparent reviews and reliability metrics encourage honesty and guard against cheats. 
 
-### A Universal Framework
+### A Generalizable Framework
 WISDOM is designed to be maximally inclusive to all communities. The MVM above is the simplest model possible for capturing quantitative meta-information -- information about the relative value of information. There are of course more nuanced ways to conduct reviews, but all of these can be considered derivatives of the MVM and could be valued accordingly (e.g., by valuing a lengthy written review in an equivalent number of pairwise comparisons). Communities are free to develop their own extensions to the core model, ideally sharing these developments publicly so that other communities can also adopt those extensions that make sense for them (and thanking each other accordingly). 
 
 Each community can then decide which other communities to cooperate and trade tokens with, by assessing their transparent processes and data and deciding (if necessary) a relative weighting for the respective tokens. Providing that all communities adopt the MVM we present here, it would create a fundamental communication layer both within and between communities that directly encodes gratitude and facilitates cooperation toward common goals.
