@@ -1,6 +1,6 @@
 _Note this is a duplicate of the website post, please keep both updated together. This is simplest by editing here, then copy pasting the formatted text into the Elementor content editor window (white box on the left)_
 
-# WISDOM x Tiny OHM #1
+## WISDOM x Tiny OHM #1
 
 [Tiny OHM #1](https://openheartmind.org/tiny-ohm-1/?preview_id=1&preview_nonce=822c709527&preview=true) was our first opportunity to prototype our new pairwise comparison WISDOM model. Prior to the event, we used a partial version of the [WISDOM v2 model](https://github.com/openheartmind/WISDOM/blob/main/reports/WISDOM_v2.md) to review headline offerings, leaving out meta-reviews since they were not required to rank-order offerings. 
 
