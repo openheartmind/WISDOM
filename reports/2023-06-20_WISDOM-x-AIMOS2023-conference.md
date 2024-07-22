@@ -1,4 +1,4 @@
-### WISDOM x AIMOS2023 Conference
+## WISDOM x AIMOS2023 Conference
 [AIMOS2023](https://openheartmind.org/aimos-conference-and-collaboration/) was both our first conference presentation for OHM and our first opportunity to explore the WISDOM framework with a new community and use case: peer-reviewing contributions to the AIMOS conference itself. In the months that followed, the research team met online multiple times to discuss various issues, prepare the prototype, and send it out for open review (see the [project board](https://github.com/orgs/openheartmind/projects/1) for details). The report below is a summary of this collaborative effort.
 
 ## Methods & Results
@@ -56,7 +56,7 @@ The Polar Plot below shows each contribution as a coloured line, with scores on 
 
 #### 5. Respect (TBD)
 
-# Discussion
+## Discussion
 
 ### Autonomous Valuation
 The key point to note here is that no one person was in charge of generating the ratings, everyone was invited to participate in an inclusive review protocol that required minimal expertise or time to complete, and all reviewers were _directly and immediately rewarded_ for their valuable review data. The review data and recognition scores become a public good that could be utilised by users and the community in a myriad of ways.
@@ -64,13 +64,14 @@ The key point to note here is that no one person was in charge of generating the
 ### Incentivizing contributions
 Already, we have the beginnings of an incentive mechanism. Future contributors could use this dataset to predict how their contributions will be received by the community. We also have the beginnings of a _replicable template_, whereby future conference organizers could use this data to plan and assign tasks to the organizing team, or let the crowd self-select tasks based on their own abilities.  
 
+### Limitations
+As with the Tiny OHM prototype, we restricted the review to a subset of all contributions, since reviewing all contributions would result in a combinatorial explosion of pairings under the fully balanced pairwise design. 
+
 # Conclusion
-The AIMOS prototype marked the first generalization of WISDOM outside of OHM and proof-of-concept for use in academia. We validated interest in the framework and developed a proof-of-concept for ratings diverse contributions within academia. 
+The AIMOS prototype marked the first generalization of WISDOM outside of OHM and proof-of-concept for use in academia. We validated interest in the framework and developed a proof-of-concept for rating diverse contributions to an academic conference. Future conference organisers might find this dataset useful for planning purposes or for recognizing contributors. Future efforts could expand on this prototype to explore other use cases, such as rating contributions to a paper, contributions to a research group, or contributions to an entire research field (e.g., papers, data, code). In all cases, it will be valuable to explore more advanced algorithms that can handle a larger set of contributions without an excessive burden of time on reviewers.
 
-### An evolving experiment
-The AIMOS prototype is a dynamically evolving experiment, much like the WISDOM framework in general. Future work will explore relationships between the dimensions and other [research questions](https://docs.google.com/spreadsheets/d/1kQJM2kEVulzwXBQZuvR46wxaQY5_ohm0rbndIkdEkSE/edit?gid=1589203329#gid=1589203329), and generate Reward and Respect metrics for our contributors, reviewers and meta-reviewers. 
-
-If there's any research questions you think we should explore, we'd love to hear from you! 
+### Work in progress
+The AIMOS prototype is a dynamically evolving experiment, much like the WISDOM framework in general. Ongoing work will explore relationships between the dimensions and other [research questions](https://docs.google.com/spreadsheets/d/1kQJM2kEVulzwXBQZuvR46wxaQY5_ohm0rbndIkdEkSE/edit?gid=1589203329#gid=1589203329), along with Reward and Respect metrics for contributors and reviewers. If there's any research questions you think we should explore, we'd love to hear from you! 
 
 
 ~~~
