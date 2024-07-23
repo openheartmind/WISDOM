@@ -5,19 +5,19 @@ Hi and welcome to the WISDOM system :)
 We're developing a generalizable open scientific framework for recognising and rewarding contributions to the commons, so that we can empower contributors and connect diverse communities with aligned goals. 
 
 ### The Problem
-Fair recognition and reward are central challenges in collaborative efforts, especially in commons-oriented fields like open source and academia. An ideal system should capture, recognise and reward the unique qualities of every contribution, fostering trust and incentivising engagement. 
+Fair recognition and reward are central challenges in collaborative efforts, especially in commons-oriented fields like art, open source and academia. An ideal system should capture, recognise and reward the unique qualities of every contribution, fostering trust and incentivising engagement. 
 
 Modern systems tend to be overly centralised, subjective, biased and/or unreliable, however, incentivising behaviours that reinforce the status quo rather than change it. More broadly, the use of incompatible systems limits the capacity for effective cooperation between organizations with aligned goals. 
 
-### The WISDOM Solution
+### Our Solution
 WISDOM is a flexible framework designed to crack the code of cultural change. By creating a standardised measure of gratitude for contributions, WISDOM aims to empower contributors and connect aligned communities in the pursuit of their common goals. 
 
-At the heart of WISDOM is an inclusive review protocol that incentivises feedback about diverse contributions. This input is then converted into a rich information matrix, recognising the unique qualities of every recorded contribution. Contributors can then be rewarded with tokens representing the collective gratitude for their contibutions, which can be paid forward in thanks to other people in turn. Contributor expertise and reliability can also be expressed numerically, creating a platform for people who consistently deliver value to their community. 
+At the heart of WISDOM is an inclusive review protocol that incentivises feedback about diverse contributions. This input is then converted into a multidimensional representation of the unique qualities of every recorded contribution. Contributors can then be rewarded with tokens representing the collective gratitude for their contibutions, which can be paid forward in thanks to other people in turn. Contributor expertise and reliability can also be expressed numerically, creating a platform for people who consistently deliver value to their community. 
 
 ### Minimal Viable Model (MVM)
-_0. Choose Values._ Every community can embed their values directly into the code in the form of dimensions that reviewers vote on. WISDOM builds on previous [open evaluation models](https://doi.org/10.3389/fncom.2012.00079) that suggest a common 'primary dimension' can facilitate cross-comparison between communities. We propose "Gratitude" as the primary dimension because of its universal applicability and psychological benefits for communities of practice, but communities are free to choose any number of dimensions that reflect their values and particular use cases. 
+_0. Select Dimensions._ Communities can embed their values directly into the code by choosing the dimensions that contributions are rated on. WISDOM builds on previous [open evaluation models](https://doi.org/10.3389/fncom.2012.00079) that suggest a common 'primary dimension' can facilitate cross-comparison between communities. We propose "Gratitude" as the primary dimension because of its universal applicability and psychological benefits for communities of practice, but communities are free to choose any number of dimensions that reflect their values and particular use cases. 
 
-_1. Record._ Contributions are recorded in a transparent register of the community's choice. The scale and scope of records depends on the community, and members are incentivised to keep the register current, complete and accurate. 
+_1. Record._ Contributions are recorded in a transparent register of the community's choice. The scale and scope of recorded contributions depends on the community, and members are incentivised to keep the register current, complete and accurate. 
 
 _2. Review._ WISDOM uses pairwise comparisons to generate ratings at the crowd-level. Pairwise comparisons are a quick, simple and user-friendly review protocol, making them inclusive to diverse people irrespective of expertise or technical prowess. Anyone in the community can complete a pairwise comparison by voting between two contributions on each dimension of interest (e.g., "Which of these two contributions are you most grateful for?"). Reliable reviewers can also earn the status of '_meta-reviewer_', which entitles them to vote on the relative value of reviews themselves (termed a '_meta-review_'). 
 
@@ -27,7 +27,8 @@ _4. Reward._ Contributors can then be rewarded with tokens representing the coll
 
 _5. Respect._ By measuring contributions over time, we can generate metrics reflecting reviewer reliability and expertise within the community. Reviewer reliability can be measured using a range of measures (e.g., test-retest reliability, internal consistency), and trustworthy reviewers can be elevated to the status of _meta-reviewer_ (see _Reviewer Reliability_ chart in our [pilot dataset](https://docs.google.com/spreadsheets/d/1HS7HFa9y6PfF61_wTuCAbj9RTHe94VLXulS0pDYgtns/edit?usp=sharing)). Experts in particular fields and topics can be identified by tracking the value they add to that field over time (e.g., see _Expertise: Science_ chart in our [pilot dataset](https://docs.google.com/spreadsheets/d/1HS7HFa9y6PfF61_wTuCAbj9RTHe94VLXulS0pDYgtns/edit?usp=sharing)). Collectively, these metrics could form the basis of a merit-based participatory democracy algorithm, in which votes are weighted according to each person's validated expertise in the topic of interest. 
 
-_6. Replicate and Repeat._ All of the above processes should be conducted transparently and shared with the community, so that everyone can learn and grow together. The final stage is therefore to replicate the previous materials, embed any learnings, and repeat the process again. 
+### Replicate and Repeat
+All of the above processes should be conducted transparently and shared with the community, so that everyone can learn and grow together. The final stage is therefore to replicate the previous materials, embed any learnings, and repeat the process again. 
 
 ### Principles and Features
 - _Transparent_. Contributions and reviews are shared publicly, so you know what's going on behind the scenes.
