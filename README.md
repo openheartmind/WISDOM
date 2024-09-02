@@ -82,7 +82,7 @@ Note that our first two years of development were recorded in our transparent Cl
 ### Roadmap (work in progress)
 - Apr 2024: Networking tour of North America and Colombia
 - June 2024: Presenting at [SIPS conference](https://www.improvingpsych.org/SIPS2024/) (Kenya)
-- Sept 2024: OHM Gathering 2024?
+- Nov 2024: Presenting at AIMOS conference (Canberra)
 
 ### About OHM
 [Open Heart + Mind (OHM)](https://github.com/openheartmind) is a diverse community who have been prototyping the WISDOM framework since 2022 at our inclusive gift-based gatherings. We endeavour to make all of our documents, contributions, reviews and other materials publicly available under [open source licenses](https://doc.clickup.com/36615879/d/h/12xdp7-382/ed51fc76f354e55), but for the first two years chose to prototype in a third-party app called Clickup for reasons of usability and accessibility for our cOHMunity (contact if you'd like access). Github Projects has come a long way since then, however, and so we're now beginning the migration back to Github so we can be as open as we'd always intended to be. We're also developing an app (WisdOHM) that is our particular instantiation of the WISDOM framework and we're in the process of making open source. 
