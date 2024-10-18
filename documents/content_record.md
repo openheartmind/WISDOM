@@ -17,3 +17,15 @@ WISDOM (Weighted Information Schema for Distributed Open Metrics) is an open rev
 At the heart of WISDOM is an inclusive review protocol that earns reviewers immediate rewards for their reviews, which are converted into group-level estimates of the relative value of contributions. Contributors can then be directly rewarded for the value they provide, and respected for their proven expertise and reliability. The entire process is open, decentralized and autonomous, ensuring everyone can participate, while guarding against bias and cheating through a self-reflective meta-review process.
 
 Learn more by watching this video introduction, reading about our experiments at Open Heart + Mind, or by viewing our README.
+
+### AIMOS 2024 Hackathon
+#### Reviewing, recognising and rewarding diverse contributions to the AIMOS conference
+The Weighted Information Schema for Distributed Open Merit (WISDOM) is an open science and meta-research framework for estimating the relative value of contributions to diverse communities. It features an inclusive review protocol and a decentralised, autonomous process to estimate contribution value, which can be used to recognise, reward and respect contributors for the value they create. 
+
+In this hackathon, we’ll use WISDOM to review and recognise diverse contributions to the AIMOS 2024 conference. We’ll begin with a demonstration of our prototype for AIMOS 2023, showing how contribution data were processed through each stage of the model (Record, Review, Recognise, Reward, and Respect) and sharing our major learnings from conducting this research. 
+
+Next, we’ll start work on the AIMOS 2024 prototype. Participants will be invited to nominate contributions and dimensions for rating via an online survey. We’ll edit the list of contributions and select a representative sample for review. We’ll discuss pros and cons of different rating dimensions, then choose a set of dimensions on which to rate AIMOS 2024 contributions. If our numbers permit, we may split into breakout groups to complete these tasks in parallel. 
+
+We’ll also aim to complete some reviews during the hackathon itself, so please bring a laptop if you have one available. We’ll close the session with a round of reflections on the process, an overview of next steps, and an invitation to contribute further to the project. 
+
+
