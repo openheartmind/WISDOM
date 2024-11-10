@@ -2,6 +2,11 @@
 This document is intended to collect written content created for the WISDOM project. Anything can be recorded here, for example conference proposals, pitches, website text, grant applications etc. Place newer contributions at the top. Just use three hashes to create a new title for the context (### Example title), and four hashes to create subheadings if required (#### Example subheading). You can link by highlighting the relevant text and pasting.
 
 
+## IPFS Unconference into
+Hi I’m Cooper 👋 neuroscience PhD with 6+ years researching, developing and validating a decentralised collective valuation protocol that I think could be valuable for the IPFS ecosystem. Would love a vote on my proposal if you like the idea of a radically inclusive open peer review protocol with inbuilt incentive mechanism! 🥰
+
+https://docs.google.com/spreadsheets/d/1xEZfejT43UtRjkUM9n_miPoxGlGbcrIbh0BmudSUiTo/edit?usp=sharing
+
 ## Edge City Demo Day
 The Weighted Information Schema for Distributed Open Merit (WISDOM) is an open science framework that empowers communities to self-evaluate the quality of diverse contributions. It features a user-friendly, open peer-review protocol with direct rewards for feedback, thus incentivising engagement. The key innovation is the use of meta-reviews to quantify the relative value of reviews themselves, which are then used to generate relative valuations for all recorded contributions, given in standard units equivalent to the value of a single review. 
 
