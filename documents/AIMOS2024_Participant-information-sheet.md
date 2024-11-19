@@ -13,13 +13,13 @@ Thanks for your interest in this project! Please read the following information 
 Your participation in this project is voluntary. You do not have to participate if you do not wish to. If you decide to take part and later change your mind, you are free to stop at any time and do not need to explain your decision (see _What will happen if I decide to withdraw?_).
 
 ### What is this research about?
-This research will use a novel open science framework ([WISDOM](https://github.com/openheartmind/WISDOM)) to quantify the relative value of diverse contributions to AIMOS2024 (e.g., ideas,  actions, resources) and reward contributors with a representation of the community's gratitude. Reviewers will use a simple, user-friendly protocol that uses pairwise comparisons to vote between contributions on multiple dimensions of interest. These votes are then amalgamated to produce a crowd-level representation of community gratitude, which is awarded to contributors in recognition of their efforts. 
+This research will use a novel open peer-review protocol ([WISDOM](https://github.com/openheartmind/WISDOM)) to quantify the relative value of AIMOS2024 contributions (e.g., ideas,  actions, resources). Reviewers will use a simple, user-friendly protocol to vote between pairs of contributions on multiple dimensions of interest. These votes are then amalgamated to produce a crowd-level representation of community gratitude, which is awarded to contributors in recognition of their efforts. 
 
 ### Who is funding and organising this research?
 This research project is currently unfunded and is organised by members of the Open Heart + Mind (OHM) and AIMOS communities. The outputs of this research may be used to apply for funding and invite donations. 
 
 ### What will I need to do?
-Complete a quick form to nominate your and other people's contributions for review and give us permission to review them publicly. You can also choose to be more involved in the study by signing up as a reviewer or collaborator. 
+Complete a quick form to nominate your and other people's contributions for review and give us permission to review them publicly. You can also choose to be more involved in the study by joining as a reviewer or collaborator. 
 
 ### What are the possible benefits of taking part?
 Potential benefits to various stakeholders include:
@@ -28,7 +28,7 @@ Potential benefits to various stakeholders include:
 - metascientists and other researchers, who may benefit from prototyping a radically transparent information system
 - funders, who may benefit from prototyping an automated funding mechanism
 - other communities, who may adopt or fork the WISDOM framework
-- the public, who may benefit from the development of a free, transparent, open source, replicable, dynamic, flexible and inclusive meta-communication system
+- the public, who may benefit from the development of an open knowledge system
 
 Participants may also benefit personally by receiving 'token' rewards that represent the collective gratitude of the community. In the future these tokens may have further uses within the AIMOS community (e.g., paying for conference fees) and other communities (e.g., attending [OHM Gatherings](https://app.clickup.com/36615879/v/dc/12xdp7-722)), depending on the level of adoption and support. 
 
