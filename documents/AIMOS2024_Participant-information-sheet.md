@@ -1,15 +1,11 @@
 # WISDOM Participant information sheet
 
 ### Researcher/s 
-Cooper Smout
-Anna Finnane
-Matthew Ruby
-Ginny Barbour
-Aidan Tan
+Cooper Smout, Anna Finnane, Matthew Ruby, Ginny Barbour, Aidan Tan
 (additional researchers may be recruited via this form and updated here periodically)
 
 ### Project
-AIMOS 2024 Conference
+WISDOM x AIMOS2024 Conference
 
 ### Introduction
 Thanks for your interest in this project! Please read the following information so that you can decide whether you would like to participate. Feel free to ask any questions you may have. 
