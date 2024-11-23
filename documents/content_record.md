@@ -180,8 +180,9 @@ Open science conference prototype: https://docs.google.com/spreadsheets/d/1kQJM2
 Community arts gathering prototype: https://docs.google.com/spreadsheets/d/1HS7HFa9y6PfF61_wTuCAbj9RTHe94VLXulS0pDYgtns/edit?gid=1745137130#gid=1745137130
 Web-app prototype: https://wisdohm.openheartmind.org/
 
-
-
+# WISDOM Properties
+### Radically inclusive
+WISDOM is designed from first principles to be maximally inclusive at both the individual and collective levels. At the individual level, community members peer-review each other's contributions via a simple, user-friendly review protocol based on pairwise comparisons. Critically, each of these comparisons is recognised as a valuable contribution in its own right and directly rewarded, providing a powerful incentive to engage with the system. At the collective level, communities can determine the dimensions on which their contributions are rated, aligning incentives and ensuring individual contributions are properly valued with respect to the collective vision and mission. Critically, these valuations are generated in standardised, interoperable units, meaning that aligned organizations who adopt this same framework can recognise each other’s contributions with respect to shared goals, and share resources in a decentralised and autonomous fashion.
 
 
 
