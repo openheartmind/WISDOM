@@ -2,7 +2,7 @@
 
 Hi and welcome to the WISDOM project :)
 
-We’re working with open scientists, meta-researchers and developers to build an autonomous value accounting system for estimating the value of community contributions through open peer-review, so that we can empower, connect and celebrate contributors to the commons.  (-> [read more](https://github.com/openheartmind/WISDOM/wiki))
+We’re working with developers, open scientists, and meta-researchers to build a collective valuation protocol for quantifying and standardizing the relative value of diverse contributions, so that we can empower public goods providers and connect communities in pursuit of the common good.  (-> [read more](https://github.com/openheartmind/WISDOM/wiki))
 
 ### How it works
 Contributions can be recorded and peer-reviewed by any member of the community. Reviews are completed as pairwise comparisons: voting between pairs of contributions on one or more dimensions of interest to the community. Open source algorithms then convert these data into standardised metrics, which serve to (a) recognise the unique qualities of each contribution, (b) reward contributors automatically, and (c) respect contributors for the value they provide. (-> [read more](https://github.com/openheartmind/WISDOM/wiki/Core-Model))
