@@ -2,6 +2,18 @@
 This document is intended to collect written content created for the WISDOM project. Anything can be recorded here, for example conference proposals, pitches, website text, grant applications etc. Place newer contributions at the top. Just use three hashes to create a new title for the context (### Example title), and four hashes to create subheadings if required (#### Example subheading). You can link by highlighting the relevant text and pasting.
 
 
+## Max Impact with Jimi Grow
+### What's your personal bio? 
+Dr Cooper Smout is a designer, researcher and lifelong student of human behaviour. Inspired by a Vipassana meditation retreat, he left a promising career in architecture to study Psychology and Neuroscience at the University of Queensland, winning prizes for both his Honours and PhD theses in the neural mechanisms of visual awareness.
+
+Cooper’s passion for good design found a counterpart in the scholarly publishing industry, igniting a new interest in Open Science and the problem of cultural change in academia. He founded the world’s first collective action platform for researchers (Free Our Knowledge) and spent several years campaigning for open and reproducible research practices, later drawing on these experiences to design a decentralized peer-review model with disruptive potential. Realising he could make faster progress outside of academia, he founded a citizen-science project (Open Heart + Mind) and prototyped by peer-reviewing contributions to community gatherings, before validating the model for use in academia by peer-reviewing contributions to Open Science conferences. 
+
+Alongside these pursuits, Cooper enjoys playing games, snowboarding, rockclimbing, meditating, and dancing, and dreams of one day of belonging to a network of interconnected permaculture communities all coordinating their efforts to regenerate the planet.   
+
+### Tell me a bit bout your company
+Open Heart + Mind (OHM) is a volunteer organisation dedicated to exploring radical models for society based on Open Science principles of sharing, transparency, fairness, equity, diversity and inclusion. Since co-founding in 2022, we’ve partnered with a registered arts charity and co-created a diverse range of community gatherings, using each opportunity to prototype a new model of collective valuation through open peer-review of contributions. Through this collaborative process, OHM has developed WISDOM, an open source meta-research framework that empowers communities to collectively value their own contributions in standard units, on dimensions reflecting their values, so that they can reward contributors quickly and fairly, share resources effectively and coordinate with aligned organisations. We’ve prototyped this model successfully in a range of communities spanning the arts, science and technology sectors and are now building an MVP to scale the model to diverse communities around the world. Our first use case will be back-valuing all of the recorded contributions to OHM since we founded, including a $50k donation, so that we can recognise contributors with reputation metrics and reward them with a fair share of any spare resources available to the community. In doing so, we aim to test the theory that this will create a self-reinforcing feedback loop, or ‘virtuous cycle’, which can be replicated in diverse communities and facilitate coordination between aligned organisations. 
+
+
 ## Astera Residency application
 ### Describe the problem you expect your residency to focus on and your proposed solution or direction for identifying a solution. Aim for a level of explanation that a smart college freshman could understand. (3000 characters max)
 The open science movement faces two critical challenges: coordination and adoption. Despite shared goals, efforts remain fragmented and underutilized, limiting their collective impact. For example, at least 37 preprint review platforms compete for limited resources, while remaining underutilized compared to journals. Similarly, most open science communities operate in near-isolation. These fragmented efforts could be more effectively united under a common recognition framework, but no existing system can efficiently determine the relative value of diverse contribution types across different platforms and communities.
@@ -200,16 +212,40 @@ WISDOM is free and open source, can be adapted to a wide variety of use cases an
 
 
 
+
 ## [Funding the Commons DoraHacks BUIDL](https://dorahacks.io/buidl/17042/team)
 WISDOM: Autonomous value recognition and reward for self-organising communities
 In collaborative efforts, how do we ensure that every contribution is properly valued and every voice is heard? The Weighted Information Schema for Distributed Open Merit (WISDOM) is an open science framework for recognising the value of diverse contributions through open peer-review. It features an inclusive review protocol where every review is directly rewarded, incentivising engagement. Reviews are then weighted according to open source algorithms trained on meta-review data, resulting in a crowd-level representation of the unique qualities of every contribution. This rich dataset can then be filtered in a myriad of ways, generating automatic rewards for contributors and reputation metrics for merit-based governance.
 
+
+
+
 ## Cooper's homepage
+### Landing page
+I'm the founder and President of Open Heart + Mind (OHM), a charity community creating diverse gatherings as a safe space to prototype transformative models for society. My passion project is WISDOM, an open review, recognition and reward framework designed to connect and empower diverse communities (see more on my projects page).
+
+My career journey began in architecture, pivoted at a meditation retreat, and passed through and out the other side of a PhD when I realised that the academic game is broken. Since then, I've been playing a different kind of game to fund my dream of a fair open science system, where everyone gets to play (more on my journey here).
+
+### About me
+Hi, thanks for dropping by :)
+
+My journey into academia began at a Vipassana meditation retreat in Thailand, where I discovered a previously unimagined depth to my own mind and resolved to explore consciousness from all angles – through philosophy, meditation, psychology and neuroscience. I returned home to complete an undergraduate degree in psychology and an award-winning honours thesis in cognitive neuroscience, before embarking on a PhD in the neural mechanisms of visual awareness. Partway through the PhD, I attempted to publish my first paper and was shocked to discover a highly inefficient scholarly publishing system that wastes time and resources, biases the literature and pressures researchers into compromising their integrity. I also realised that employment prospects are pretty grim in academia, throwing me into a state of disillusionment – if I carried down this path, would I be forced to compromise my scientific integrity to survive in academia? Did I really want to compete with friends and colleagues for too little funding? Was the system even capable of supporting the types of big questions I’m interested in asking? Everywhere I looked, I saw evidence of overworked and burned-out researchers, many of whom had decided to leave academia after years of chasing short-term postdoc contracts around the world.
+
+This disillusionment, coupled with other life stressors at the time, threw me into a deep depression that lasted the latter half of my PhD (incidentally, mental health problems are rife throughout academia). Since graduating, I’ve been rebuilding my mental health and regaining balance, thanks in large part to self-compassion meditation, dancing, and finding hope in the open science movement, which aims to create a fairer system while opening the research pipeline to public scrutiny. Toward the end of my PhD, I joined the Institute for Globally Distributed Open Research and Education and founded a collective action platform that aims to help researchers reclaim control of academia and restore balance in the research ecosystem (Project Free Our Knowledge). After spending far too much time coming oh-so-close to winning funding for this project, I realised I could earn more money playing poker and decided to leave academia to self-fund instead. In 2021, I placed in a few good-sized tournaments and came second on the Australian Poker Tour leaderboard, validating my decision to go ‘rogue’.
+
+I’m now devoting all of my spare energy to Open Heart + Mind (OHM), a community-turned charity where we’ve been testing and iterating on an open review model that I designed to disrupt scholarly publishing, before realising I needed a safer space to prototype. At the same time, I discovered the creative potential of Burning Man gatherings, based on gifting and decommodification principles, and realised this could serve as an analogue for academia and a safe space to prototype the types of radical models I was dreaming up. This work has brought new challenges, not least of all learning to become a leader and manage a community as a born-introvert and recovering perfectionist. I’m deeply grateful for the learning opportunities this project allows and for all the amazing humans supporting me on this journey to realise my dreams.
+
+In between this work and playing poker to fund it, I try to maintain a healthy balance through music, gardening, dancing, meditating, rockclimbing and spending time in nature.
+
+### WISDOM
 WISDOM (Weighted Information Schema for Distributed Open Metrics) is an open review framework designed from first principles to revolutionise the way we recognise and reward contributions. It began life as a disruptive scholarly publishing model and evolved through active experimentation at Open Heart + Mind to become a generalizable framework for diverse, self-organizing communities. By creating a fair, transparent system for recognizing and rewarding all forms of contribution, WISDOM empowers contributors and connects diverse communities with aligned goals.
 
 At the heart of WISDOM is an inclusive review protocol that earns reviewers immediate rewards for their reviews, which are converted into group-level estimates of the relative value of contributions. Contributors can then be directly rewarded for the value they provide, and respected for their proven expertise and reliability. The entire process is open, decentralized and autonomous, ensuring everyone can participate, while guarding against bias and cheating through a self-reflective meta-review process.
 
 Learn more by watching this video introduction, reading about our experiments at Open Heart + Mind, or by viewing our README.
+
+
+
 
 ## AIMOS 2024
 ### Lightning Talk
@@ -226,8 +262,10 @@ Next, we’ll start work on the AIMOS 2024 prototype. Participants will be invit
 
 We’ll also aim to complete some reviews during the hackathon itself, so please bring a laptop if you have one available. We’ll close the session with a round of reflections on the process, an overview of next steps, and an invitation to contribute further to the project. 
 
-## README v1
 
+
+
+## README v1
 Hi and welcome to the WISDOM system :)
 
 We're developing a generalizable open scientific framework for recognising and rewarding contributions to the commons, so that we can empower contributors and connect diverse communities with aligned goals. 
@@ -309,6 +347,9 @@ Cooper Smout is a designer, data scientist and lifelong student of human behavio
 ### About the Name
 WISDOM stands for Weighted Information Schema for Distributed Open science and Meta-research... or something like that (it's more the sentiment that counts). 
 
+
+
+
 ## Random bit
 WISDOM (Weighted Information Schema for Distributed Open Merit) is a radically inclusive, empirical framework for autonomously measuring the relative value of community contributions, while incentivising engagement. 
 
@@ -319,6 +360,9 @@ The key innovation is in recognising pairwise comparisons as valuable contributi
 Open source algorithms then convert these inputs into multidimensional  relative valuations of every contribution, on multiple dimensions reflecting community values. 
 
 Crucially, throughout this entire process, no one person needs to do anything more complicated than a pairwise comparison, ensuring that the entire process remains accessible to the entire community. 
+
+
+
 
 ## WISDOM Properties
 ### Radically inclusive
