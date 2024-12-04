@@ -148,16 +148,57 @@ Web-app prototype: https://wisdohm.openheartmind.org/
 
 
 
+## ResBaz Victoria 2024
+### Bio
+Dr Cooper Smout is a designer, researcher and lifelong student of human behaviour. Inspired by a Vipassana meditation retreat, he left a promising career in architecture to study Psychology and Neuroscience at the University of Queensland, winning prizes for both his Honours and PhD theses in the neural mechanisms of visual awareness.
+
+
+Cooper’s passion for good design found a counterpart in the scholarly publishing industry, igniting a new interest in Open Science and the problem of cultural change in academia. He founded the world’s first collective action platform for researchers (Free Our Knowledge) and spent several years campaigning for open and reproducible research practices, later drawing on these experiences to design a decentralised peer-review model with disruptive potential. Realising he could make faster progress outside of academia, he founded a citizen-science project (Open Heart + Mind) and prototyped by peer-reviewing contributions to community gatherings, before validating the model for use in academia by peer-reviewing contributions to Open Science conferences. 
+
+Alongside his interests in Open Science and decentralised technologies, Cooper enjoys playing games, snowboarding, rockclimbing, meditating, dancing, and spending time in nature.
+
+### Talk title
+WISDOM: An open value accounting framework for diverse communities
+
+
+### Description
+In this talk, I'll introduce WISDOM, an open value accounting framework that empowers communities to recognise diverse contributions and directly reward contributors for their efforts.
+
+I’ll begin with an overview of the framework, showing how it began life as an open peer-review model and evolved through active experimentation to become a generalisable framework for diverse communities. I’ll highlight the key innovation: the use of pairwise comparisons as both an inclusive review protocol and a ‘standard unit of contribution’, which serve to peg the value(s) of all other contributions in a decentralised and autonomous manner.
+
+I’ll demonstrate the framework’s adaptability by sharing data from diverse communities in the arts, science and technology sectors, before focussing on an academic use case where we used WISDOM to quantify the value of contributions to the two most recent AIMOS metaresearch and open science conferences. I’ll show how WISDOM (a) revealed community values and several contributions that might otherwise have gone unnoticed, (b) incentivised open peer-review, and (c) estimated contribution value on multiple dimensions of interest. I’ll highlight how WISDOM facilitates metaresearch by sharing results of several analyses we've conducted, then invite questions and suggestions from the audience.
+
+I’ll close with a vision for how WISDOM can help connect diverse communities in the research space and beyond, along with an invitation to use WISDOM to review, recognise and reward contributions to ResBaz itself. 
+
+### Workshop title
+Reviewing, recognising and rewarding diverse contributions to ResBaz
+
+### Description
+The Weighted Information Schema for Distributed Open Merit (WISDOM) is an open science and meta-research framework for estimating the relative value of contributions to diverse communities. It features an inclusive review protocol and a decentralised, autonomous process to estimate contribution value, which can be used to recognise, reward and respect contributors for the value they create. 
+
+In this workshop, we’ll learn how to use WISDOM to review and recognise diverse contributions to any community, using ResBaz as a working example. We’ll begin with an introduction to the prototype we used to review contributions to the AIMOS 2023 and 2024 open science conferences, showing how data moved through the model pipeline (Record, Review, Recognise, Reward, and Respect) and results of several other analyses.
+
+Next, we’ll start work on the ResBaz Victoria 2024 prototype. Participants will be invited to nominate contributions and dimensions for rating via an online survey. We’ll edit the list of contributions and select a representative sample for review. We’ll discuss pros and cons of different rating dimensions, then choose a set of dimensions on which to rate ResBaz contributions. 
+
+We’ll also aim to complete some reviews during the workshop itself, so please bring a laptop or tablet if you have one available. We’ll close the session with a round of reflections on the process, an overview of next steps, and an invitation to contribute further to the project. 
+
+
 
 ## IPFS Unconference intro
 Hi I’m Cooper 👋 neuroscience PhD with 6+ years researching, developing and validating a decentralised collective valuation protocol that I think could be valuable for the IPFS ecosystem. Would love a vote on my proposal if you like the idea of a radically inclusive open peer review protocol with inbuilt incentive mechanism! 🥰
 
 https://docs.google.com/spreadsheets/d/1xEZfejT43UtRjkUM9n_miPoxGlGbcrIbh0BmudSUiTo/edit?usp=sharing
 
+
+
+
 ## Edge City Demo Day
 The Weighted Information Schema for Distributed Open Merit (WISDOM) is an open science framework that empowers communities to self-evaluate the quality of diverse contributions. It features a user-friendly, open peer-review protocol with direct rewards for feedback, thus incentivising engagement. The key innovation is the use of meta-reviews to quantify the relative value of reviews themselves, which are then used to generate relative valuations for all recorded contributions, given in standard units equivalent to the value of a single review. 
 
 WISDOM is free and open source, can be adapted to a wide variety of use cases and values, and generates data that may be useful for autonomous reward and governance by communities at Edge City. In this presentation, I'll introduce the model, give a live demo of our spreadsheet prototype and proof-of-concept web app, then close with an invitation to ideate and collaborate.
+
+
+
 
 ## [Funding the Commons DoraHacks BUIDL](https://dorahacks.io/buidl/17042/team)
 WISDOM: Autonomous value recognition and reward for self-organising communities
