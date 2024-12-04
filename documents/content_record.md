@@ -180,12 +180,101 @@ Open science conference prototype: https://docs.google.com/spreadsheets/d/1kQJM2
 Community arts gathering prototype: https://docs.google.com/spreadsheets/d/1HS7HFa9y6PfF61_wTuCAbj9RTHe94VLXulS0pDYgtns/edit?gid=1745137130#gid=1745137130
 Web-app prototype: https://wisdohm.openheartmind.org/
 
-# WISDOM Properties
+## WISDOM Properties
 ### Radically inclusive
 WISDOM is designed from first principles to be maximally inclusive at both the individual and collective levels. At the individual level, community members peer-review each other's contributions via a simple, user-friendly review protocol based on pairwise comparisons. Critically, each of these comparisons is recognised as a valuable contribution in its own right and directly rewarded, providing a powerful incentive to engage with the system. At the collective level, communities can determine the dimensions on which their contributions are rated, aligning incentives and ensuring individual contributions are properly valued with respect to the collective vision and mission. Critically, these valuations are generated in standardised, interoperable units, meaning that aligned organizations who adopt this same framework can recognise each other’s contributions with respect to shared goals, and share resources in a decentralised and autonomous fashion.
 
+## Astera Residency application
+### Describe the problem you expect your residency to focus on and your proposed solution or direction for identifying a solution. Aim for a level of explanation that a smart college freshman could understand. (3000 characters max)
+The open science movement faces two critical challenges: coordination and adoption. Despite shared goals, efforts remain fragmented and underutilized, limiting their collective impact. For example, at least 37 preprint review platforms compete for limited resources, while remaining underutilized compared to journals. Similarly, most open science communities operate in near-isolation. These fragmented efforts could be more effectively united under a common recognition framework, but no existing system can efficiently determine the relative value of diverse contribution types across different platforms and communities.
+
+WISDOM (Weighted Information Schema for Distributed Open Merit) addresses these challenges by providing a flexible framework for valuing diverse contributions with respect to common goals and values. The core protocol is simple and inclusive: community members choose between pairs of contributions on multiple dimensions of interest and are rewarded for each comparison with one unit of value. Votes are aggregated to produce multidimensional, crowd-level scores for each contribution, which are also awarded to contributors. By gamifying the experience with fun and fast rewards for all contribution types, WISDOM incentivises engagement in supported communities. 
+
+WISDOM’s key innovation is using pairwise comparisons as a fundamental unit of value to scale all other contributions. This is achieved via meta-comparisons – embedding batches of comparisons into the process – then using algorithms to scale valuations. By generating standardized metrics pegged to a replicable process (pairwise comparisons), WISDOM helps communities determine fair contribution value and allocate resources effectively (e.g., via automated grants programs). By allowing diverse communities to recognise shared resources like public goods under the same framework, WISDOM allows individuals to stack rewards from multiple communities and thus incentivises the creation of public goods. 
+
+During the residency, I propose to:
+- Build open source infrastructure and integrate with key open science platforms
+- Create standardized APIs enabling value and reputation transfer between projects
+- Design and validate algorithms for generating reliable reputation metrics
+- Conduct rigorous testing of scalability and resistance to gaming
+- Prototype implementation in Web3 technologies
+
+This will create a coordination layer enabling open science projects to:
+- Measure progress toward goals with standardized metrics
+- Highlight hidden contributions and reward contributors based on value created
+- Share reviewer pools and reduce duplicated effort
+- Transfer and aggregate reputation metrics across platforms 
+- Generate empirical data about which approaches work best
+- Cooperate effectively while maintaining independence
+
+This will enable WISDOM to unite fragmented efforts toward a more cohesive open science movement. It may also have additional applications in other domains facing similar challenges.
+
+### Why did you pick this problem to work on? What’s novel about it?
+During my PhD, I became aware of misaligned academic incentives and realized my time would be best spent trying to disrupt the journal industry. I founded Free Our Knowledge (FOK) to coordinate the adoption of open peer-review platforms, concluding that (a) many projects were failing to coordinate, and (b) we needed direct rewards to incentivise reviews. I felt that both problems might be solvable if open peer-review could be standardized and expanded to cover project contributions and reviews themselves, and dedicated my time to solving this problem due to the high expected value, even with a marginal likelihood of success. 
+
+This problem is novel in that it is fundamental to practically every sector of society. Open science is but one part of the broader global commons, to which it is intimately interconnected. Solving this problem could thus lead to knock-on effects in other sectors facing similar collective action problems, such as the environmental and cultural commons.
+Why are you the right person to move your project forward?
+My unconventional path has prepared me to develop WISDOM. I learned first principles design through architecture, cognitive bias through psychology, and complex information systems through neuroscience, all of which prepared me to design WISDOM and analyze its data appropriately. As a successful high-stakes poker player, I learned to balance risk and reward, contributing winnings to open science and demonstrating my commitment to the vision. Through FOK, I learned entrepreneurialism and open source management, while building a network of open science advocates for WISDOM.
+I founded Open Heart + Mind (OHM) and prototyped WISDOM by hosting inclusive, gift-based gatherings, transforming a theoretical model and personal project into a functioning system and registered charity. My evolution from independent researcher to effective leader showcases my ability to scale projects, while integrating the diverse skills of system design, community building, and rigorous analysis.
+
+### What assumptions about the future of science and technology are baked into your proposal? What are the ways in which those assumptions are most likely to be wrong?
+WISDOM is designed from first principles, avoiding reliance on critical assumptions about the future of science and technology. While it assumes certain trends, it doesn’t depend on them and can enhance them regardless of direction.
+1. Science will become more distributed and complex, with increased participation from global citizen scientists. WISDOM supports this by enabling anyone to contribute through simple pairwise comparisons, earning rewards for valuable review data.
+2. Most actors are committed to knowledge creation. WISDOM reinforces this by rewarding valuable contributions and allowing the community to detect bad actors via open metrics, who may be expelled or given a ‘bill’ representing their detracted value.
+3. Diverse communities will accept the idea of quantifying values like gratitude – perhaps my most flawed assumption, given limited levels of resistance at OHM (less so at AIMOS). For this reason, we will validate the model in open science communities before expanding elsewhere.
+Why isn’t this problem likely to be adequately addressed (at this stage) by academia, government, or industry?
+The collective action problem in open science requires a new transformative model focused on the explicit recognition, reward and incentivisation of public goods, including reviews themselves. 
+
+This problem is unlikely to be resolved within academia, as both academics and their institutions are tightly bound within the same multi-level collective action problem that has withheld progress since the internet was developed. Researchers also tend to be very busy, limiting the actions they can take outside of paid research hours. This problem is also likely too complex and intricate to be solved by governments, which lack the agility required to experiment with novel evaluation systems. It is also unlikely to solved by industry, which benefits fom existing revenue streams and favors proprietary solutions over open infrastructure. 
+
+### Who do you envision using your residency’s outputs, and how?
+Primary users include:
+- Participants of open science conferences, community gatherings, or journal clubs, who may collectively value diverse event contributions
+- Contributors to open science projects (e.g., preprint review platforms), who may rate diverse contributions to projects (e.g., administration tasks, code, engagement with the platform)
+- Astera Residents and Open Science Fellows, who may collectively value contributions to their projects
+- Funders, who may receive gratitude for their financial contributions, elevating their decision-making power
+- OHM gathering participants, who may rate diverse contributions to our events
+Once validated in these primary communities, we may extend WISDOM’s application to:
+- Broader scientific communities to evaluate research outputs
+- Open source projects for contribution tracking and reward
+- Decentralized autonomous organizations (DAOs) for reputation-based governance
+- Commons-oriented communities (e.g., environmental groups)
+
+### How long have you been thinking about this problem? How much progress have you made on it?
+I’ve been thinking about this problem since 2016 and actively exploring solutions since founding FOK in 2018. I designed an open-rating model and prototyped one aspect at the 2021 eLife Innovation Sprint. In 2021 I founded Open Heart + Mind (OHM) to prototype WISDOM in the safer context of gifting festivals, then validating the model for academia by application to the AIMOS 2023 open science conference. We presented this data at AIMOS conference this week and have been invited by the president to explore integrations, such as rating conference proposals and pre-selecting preprints for review at MetaROR, the new meta-research review platform. I’ve also discussed WISDOM with other open science communities, including the Center for Open Science and PREreview, who similarly expressed interest in exploring integrations. 
+
+Alongside these efforts, our team of volunteer developers have built a proof-of-concept web app (wisdohm.openheartmind.org) and drafted design artifacts for an MVP app.
+
+### Do you have a history of involvement in open science or open-source projects?
+Yes, I've been deeply involved in open science since 2018, contributing to open infrastructure and research papers on open science. Through FOK, I campaigned for open science projects over several years, then handed the project and open source infrastructure to a new board in 2023. Through OHM, we're making all WISDOM documentation, code, and data openly available. I’ve presented on FOK and WISDOM at over 30 international events, including several invited talks and panel discussions. 
+
+In addition to this work, I’ve also contributed to and had roles in a wide range open science projects and communities, including:
+
+- IGDORE member (2019-24)
+- Open Science MOOC presenter (2019)
+- Center for Open Science Ambassador (2019-2021)
+- SIPS member / conference attendee (2019-24)
+- AIMOS member / conference attendee (2019-24) 
+- Open Life Science Leaders program (2020)
+- eLife Innovation Sprint (2020)
+- Access 2 Perspectives member (2024)
+
+### How have you dealt with mistakes or failures in the past? Have you ever failed at something significant in a public way?
+I've always focussed on turning mistakes and failures into opportunities for growth and learning. After a false start in architecture, I traveled the world and eventually discovered an interest in consciousness at a meditation retreat. I returned home to study psychology and neuroscience, but fell into depression following my disillusionment with academia. Rather than quitting, I returned to my roots, resuming a daily meditation practice and traveling to the Netherlands on a competitive scholarship. There, I founded Free Our Knowledge (FOK) and chose to prioritize it over an offer for my former ‘dream job’ –  a postdoctoral meditation researcher. After failing to get FOK funded through traditional means, I used poker winnings to self-fund it. While FOK didn't succeed as I had envisioned – my most significant public 'failure' – I’m proud of myself for trying and grateful for the lessons I learned, which strengthened my capacity to develop more comprehensive solutions through WISDOM.
+
+### What is the most impressive (by your own judgment) thing you’ve ever done that would not be obvious from your LinkedIn?
+Building Open Heart + Mind (OHM) from scratch as an introvert, while recovering from PhD burnout. What started as a safe space to prototype WISDOM grew into a vibrant community and charity, to which I was elected president. Following a lifetime of independent pursuits, including self-funding FOK through poker, I found myself thrust into the public spotlight with a community looking to me for leadership. I had never been in a leadership position before and only recently completed the open science leaders program, which focussed on online community and not real-world leadership. I’ve made mistakes in my newfound role, many of which have been public and painful for myself and others, but I’ve done my best to learn each time. Through this process, I’ve grown from being a fiercely independent overgiver into a more rounded leader who can set boundaries and focus on priorities and have witnessed the joy, connection and growth that this work has brought to hundreds of people in our community. 
+What gets you out of bed in the morning?
+- Gratitude for the many blessings of life, both big and small: the ability to breathe, and the opportunity to pursue my dreams with the support of loved ones who believe in me. 
+
+- The dream of a gifting economy, where everyone has their basic needs met and can pursue their purpose without compromising their integrity or health; receiving fair recognition in the form of digitized values, which can be paid forward to others, in turn.
+
+- Gratitude to finally have found my role to play in the puzzle of averting climate change, after searching for over 20 years; discovering a tractable path with which we can reclaim control of our information systems, so that we can work together and regenerate the environment.
+
+- And finally, witnessing the effects of my actions as I walk this path; to see how OHM and the WISDOM project have brought gratitude, joy and connection to our diverse community in Australia and, increasingly, around the world. 
 
 
-
-
+### What is the most exciting scientific or technical problem to you other than the one you described above?
+The most exciting scientific problem to me remains the one I embarked on 15 years ago: understanding consciousness. I began my PhD aiming to use neurophenomenology to combine first-person phenomenological methods (e.g., trained introspection and meditation) with third-person neuroscientific measurements (Varela, 1996). However, I soon realized that academia is biased against these questions and shifted my focus to academic reform.
+Nevertheless, I remain deeply fascinated by this idea and hope that WISDOM may one day facilitate such research through the autonomous distribution of research grants. Beyond creating new funding pathways, WISDOM might also advance consciousness research by generating high-signal datasets to train networks of aligned AI agents. These agents could represent both individual and collective values, enabling a richer understanding of consciousness at multiple levels.
 
