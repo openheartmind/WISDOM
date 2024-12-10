@@ -3,6 +3,7 @@ This document is intended to collect written content created for the WISDOM proj
 
 
 ## ETHdenver
+### Session Title + Description
 #### Session Title (Pick something that lets your audience know exactly what your proposal will cover. Maximum of 60 characters (including spaces))
 Decentralizing Value: An Open Science Framework for Fair Recognition
 
@@ -18,15 +19,26 @@ WISDOM is an open-source gift to the world, prototyped at Burning Man-style fest
 #### Audience & Session Attributes
 Impact & Public Goods
 
-### Show Off Your Sweet Moves
-ETHDenver welcomes stage veterans and first-timers alike. Please provide at least one video resource that gives our Community Reviewers the ability to understand who the main speaker is. You can showcase past speaking engagements or further pitch their proposed idea by submitting a 90-second video pitch on the talk through a public YouTube Video.
-
-If you are submitting a pitch, please include hashtags:  #ETHDenver #EDEN25, or #PUTASPORKINIT.
+### Show Off Your Sweet Moves 
+_ETHDenver welcomes stage veterans and first-timers alike. Please provide at least one video resource that gives our Community Reviewers the ability to understand who the main speaker is. You can showcase past speaking engagements or further pitch their proposed idea by submitting a 90-second video pitch on the talk through a public YouTube Video. If you are submitting a pitch, please include hashtags:  #ETHDenver #EDEN25, or #PUTASPORKINIT._
 
 #### Link to YouTube video
 https://youtu.be/LefjZNq6Kmg
 
+#### Other resource links (300 Characters Maximum (including spaces))
+Website: https://openheartmind.org
+Open science conference prototype: 
+Burning Man festival prototype: 
+Github: https://github.com/openheartmind/WISDOM/
 
+#### How many Bufficorns does it take to change a lightbulb? (300 Characters Maximum (including spaces))
+
+### First Speaker
+#### Short Bio (300 Characters Maximum (including spaces))
+
+#### What makes this speaker an expert in this topic and why is this topic exciting to them? (500 Characters Maximum (including spaces))
+
+#### What is this speaker's prior speaking experience? (300 Characters Maximum (including spaces))
 
 
 
