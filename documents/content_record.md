@@ -2,6 +2,34 @@
 This document is intended to collect written content created for the WISDOM project. Anything can be recorded here, for example conference proposals, pitches, website text, grant applications etc. Place newer contributions at the top. Just use three hashes to create a new title for the context (### Example title), and four hashes to create subheadings if required (#### Example subheading). You can link by highlighting the relevant text and pasting.
 
 
+## ETHdenver
+#### Session Title (Pick something that lets your audience know exactly what your proposal will cover. Maximum of 60 characters (including spaces))
+Decentralizing Value: An Open Science Framework for Fair Recognition
+
+#### Describe your idea (Please do not use this space to list additional contributors or the companies they work for. 300 Characters Maximum (including spaces))
+WISDOM is a collective sensemaking platform that enables communities to quantify the value of ideas, actions, and resources in interoperable units. It incentivizes contributors with direct rewards for reviews, motivating engagement and facilitating coordination to solve complex global challenges.
+
+#### What is one key takeaway our audience should expect to learn from your session? (150 Characters Maximum (including spaces))
+WISDOM makes it possible for ANY community to fairly value ANY contribution in interoperable units, with direct incentives to perform reviews
+
+#### What else would you like us to know? (Please do not use this space to list additional contributors or the companies they work for. 300 Characters Maximum (including spaces))
+WISDOM is an open-source gift to the world, prototyped at Burning Man-style festivals and validated for diverse adoption through open science conferences and decentralised tech communities. We've had our heads down while working out the model mechanics, but now that we have something valuable to share we'd love a signal boost to help communities unlock their full potential.
+
+#### Audience & Session Attributes
+Impact & Public Goods
+
+### Show Off Your Sweet Moves
+ETHDenver welcomes stage veterans and first-timers alike. Please provide at least one video resource that gives our Community Reviewers the ability to understand who the main speaker is. You can showcase past speaking engagements or further pitch their proposed idea by submitting a 90-second video pitch on the talk through a public YouTube Video.
+
+If you are submitting a pitch, please include hashtags:  #ETHDenver #EDEN25, or #PUTASPORKINIT.
+
+#### Link to YouTube video
+https://youtu.be/LefjZNq6Kmg
+
+
+
+
+
 ## Max Impact with Jimi Grow
 ### What's your personal bio? 
 Dr Cooper Smout is a designer, researcher and lifelong student of human behaviour. Inspired by a Vipassana meditation retreat, he left a promising career in architecture to study Psychology and Neuroscience at the University of Queensland, winning prizes for both his Honours and PhD theses in the neural mechanisms of visual awareness.
