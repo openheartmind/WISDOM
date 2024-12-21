@@ -27,10 +27,11 @@ Community Building
 | What    | When | Where | Who going? |
 | --- | --- | --- | --- |
 | ZuGrama | Jan 5 - Feb 16 | Kerala | Coops | 
-| OHM Gathering? | April/May? | Brisbane | 
+| OHM Gathering? | April? | Brisbane | 
 | [Zuitzerland](https://zuitzerland.ch/) | May-June | Switzerland |
 | SIPS | June 25-27 | Budapest |
 | [Metascience](https://metascience.info/) | June 30 – July 2 | London |
 | [Zanzalu](https://lu.ma/1kzrdu3s) | June 21 - July 19 | Zanzibar |
-| International Data Week | 13-16 October | Brisbane |
-| Open Science Fair | 15th-17th | Switzerland |
+| International Data Week | 13-16 Oct | Brisbane |
+| Open Science Fair | 15-17 Sept | Switzerland |
+| Open Science Conference| 8 – 9 Oct | Germany |
