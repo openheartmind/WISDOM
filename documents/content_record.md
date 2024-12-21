@@ -2,6 +2,26 @@
 This document is intended to collect written content created for the WISDOM project. Anything can be recorded here, for example conference proposals, pitches, website text, grant applications etc. Place newer contributions at the top. Just use three hashes to create a new title for the context (### Example title), and four hashes to create subheadings if required (#### Example subheading). You can link by highlighting the relevant text and pasting.
 
 
+## ZuGrama Buildathon (Group code: NJzmFJRU)
+
+#### Fast forward 10 years. What would you have achieved that you would consider impactful, either personally or for the world? How would you like ZuGrama to help you achieve this vision?
+In 10 years, I envision WISDOM as a foundational framework for empowering the commons and fostering a thriving gifting economy. It will enable diverse communities to fairly evaluate contributions, share resources equitably, and make decisions rooted in collective expertise. ZuGrama could act as both a testing ground and exemplar, embedding its mission into WISDOM, optimizing for its values, and empowering contributors to drive equitable, values-aligned collaboration and resource sharing.
+
+#### What is an area of technology or science that you believe is underexplored but holds immense potential for human flourishing? Describe how you would start investigating this area if you had unlimited resources.
+Contemplative AI: training agents on value-aligned data to embody mindfulness and wisdom. With unlimited resources, I would fund diverse communities to record and value their activities via WISDOM, and also fund research into training AI on these datasets. I would create an autonomous, value-based grants program aimed at creating an interoperable network of wise, conscious AI, who can collaborate to solve complex problems while enhancing human flourishing and well-being.
+
+#### Describe a complex problem you’ve worked on recently. How did you approach it, and what frameworks or methods did you use to break it down and find a solution? (Optional)
+For the last 6+ years, I’ve been working on the collective action problem keeping researchers locked into traditional journals. Initially, I researched alternative models and built a collective action platform to motivate their support. Realizing this approach was too slow, I pivoted to design WISDOM from first principles and prototyped by hosting gift-based festivals. We then validated for academic use at open science conferences, demonstrating its potential for widespread systemic change.
+
+#### What is the problem statement you want to work on? (Please write the problem statement (You can pick from exisiting list) or provide your own (but within these fields); Please describe your solution if you have one already.)
+
+1. Impact-driven Funding – How can a decentralized funding system prioritize the impact and effectiveness of projects rather than relying solely on majority voting?
+2. Community Utility Tokens – Develop a token framework that allows decentralized communities to manage shared resources and incentivize participation effectively
+3. Governance Mechanisms – What governance structures can enable ZuGrama to scale effectively while maintaining its philoslophy?
+
+WISDOM addresses these challenges by leveraging transparent, inclusive, community-driven valuation. It quantifies contribution value through controlled pairwise comparisons, prioritizing project impact over popularity. Pairwise comparisons, as the base unit of value, are rewarded immediately, fostering participation and enabling fair distribution of resources via tokens linked to contribution value. Reputation profiles track sustained value over time on community-defined dimensions, enabling scalable governance in line with core values.
+
+
 ## ETHdenver
 ### Session Title + Description
 #### Session Title (Pick something that lets your audience know exactly what your proposal will cover. Maximum of 60 characters (including spaces))
