@@ -2,6 +2,20 @@
 This document is intended to collect written content created for the WISDOM project. Anything can be recorded here, for example conference proposals, pitches, website text, grant applications etc. Place newer contributions at the top. Just use three hashes to create a new title for the context (### Example title), and four hashes to create subheadings if required (#### Example subheading). You can link by highlighting the relevant text and pasting.
 
 
+## ZuGrama Telegram Channel intro
+Hi all I’m Coops 🙂
+
+I’m a designer, neuroscientist, and founder at openheartmind.org (OHM) 🌱
+
+We’re building a free, open-source collective sensemaking platform to measure the relative value of diverse contributions, so we can empower public goods providers and help communities coordinate effectively. 
+
+We have a small but awesome volunteer team and will be building throughout ZuGrama— hoping to release an MVP by the end so reach out if you like the idea of kickstarting a gifting revolution and would like to help us reach this milestone. 😍
+
+Aside from that, I like yoga, meditation, rockclimbing (doesn’t look like there’s any climbing gyms or crags in TRV?) and all kindsa gamezzz!
+
+Deeply grateful to ZuGrama for having me and looking forward to meeting you all soon!
+
+
 ## ZuGrama Buildathon (Group code: NJzmFJRU)
 
 #### Fast forward 10 years. What would you have achieved that you would consider impactful, either personally or for the world? How would you like ZuGrama to help you achieve this vision?
