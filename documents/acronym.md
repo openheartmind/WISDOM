@@ -1,4 +1,5 @@
 Ideas for the WISDOM acronym:
+- **Weighted Information System for Distributed Open Merit**
 - Web3 Information Standards for Distributed Open science and Meta-research
 - Wholehearted Information Standards for Distributed Open science and Metaresearch
 - Worldwide Information Standards for Dispersing Open science and Metaresearch
