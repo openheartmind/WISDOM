@@ -9,16 +9,16 @@ This document is intended to collect written content created for the WISDOM proj
 ## ETHdenver
 ### Session Title + Description
 #### Session Title (Pick something that lets your audience know exactly what your proposal will cover. Maximum of 60 characters (including spaces))
-Decentralizing Value: An Open Science Framework for Fair Autonomous Recognition
+Meta-Pairwise Valuations for Decentralized Coordination
 
 #### Describe your idea (Please do not use this space to list additional contributors or the companies they work for. 300 Characters Maximum (including spaces))
-WISDOM is a collective sensemaking platform that enables communities to quantify the value of ideas, actions, and resources in interoperable units. It incentivizes contributors with direct rewards for reviews, motivating engagement and facilitating coordination to solve complex global challenges.
+Pairwise comparisons are a fast, fun, and inclusive way to value contributions, but yield only relative rankings. Making them self-referential—valuing comparisons themselves—can incentivize engagement, automate fair valuations, and enable decentralized coordination through interoperable metrics.
 
 #### What is one key takeaway our audience should expect to learn from your session? (150 Characters Maximum (including spaces))
-WISDOM makes it possible for ANY community to fairly value ANY contribution in interoperable units, with direct incentives to perform reviews
+Learn how meta-pairwise valuations empower decentralized projects to systematically reward all forms of contribution, driving fairer collaboration.
 
 #### What else would you like us to know? (Please do not use this space to list additional contributors or the companies they work for. 300 Characters Maximum (including spaces))
-WISDOM is an open-source gift to the world, prototyped at Burning Man-style festivals and validated for diverse adoption through open science conferences and decentralised tech communities. We've had our heads down while working out the model mechanics, but now that we have something valuable to share we'd love a signal boost to help communities unlock their full potential.
+We prototyped and validated this model in diverse settings, from comunity arts festivals to open science conferences. We're now building a free open-source MVP, and seeking Web3 use cases (e.g., reviewing ETHDenver), ideas and collaborators to bring it on-chain and spark a global gifting revolution.
 
 #### Audience & Session Attributes
 Impact & Public Goods
@@ -31,19 +31,22 @@ https://youtu.be/LefjZNq6Kmg
 
 #### Other resource links (300 Characters Maximum (including spaces))
 Website: https://openheartmind.org
-Open science conference prototype: 
-Burning Man festival prototype: 
+Conference prototype report: https://openheartmind.org/wisdom-x-aimos-conference/
+Festival prototype report: https://openheartmind.org/wisdom-prototype-tiny-ohm-1/
 Github: https://github.com/openheartmind/WISDOM/
 
 #### How many Bufficorns does it take to change a lightbulb? (300 Characters Maximum (including spaces))
+I’m new here, but I assume the muscular character on your homepage is a Bufficorn. I can’t imagine ever needing more than one of those to do much of anything. But if they’re struggling, send them to the OHMniverse, where lightbulbs change YOU. That should do the trick.
 
 ### First Speaker
 #### Short Bio (300 Characters Maximum (including spaces))
+Dr Cooper Smout has a diverse background spanning architecture, psychology, neuroscience, and meta-research. After his PhD in the Neuroscience of Consciousness, he went 'rogue' to campaign for open science practices and prototype radical, community-driven models for societal transformation.
 
 #### What makes this speaker an expert in this topic and why is this topic exciting to them? (500 Characters Maximum (including spaces))
+Cooper has been researching, advocating for, and developing open science solutions since discovering flaws in academia 9 years ago. He spent several years campaigning for open science practices, learning about cultural blockers and best-in-class solutions, before realising the need for a "10x solution". Drawing on his understanding of psychology and information systems, he designed and prototyped a new model with disruptive potential, which has become his main joy, mission and gift to the world.
 
 #### What is this speaker's prior speaking experience? (300 Characters Maximum (including spaces))
-
+Cooper has over 10 years experience speaking to diverse audiences and enjoys breaking down complex ideas into digestible formats. Throughout his PhD and two main open science projects, he has presented more than 50 times across five continents, including 8 invited talks and panel discussions.
 
 
 
