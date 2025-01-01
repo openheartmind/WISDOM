@@ -1,7 +1,7 @@
 ---
 name: Meeting Record
-about: A template to help record meeting notes
-title: Meeting [people or topic]
+about: A template to record meeting details, agenda, notes and action items
+title: Meeting [People or Team] [Date]
 labels: meeting
 assignees: ''
 
@@ -18,5 +18,5 @@ assignees: ''
 ### Notes
 - 
 
-Action Items
+### Action Items
 - [ ]
