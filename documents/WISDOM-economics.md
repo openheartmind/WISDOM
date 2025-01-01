@@ -1,3 +1,0 @@
-
-# Economics under WISDOM
-Introducing our concept token, the OHMnom! 🎉 You can think of OHMnoms as representing the delicious little treats that our members contribute to the community. Or alternatively, as a digital token representing the community's collective gratitude (not as tasty, but much more precise). OHMnoms are calculated by applying an algorithm to the meta-information matrix. The current version of the algorithm is very simple -- a 1-to-1 mapping of the Gratitude dimension -- meaning that OHMnoms are a direct measure of the collective gratitude for contributions. In the future, this algorithm may be developed to include more variables, but for now we're just keeping it simple (on this front at least!). 
