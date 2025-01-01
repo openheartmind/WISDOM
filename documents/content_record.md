@@ -1,45 +1,15 @@
 # Content Record
-This document is intended to collect written content created for the WISDOM project. Anything can be recorded here, for example conference proposals, pitches, website text, grant applications etc. Place newer contributions at the top. Just use three hashes to create a new title for the context (### Example title), and four hashes to create subheadings if required (#### Example subheading). You can link by highlighting the relevant text and pasting.
+This document is intended to collect written content created for the WISDOM project. Anything can be recorded here, for example conference proposals, pitches, website text, grant applications etc. Place newer contributions at the top. Just use two hashes to create a new title for the context (## Example title), and three or four hashes to create subheadings if required (### Example subheading). You can link by highlighting the relevant text and pasting.
 
 
-## ZuGrama Telegram Channel intro
-Hi all I’m Coops 🙂
-
-I’m a designer, neuroscientist, and founder at openheartmind.org (OHM) 🌱
-
-We’re building a free, open-source collective sensemaking platform to measure the relative value of diverse contributions, so we can empower public goods providers and help communities coordinate effectively. 
-
-We have a small but awesome volunteer team and will be building throughout ZuGrama— hoping to release an MVP by the end so reach out if you like the idea of kickstarting a gifting revolution and would like to help us reach this milestone. 😍
-
-Aside from that, I like yoga, meditation, rockclimbing (doesn’t look like there’s any climbing gyms or crags in TRV?) and all kindsa gamezzz!
-
-Deeply grateful to ZuGrama for having me and looking forward to meeting you all soon!
 
 
-## ZuGrama Buildathon (Group code: NJzmFJRU)
-
-#### Fast forward 10 years. What would you have achieved that you would consider impactful, either personally or for the world? How would you like ZuGrama to help you achieve this vision?
-In 10 years, I envision WISDOM as a foundational framework for empowering the commons and fostering a thriving gifting economy. It will enable diverse communities to fairly evaluate contributions, share resources equitably, and make decisions rooted in collective expertise. ZuGrama could act as both a testing ground and exemplar, embedding its mission into WISDOM, optimizing for its values, and empowering contributors to drive equitable, values-aligned collaboration and resource sharing.
-
-#### What is an area of technology or science that you believe is underexplored but holds immense potential for human flourishing? Describe how you would start investigating this area if you had unlimited resources.
-Contemplative AI: training agents on value-aligned data to embody mindfulness and wisdom. With unlimited resources, I would fund diverse communities to record and value their activities via WISDOM, and also fund research into training AI on these datasets. I would create an autonomous, value-based grants program aimed at creating an interoperable network of wise, conscious AI, who can collaborate to solve complex problems while enhancing human flourishing and well-being.
-
-#### Describe a complex problem you’ve worked on recently. How did you approach it, and what frameworks or methods did you use to break it down and find a solution? (Optional)
-For the last 6+ years, I’ve been working on the collective action problem keeping researchers locked into traditional journals. Initially, I researched alternative models and built a collective action platform to motivate their support. Realizing this approach was too slow, I pivoted to design WISDOM from first principles and prototyped by hosting gift-based festivals. We then validated for academic use at open science conferences, demonstrating its potential for widespread systemic change.
-
-#### What is the problem statement you want to work on? (Please write the problem statement (You can pick from exisiting list) or provide your own (but within these fields); Please describe your solution if you have one already.)
-
-1. Impact-driven Funding – How can a decentralized funding system prioritize the impact and effectiveness of projects rather than relying solely on majority voting?
-2. Community Utility Tokens – Develop a token framework that allows decentralized communities to manage shared resources and incentivize participation effectively
-3. Governance Mechanisms – What governance structures can enable ZuGrama to scale effectively while maintaining its philoslophy?
-
-WISDOM addresses these challenges by leveraging transparent, inclusive, community-driven valuation. It quantifies contribution value through controlled pairwise comparisons, prioritizing project impact over popularity. Pairwise comparisons, as the base unit of value, are rewarded immediately, fostering participation and enabling fair distribution of resources via tokens linked to contribution value. Reputation profiles track sustained value over time on community-defined dimensions, enabling scalable governance in line with core values.
 
 
 ## ETHdenver
 ### Session Title + Description
 #### Session Title (Pick something that lets your audience know exactly what your proposal will cover. Maximum of 60 characters (including spaces))
-Decentralizing Value: An Open Science Framework for Fair Recognition
+Decentralizing Value: An Open Science Framework for Fair Autonomous Recognition
 
 #### Describe your idea (Please do not use this space to list additional contributors or the companies they work for. 300 Characters Maximum (including spaces))
 WISDOM is a collective sensemaking platform that enables communities to quantify the value of ideas, actions, and resources in interoperable units. It incentivizes contributors with direct rewards for reviews, motivating engagement and facilitating coordination to solve complex global challenges.
@@ -76,7 +46,105 @@ Github: https://github.com/openheartmind/WISDOM/
 
 
 
-## Max Impact with Jimi Grow
+
+
+
+
+## ZuGrama Telegram Channel intro (Dec 2024)
+Hi all I’m Coops 🙂
+
+I’m a designer, neuroscientist, and founder at openheartmind.org (OHM) 🌱
+
+We’re building a free, open-source collective sensemaking platform to measure the relative value of diverse contributions, so we can empower public goods providers and help communities coordinate effectively. 
+
+We have a small but awesome volunteer team and will be building throughout ZuGrama— hoping to release an MVP by the end so reach out if you like the idea of kickstarting a gifting revolution and would like to help us reach this milestone. 😍
+
+Aside from that, I like yoga, meditation, rockclimbing (doesn’t look like there’s any climbing gyms or crags in TRV?) and all kindsa gamezzz!
+
+Deeply grateful to ZuGrama for having me and looking forward to meeting you all soon!
+
+
+
+
+
+## Astera Open Science Fellowship application cover letter (Dec 2024)
+31st December 2024
+
+Dear Members of the Fellowship Committee, 
+
+Please find below my application for the Astera Open Science Fellowship. 
+
+My background
+I am a former architect and cognitive neuroscientist dedicated to academic reform. I founded Free Our Knowledge to coordinate grassroots collective action, then pivoted to design a collective valuation model based on my understanding of cultural blockers in academia. I founded Open Heart Mind to prototype in the safer context of gift-based festivals, then validated the model for academia by application to an open science conference and other community projects. We now have a proof-of-concept web app and MVP design artifacts, and are seeking support to scale.
+A problem in communication among scientists
+Open science efforts remain fragmented across siloed platforms, lacking interoperability. Meanwhile, academic metrics (citations, impact factor) overshadow essential contributions like code, data curation, and peer review—leaving them underrepresented. These misaligned incentives entrench the status quo, as researchers prioritise career-friendly outputs over collaborative practices. A unifying mechanism is needed to align incentives, diversify recognition, and foster coordination across communities.
+Proposed solution (open to refinement with Astera)
+WISDOM (Weighted Information System for Distributed Open Merit) is a multi-dimensional open science and meta-research framework that estimates the relative value of diverse ideas, actions, and resources in standard units. It adapts to variable use cases through the following core processes:
+Contribution & Dimension Selection: The community nominates the contributions (e.g., papers, code, reviews) and multiple dimensions to assess (e.g., impact, creativity, rigor).
+Pairwise Comparisons: Community members vote between randomly selected pairs of contributions (e.g., a piece of code vs. a software tool) on each dimension of interest.
+Meta-Comparisons: Community members compare contribution pairs in which one “contribution” is a batch of generic or prior comparisons (e.g., 100 pairwise comparisons).
+Autonomous Valuations: Open-source algorithms aggregate these comparisons into multidimensional scores for each contribution, with each dimension normalized to the relative value of a single pairwise comparison. Rewards are fast, fair, and stackable across communities, incentivising high-value contributions with broad impact (e.g., public goods).
+Dynamic Adaptation: Open data and meta-research encourage continuous improvement, aligning metrics and processes with evolving community values, needs, and priorities.
+Combined, these features create a virtuous cycle of value creation, aligning individual and collective incentives, empowering contributors, and fostering coordination through interoperable metrics.
+The landscape of competitive products and services 
+Existing solutions address fragments of the problem but fail to support a rich, dynamic research ecosystem, especially given researchers’ time constraints and entrenched incentives favoring traditional metrics.
+Altmetrics (e.g., PlumX) go beyond citations but often track popularity over actual impact. 
+Badges (e.g., Plaudit, COS) promote openness but are limited to binary judgements.
+Crowd-review platforms (e.g., SciPost, Qeios, Octopus) rely on absolute ratings (e.g., 5-point star ratings), which are prone to gaming and bias (e.g., ceiling effects, availability).
+Rubrics (e.g., in grant evaluations) improve rigor but aren’t scalable to diverse contributions.
+Token-based platforms (e.g., ResearchHub, Gitcoin, Collaborape, DAOs) reward contributions but risk bias toward early adopters and technically adept users. 
+In contrast, WISDOM offers a simple, inclusive, unified, and scalable framework that can be tailored to community values and use cases. Its novel meta-comparison process incentivizes quality feedback, enables fair and autonomous valuation, and fosters coordination via interoperable metrics.
+Skills, team members and collaborations 
+My expertise lies in design, data science, and community building. I have skill gaps in product management and software development, which are addressed by our volunteer development team. I anticipate adding team members to strengthen marketing and communications. I propose to dog-food WISDOM by distributing quarterly bounties through its metrics (see below), thereby incentivising contributions and refining the model as we scale.
+Quarterly Milestones 
+Q1: User research, MVP development, early outreach, announce bounties
+Q2: Beta testing, gather feedback, refine platform, value Q1 and Q2 contributions & distribute Bounty Rounds 1 & 2
+Q3: Launch platform, expand outreach, value Q3 contributions & distribute Bounty Round 3
+Q4: Evaluate impact, publish findings, plan growth, value Q4 contributions & distribute Bounty Round 4
+Budget (Total $410,000 proposed, though bounties can scale according to available funds)
+Personnel: $150,000 (Project Lead)
+Bounties (scalable): $150,000 ($10k Round 1, $20k Round 2, $40k Round 3, $80k Round 4)
+Compute: $25,000 (Cloud services, data storage, computational resources)
+Equipment: $15,000 (Development hardware)
+Travel: $40,000 (On-site visits, conferences, community outreach)
+Miscellaneous: $30,000 (e.g., marketing, legal fees, contingency)
+Openness and Working Arrangement  
+All code, data, and resources will be shared openly. I prefer a hybrid arrangement so I can develop collaborations on-site at Astera while remaining connected to globally distributed communities.
+Thank you for considering my application. I look forward to hearing from you.
+
+Kind Regards, 
+
+Cooper Smout, Ph.D
+
+
+
+
+
+
+## ZuGrama Buildathon (Group code: NJzmFJRU) (Dec 2024)
+
+#### Fast forward 10 years. What would you have achieved that you would consider impactful, either personally or for the world? How would you like ZuGrama to help you achieve this vision?
+In 10 years, I envision WISDOM as a foundational framework for empowering the commons and fostering a thriving gifting economy. It will enable diverse communities to fairly evaluate contributions, share resources equitably, and make decisions rooted in collective expertise. ZuGrama could act as both a testing ground and exemplar, embedding its mission into WISDOM, optimizing for its values, and empowering contributors to drive equitable, values-aligned collaboration and resource sharing.
+
+#### What is an area of technology or science that you believe is underexplored but holds immense potential for human flourishing? Describe how you would start investigating this area if you had unlimited resources.
+Contemplative AI: training agents on value-aligned data to embody mindfulness and wisdom. With unlimited resources, I would fund diverse communities to record and value their activities via WISDOM, and also fund research into training AI on these datasets. I would create an autonomous, value-based grants program aimed at creating an interoperable network of wise, conscious AI, who can collaborate to solve complex problems while enhancing human flourishing and well-being.
+
+#### Describe a complex problem you’ve worked on recently. How did you approach it, and what frameworks or methods did you use to break it down and find a solution? (Optional)
+For the last 6+ years, I’ve been working on the collective action problem keeping researchers locked into traditional journals. Initially, I researched alternative models and built a collective action platform to motivate their support. Realizing this approach was too slow, I pivoted to design WISDOM from first principles and prototyped by hosting gift-based festivals. We then validated for academic use at open science conferences, demonstrating its potential for widespread systemic change.
+
+#### What is the problem statement you want to work on? (Please write the problem statement (You can pick from exisiting list) or provide your own (but within these fields); Please describe your solution if you have one already.)
+
+1. Impact-driven Funding – How can a decentralized funding system prioritize the impact and effectiveness of projects rather than relying solely on majority voting?
+2. Community Utility Tokens – Develop a token framework that allows decentralized communities to manage shared resources and incentivize participation effectively
+3. Governance Mechanisms – What governance structures can enable ZuGrama to scale effectively while maintaining its philoslophy?
+
+WISDOM addresses these challenges by leveraging transparent, inclusive, community-driven valuation. It quantifies contribution value through controlled pairwise comparisons, prioritizing project impact over popularity. Pairwise comparisons, as the base unit of value, are rewarded immediately, fostering participation and enabling fair distribution of resources via tokens linked to contribution value. Reputation profiles track sustained value over time on community-defined dimensions, enabling scalable governance in line with core values.
+
+
+
+
+
+## Max Impact with Jimi Grow (Nov 2024)
 ### What's your personal bio? 
 Dr Cooper Smout is a designer, researcher and lifelong student of human behaviour. Inspired by a Vipassana meditation retreat, he left a promising career in architecture to study Psychology and Neuroscience at the University of Queensland, winning prizes for both his Honours and PhD theses in the neural mechanisms of visual awareness.
 
@@ -88,7 +156,10 @@ Alongside these pursuits, Cooper enjoys playing games, snowboarding, rockclimbin
 Open Heart + Mind (OHM) is a volunteer organisation dedicated to exploring radical models for society based on Open Science principles of sharing, transparency, fairness, equity, diversity and inclusion. Since co-founding in 2022, we’ve partnered with a registered arts charity and co-created a diverse range of community gatherings, using each opportunity to prototype a new model of collective valuation through open peer-review of contributions. Through this collaborative process, OHM has developed WISDOM, an open source meta-research framework that empowers communities to collectively value their own contributions in standard units, on dimensions reflecting their values, so that they can reward contributors quickly and fairly, share resources effectively and coordinate with aligned organisations. We’ve prototyped this model successfully in a range of communities spanning the arts, science and technology sectors and are now building an MVP to scale the model to diverse communities around the world. Our first use case will be back-valuing all of the recorded contributions to OHM since we founded, including a $50k donation, so that we can recognise contributors with reputation metrics and reward them with a fair share of any spare resources available to the community. In doing so, we aim to test the theory that this will create a self-reinforcing feedback loop, or ‘virtuous cycle’, which can be replicated in diverse communities and facilitate coordination between aligned organisations. 
 
 
-## Astera Residency application
+
+
+
+## Astera Residency application (Nov 2024)
 ### Describe the problem you expect your residency to focus on and your proposed solution or direction for identifying a solution. Aim for a level of explanation that a smart college freshman could understand. (3000 characters max)
 The open science movement faces two critical challenges: coordination and adoption. Despite shared goals, efforts remain fragmented and underutilized, limiting their collective impact. For example, at least 37 preprint review platforms compete for limited resources, while remaining underutilized compared to journals. Similarly, most open science communities operate in near-isolation. These fragmented efforts could be more effectively united under a common recognition framework, but no existing system can efficiently determine the relative value of diverse contribution types across different platforms and communities.
 
@@ -185,7 +256,9 @@ Nevertheless, I remain deeply fascinated by this idea and hope that WISDOM may o
 
 
 
-## DeSci Grant
+
+
+## DeSci Conference Bangkok Grant application (Oct 2024)
 WISDOM: A Decentralized Framework for Community-Driven Value Recognition and Reward
 
 #### Project Abstract (Max 300 words)
@@ -234,10 +307,22 @@ Web-app prototype: https://wisdohm.openheartmind.org/
 
 
 
-## ResBaz Victoria 2024
+
+
+
+## IPFS Unconference Telegram channel intro (Nov 2024)
+Hi I’m Cooper 👋 neuroscience PhD with 6+ years researching, developing and validating a decentralised collective valuation protocol that I think could be valuable for the IPFS ecosystem. Would love a vote on my proposal if you like the idea of a radically inclusive open peer review protocol with inbuilt incentive mechanism! 🥰
+
+https://docs.google.com/spreadsheets/d/1xEZfejT43UtRjkUM9n_miPoxGlGbcrIbh0BmudSUiTo/edit?usp=sharing
+
+
+
+
+
+
+## ResBaz Victoria 2024 proposals (Oct 2024)
 ### Bio
 Dr Cooper Smout is a designer, researcher and lifelong student of human behaviour. Inspired by a Vipassana meditation retreat, he left a promising career in architecture to study Psychology and Neuroscience at the University of Queensland, winning prizes for both his Honours and PhD theses in the neural mechanisms of visual awareness.
-
 
 Cooper’s passion for good design found a counterpart in the scholarly publishing industry, igniting a new interest in Open Science and the problem of cultural change in academia. He founded the world’s first collective action platform for researchers (Free Our Knowledge) and spent several years campaigning for open and reproducible research practices, later drawing on these experiences to design a decentralised peer-review model with disruptive potential. Realising he could make faster progress outside of academia, he founded a citizen-science project (Open Heart + Mind) and prototyped by peer-reviewing contributions to community gatherings, before validating the model for use in academia by peer-reviewing contributions to Open Science conferences. 
 
@@ -245,7 +330,6 @@ Alongside his interests in Open Science and decentralised technologies, Cooper e
 
 ### Talk title
 WISDOM: An open value accounting framework for diverse communities
-
 
 ### Description
 In this talk, I'll introduce WISDOM, an open value accounting framework that empowers communities to recognise diverse contributions and directly reward contributors for their efforts.
@@ -270,14 +354,9 @@ We’ll also aim to complete some reviews during the workshop itself, so please 
 
 
 
-## IPFS Unconference intro
-Hi I’m Cooper 👋 neuroscience PhD with 6+ years researching, developing and validating a decentralised collective valuation protocol that I think could be valuable for the IPFS ecosystem. Would love a vote on my proposal if you like the idea of a radically inclusive open peer review protocol with inbuilt incentive mechanism! 🥰
-
-https://docs.google.com/spreadsheets/d/1xEZfejT43UtRjkUM9n_miPoxGlGbcrIbh0BmudSUiTo/edit?usp=sharing
 
 
-
-## Zu-Grama
+## Zu-Grama application (Oct 2024)
 ### ZuGrama is all about cross-pollination of ideas, which fields of technology should intersect more and why? 
 Open science and decentralised science (DeSci). I've been part of the Open Science movement for over 6 years now, and feel there are many lessons to be learned but very little contact between these fields. The DeSci movement could learn from the successes and failures in the Open Science space, where systemic change and disruption has been attempted for over 30 years with minimal success. The core problem remains one of culture, not technology, and there is plenty of research and relevant experience to be learned from. Conversely, the Open Science space could benefit from the technical proficiency and innovation in DeSci, but I rarely see DeSci projects represented at Open Science or Meta-research conferences. There is clearly an alignment there and I think a missed opportunity to learn from one another and become stronger by working together.   
 
@@ -327,7 +406,9 @@ We validated the model internally at OHM, then returned to academia to share the
 
 
 
-## Edge City Demo Day
+
+
+## Edge City Demo Day application (Oct 2024)
 The Weighted Information Schema for Distributed Open Merit (WISDOM) is an open science framework that empowers communities to self-evaluate the quality of diverse contributions. It features a user-friendly, open peer-review protocol with direct rewards for feedback, thus incentivising engagement. The key innovation is the use of meta-reviews to quantify the relative value of reviews themselves, which are then used to generate relative valuations for all recorded contributions, given in standard units equivalent to the value of a single review. 
 
 WISDOM is free and open source, can be adapted to a wide variety of use cases and values, and generates data that may be useful for autonomous reward and governance by communities at Edge City. In this presentation, I'll introduce the model, give a live demo of our spreadsheet prototype and proof-of-concept web app, then close with an invitation to ideate and collaborate.
@@ -336,9 +417,11 @@ WISDOM is free and open source, can be adapted to a wide variety of use cases an
 
 
 
-## [Funding the Commons DoraHacks BUIDL](https://dorahacks.io/buidl/17042/team)
+
+## [Funding the Commons DoraHacks BUIDL](https://dorahacks.io/buidl/17042/team) description (Oct 2024)
 WISDOM: Autonomous value recognition and reward for self-organising communities
 In collaborative efforts, how do we ensure that every contribution is properly valued and every voice is heard? The Weighted Information Schema for Distributed Open Merit (WISDOM) is an open science framework for recognising the value of diverse contributions through open peer-review. It features an inclusive review protocol where every review is directly rewarded, incentivising engagement. Reviews are then weighted according to open source algorithms trained on meta-review data, resulting in a crowd-level representation of the unique qualities of every contribution. This rich dataset can then be filtered in a myriad of ways, generating automatic rewards for contributors and reputation metrics for merit-based governance.
+
 
 
 
@@ -370,7 +453,7 @@ Learn more by watching this video introduction, reading about our experiments at
 
 
 
-## AIMOS 2024
+## AIMOS 2024 proposals
 ### Lightning Talk
 #### WISDOM: An open science framework for community-driven value accounting
 In this lightning talk, I’ll introduce WISDOM (Weighted Information Schema for Distributed Open Merit) and share data from our pilot at the AIMOS 2023 conference. I’ll begin with an overview of the model, showing how it can adapt to diverse use cases and facilitate the collective valuation of contributions according to community-selected values. I’ll highlight the key innovation: the use of pairwise comparisons as both an inclusive review protocol and a ‘standard unit of contribution’, which serve to peg the value(s) of all other contributions in a decentralised and autonomous manner. I’ll share data from our recent prototype, where we used WISDOM to recognise and reward contributions to the AIMOS 2023 conference. I’ll show how we empowered the AIMOS community to: (1) Record diverse contributions, including many that might otherwise go unnoticed; (2) Review contributions according to community-selected dimensions; (3) Recognise contributions for their diverse qualities; (4) Reward contributors for the value they provided; and, (5) Respect reviewers and contributors for their demonstrated expertise. I’ll present our major analyses and system upgrades, showing how this circular process of meta-research and iteration could produce a highly efficient, values-aligned research ecosystem. I’ll close with an invitation to nominate AIMOS 2024 contributions online and attend our follow-up hackathon, thus contributing to the latest iteration of the WISDOM experiment.
@@ -388,7 +471,56 @@ We’ll also aim to complete some reviews during the hackathon itself, so please
 
 
 
-## README v1
+## Astera Open Science Fellowship application cover letter (July 2024)
+25th July 2024
+
+To the team at Astera, 
+
+It is with great pleasure that I submit my application to become an Astera Open Science Fellow.
+My background
+I founded a collective action platform for open science practices during my PhD and pursued it over a postgraduate research career, studying entrepreneurship and open source management instead. In parallel, I designed an open numerical review model that I pitched at conferences and developed proof of concept at an eLife Innovation Sprint, before realizing I needed a safer space to prototype. I founded a community-turned-charity and organized a series of gift-based festivals, coordinating open peer-review of festival contributions as an analog for academia. I developed several working prototypes and fed learnings from these experiments into a generalizable framework (WISDOM), which we have now validated for use in academia through the open peer-review and rating of contributions to an open science conference. I’ve been self-funding most of this work to date, but am now seeking mentorship and financial support to scale.
+The problem(s)
+Preprint review platforms suffer from two major limitations. First, researchers lack incentives to review on these platforms, prioritizing exploitative journals that offer prestige and networking opportunities. Second, preprint review platforms operate as isolated silos without any common standards, limiting interoperability and quality control. Meta-reviews (reviews of reviews) have been proposed as a solution to these problems, but current models are incomplete because they do not incentivise or standardize meta-reviews themselves (“Who reviews the meta-reviews?”). 
+Proposed solution (I am open to refining these ideas in collaboration with Astera)
+I propose to develop a meta-review platform based on the WISDOM framework that would incentivize and standardize preprint reviews through crowd-sourced quality metrics. In WISDOM, users are immediately rewarded for ‘A vs B’ comparisons between pairs of contributions (in this instance, preprint reviews on existing platforms). Pairwise comparisons can be self-referential, wherein one of the two items being compared is itself some number of pairwise comparisons. This closes the valuation loop, enabling decentralized autonomous valuation and generating a multidimensional representation of preprint review qualities, measured in standard units corresponding to the value of a single pairwise comparison. 
+Competitive landscape
+I consider preprint review platforms as potential partners rather than competitors (see letter of support), including those that offer meta-review. Reviewer Credits is another platform that offers peer-review recognition and reward, but only for journal reviews, and their quality index is automatic rather than human-generated.  In contrast to existing models, WISDOM offers:
+Inclusivity. Fast, simple, user-friendly review process via pairwise comparisons.
+Reliability. Controlled experimental design, mitigating bias and guarding against cheating.
+Incentives. Direct recognition and reward for reviews/meta-reviews, fostering engagement.
+Standardization. A standard unit of value, improving interoperability and comparison.
+Decentralization. Crowd-based process, allowing anyone to review/meta-review.
+Autonomization. Metrics for autonomous payments (e.g., via bounties, see below).
+Flexibility. Customizable parameters, suiting the needs of diverse communities & use cases. 
+Generalizability. WISDOM is a domain-general model that can expand to include non-traditional review formats (e.g., social media content, conference proposals – see letters of support) and other contribution types (e.g., project administration), fostering new pathways for collective valuation and collaboration both within and between partner projects.
+Skills, team members and collaborations 
+I have expertise in design, data science, open source management, and community building, but need support in product management and software development, which I plan to address through mentorship and hiring, respectively. I propose to recognize, reward, and incentivize project contributions using ‘bounties’ distributed via WISDOM metrics. Early bounty rounds can reward meta-reviews and preprint reviews, expanding to include more diverse contributions as our system matures, such as platform development itself (i.e., ‘dog-fooding’). I’m also open to exploring diverse use cases for Astera administration and projects (e.g., Sensemaking Networks).
+Openness  
+Code, data, and resources (e.g., project boards, contribution records, reviews) will be shared under CC & open source licenses. Community feedback will be collected via an open forum.
+Quarterly Milestones 
+Q1: User research, develop MVP, begin community outreach, announce bounties
+Q2: Beta testing, gather feedback, refine platform, distribute 1st bounty round
+Q3: Launch platform, expand outreach, monitor engagement, distribute 2nd bounty round
+Q4: Evaluate impact, publish findings, plan growth, distribute 3rd bounty round
+Budget 
+Personnel Costs: $300,000 ($150k Project Lead, $150k Software Dev Lead)
+Bounties: $100,000 ($10k Round 1, $30k Round 2, $60k Round 3)
+Compute Costs: $25,000 (Cloud services, data storage, computational resources)
+Equipment: $15,000 (Development hardware)
+Travel: $30,000 (On-site visits, conferences, community outreach)
+Miscellaneous: $30,000 (Marketing, legal fees, contingency)
+Working Arrangement  
+I would prefer a hybrid arrangement, splitting my time between Berkeley and Brisbane. Thank you for considering my application and I look forward to hearing from you in due course. 
+
+Kind Regards, 
+
+Cooper Smout, Ph.D
+
+
+
+
+
+## GITHUB README v1 (early 2024)
 Hi and welcome to the WISDOM system :)
 
 We're developing a generalizable open scientific framework for recognising and rewarding contributions to the commons, so that we can empower contributors and connect diverse communities with aligned goals. 
@@ -473,7 +605,8 @@ WISDOM stands for Weighted Information Schema for Distributed Open science and M
 
 
 
-## Random bit
+
+## Random bits
 WISDOM (Weighted Information Schema for Distributed Open Merit) is a radically inclusive, empirical framework for autonomously measuring the relative value of community contributions, while incentivising engagement. 
 
 It features a user-friendly, open peer-review protocol based on pairwise comparisons, where individuals can express their values by voting between pairs of contributions on multiple dimensions of interest. Individuals are immediately rewarded for the comparisons they complete, incentivising community members to engage with the system and provide valuable feedback, irrespective of their level of technological or project expertise.
@@ -484,9 +617,5 @@ Open source algorithms then convert these inputs into multidimensional  relative
 
 Crucially, throughout this entire process, no one person needs to do anything more complicated than a pairwise comparison, ensuring that the entire process remains accessible to the entire community. 
 
-
-
-
-## WISDOM Properties
 ### Radically inclusive
 WISDOM is designed from first principles to be maximally inclusive at both the individual and collective levels. At the individual level, community members peer-review each other's contributions via a simple, user-friendly review protocol based on pairwise comparisons. Critically, each of these comparisons is recognised as a valuable contribution in its own right and directly rewarded, providing a powerful incentive to engage with the system. At the collective level, communities can determine the dimensions on which their contributions are rated, aligning incentives and ensuring individual contributions are properly valued with respect to the collective vision and mission. Critically, these valuations are generated in standardised, interoperable units, meaning that aligned organizations who adopt this same framework can recognise each other’s contributions with respect to shared goals, and share resources in a decentralised and autonomous fashion.
