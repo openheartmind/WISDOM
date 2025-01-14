@@ -1,3 +1,5 @@
+SUPERCEDED- see backlog under Design Artefacts in Wiki
+
 # MVP Scope -- Preprint Meta-Review vs Github Projects Review implementtions
 
 ### What is WISDOM?
