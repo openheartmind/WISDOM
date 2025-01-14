@@ -1,4 +1,4 @@
-SUPERCEDED- see backlog under Design Artefacts in Wiki
+SUPERCEDED- see backlog under [Design Artefacts](https://github.com/openheartmind/WISDOM/wiki/Design-artifacts) in Wiki
 
 # MVP Scope -- Preprint Meta-Review vs Github Projects Review implementtions
 
