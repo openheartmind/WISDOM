@@ -772,32 +772,813 @@ _Feedback about this process, etc._
 
 Not that I can think of, but please get in touch if anything is unclear. I also just wanted to say thanks for doing what you're doing, I resonate with your attitude of putting your money where your mouth is and learning by doing. I look forward to hearing your feedback.
 
-#### discarded content
-
-According to motivation theory, individuals are maximally motivated when their rewards seem fair in relation to (a) their own contributions, and (b) rewards given to other people.
-
-Existing recognition and reward systems tend to fall short in one or more of the three key stages (communication, evaluation, reward). Academia, for example, suffers from an undue focus on journal articles at the expense of other contributions (e.g., preprints, code, data), coupled with inappropriate metrics (e.g., journal impact factor) that do not capture the value of individual papers, let alone their unique qualities. Quantitative metrics in the open source movement (e.g., code commits) aim to objectify evaluations, but fail to capture non-coding contributions and may not represent the true value of individual contributions. In decentralised networks, tokenomics are proposed as a democratic solution to the evaluation problem, but typically favour early-adopters and fail to capture non-monetary contributions.
-
-An ideal recognition and reward system should serve three main functions: capture/communicate the full range of contributions, evaluate contributions with respect to their unique qualities, and reward contributors appropriately (monetarily or otherwise). Of these three functions, the second (evaluation) is the trickiest, not least because 'value' is a subjective phenomenon that can vary over time and different contexts.
-
-Existing solutions to this problem are diverse, spanning quantitative metrics like code commits in open source software, to peer review processes in academia and tokenomics in decentralized networks. The benefit of such diverse approaches is that they can be customised to meet the needs of each community (whether they actually do is a different story); the downside is that diverse but aligned communities may fail to communicate recognition or share rewards beyond their borders, limiting cooperation toward their mutual goals.
-
-Most communities lack a fair, transparent, autonomous and evidence-based way to quantify the relative value of contributions. Lacking such a mechanism, individuals are often incentivised to act in ways that are sub-optimal for the community and broader public.
-
-In academia, for example, the relative value of contributions is often quantified using inappropriate metrics, such as the journal impact factor or H-index, which measure artificial 'prestige' moreso than actual quality (BREMBS). In turn, this leads researchers to pursue suboptimal lines of research, engage in questionable research practices, not share their data or code, salami-slice papers, and continue supporting antiquated journal systems at the cost of free and open alternatives. Clearly, the academic community could benefit from a reliable system to quantify the relative quality of contributions, but as yet the growing number of platforms offering transparent crowd-based ratings remain under-utilised.
-
-*   In academia, where the journal impact factor is often used as a (/an unjustified) proxy for quality (BREMBS), researchers may be incentivised to pursue low-risk research, engage in questionable research practices, keep data and code hidden, salami-slice papers, and continue supporting privatised journal systems at the cost of free and open alternatives.
-*   In the commercial sector, biased crowd-ratings ([Rocklage, Rucker & Nordgren, 2021](https://www.nature.com/articles/s41562-021-01098-5.epdf?sharing_token=-AOYkwG8aHeBjtpPUNEEDNRgN0jAjWel9jnR3ZoTv0PnmnpyJIIDwy_1BVSz_S2XbvT5Q-9ZZUqvuIfAHa_J7j9-BgRe0UAvlTsbzdJhA6DGMI7EfdyTmFDkZSu1HTZEBGqky_6SiGto071IxeqKQTUyo5o43MZFxCdUynfqM6f1whNNdbZ98xV2idqWuEdXZcqigpA1KV6w3f0gC4RN8jg119UxOpKVEu40PS209EwVrNrOh95lV0xd4Q_R2pDYEeamUA14Uxc1dp4pZKjKZ6RAFpVuauojs-n0lJsihRYxFgThrwvGDK5gFf7Bi3YyKjjWVrnayGGX0wLBzw7bZEuRXRqlQ25N0BssWxjEbFn0jB1G2TGO9n1bTUj-z_y5&tracking_referrer=www.theage.com.au)) can lead consumers to make sub-optimal purchases, rewarding sellers who can drive up positive ratings regardless of actual quality.
-*   In the blockchain sector, where any number of DAOs will claim to solve the above problems by offering decentralised voting and attribution,
-
-different communities would be free to explore and develop new dimensions in an open-ended way, creating a rich tapestry of evaluative signals that could be filtered according to each users particular needs and preferences.
-
-  
-Meta-reviews are necessarily generic during bootstrapping of the system, but can become more targeted when specific instances are available for review (e.g., in the case of gaming or other biases).
-
-(lest it spiral into an endless series of meta-reviews, meta-meta-reviews etc.).
 
 
-Here we have presented a minimal framework for evaluating contributions, designed to encourage participation and improve collaboration between commons-oriented communities. Like a mushroom spore that grows into a mycelium network, we envisage this core version growing in a multitude of ways, including the addition of more subtle evaluation layers, like qualitative reviews. New communities who adopt the framework may generate additional insights, which can be shared back with the community. , existing communities All of these future contributions will be fairly recognised and rewarded by the same system we're developing here, potentially using integrating new evaluative signals into ever-more nuanced representations of value
 
+
+## Manifesto v0
+
+A universal framework to measure gratitude for contributions to the commons
+Last Updated:
+2/21/24 at 6:00 am
+Alternative titles
+
+Closing the value loop: Pairwise comparisons as a fundamental unit of value in distributed and decentralised communities (working title)
+
+Self-referential pairwise comparisons as a review protocol and fundamental unit of value in diverse, decentralised and distributed communities
+
+A general-purpose model for autonomous, evidence-based community organisation, economics and governance
+
+Closing the value loop: A self-referential model for autonomous, evidence-based community organisation, economics and governance
+
+Self-referential pairwise comparisons as the fundamental unit of value in an evidence-based, decentralised, autonomous organisation (working title)
+
+Pairwise comparisons as the fundamental unit of value within and between decentralised
+
+A universal model for relative valuation within and between communities 
+
+Closing the value loop: Pairwise comparisons as a fundamental unit of value in distributed and decentralised communities (working title)
+
+A universal crowd-valuation protocol for contributions to the common good
+
+
+
+
+Introduction (comms/info version)
+see diary p130, p118, p123-124
+
+see Luhmans introduction by translator
+
+
+
+Society and communication
+
+Modern society can be conceptualised as a social system of communication where the complex interdependence of the environment has been reduced to an arbitrary set of subsystems serving (supposedly) distinct functions (e.g., politics, education, science, law).    the aim is to reduce the complexity of the environment into a more manageable set of parameters. 
+
+Modern society is compartmentalised into several subsystems with distinct functions (e.g., politics, education, science, law). 
+
+These subsystems have evolved separately to develop their own languages, customs, norms and codes, obstructing communication between the subsystems. 
+
+This inefficiency of communication leads to dangerous resonance effects when information is transferred across subsystem borders, such as when environmental science is misrepresented in the media and leads to political polarisation and inaction. 
+
+
+
+These subsystems have 
+
+
+
+Meta-communication
+
+If communication is the transfer of information, meta-communication is the transfer of information about communication itself. 
+
+
+
+1. Introduction to the problem
+"Most communities have no fair, transparent, and incentive-compatible way to value contributions" -- SourceCred
+
+
+
+Global systems are on the brink of collapse. We need to see rapid, systemic change if we're going to avert immense suffering in the coming years and decades. Commons-oriented communities (e.g., open source, open science, creative commons) offer a radical alternative to traditional capitalistic systems with the potential for exponential, systemic change. By generating public goods that can be re-used in perpetuity for free, these communities ... creating the potential for exponential change on a global scale.  movements have the potential to create widespread systemic change for .  there is a problem. Most commons-oriented communities
+
+
+
+Most communities lack a fair, transparent, autonomous and evidence-based way to determine the relative value of contributions. Lacking such a mechanism, individuals are often incentivised to act in ways that are sub-optimal for the community and broader public. For example, in academia the relative value of contributions is often quantified using inappropriate metrics, such as the journal impact factor or H-index, which measure artificial 'prestige' rather than actual quality (BREMBS). In turn, this leads researchers to pursue suboptimal lines of research, engage in questionable research practices, not share alternative outputs like code or data, salami-slice papers, and devote their energy toward supporting privatised journal systems at the cost of free and open alternatives. Clearly, the academic community could benefit from a reliable system to quantify the relative quality of contributions, but as yet the growing number of platforms offering transparent crowd-based ratings remain under-utilised.
+
+
+
+In academia, where quality is often evaluated using inappropriate metrics like the journal impact factor or H-index, researchers are incentivised to pursue suboptimal lines of research, engage in questionable research practices, keep data and code hidden, salami-slice papers, and devote their energy toward supporting privatised journal systems at the cost of free and open alternatives.
+
+In the commercial sector, where numeric ratings have taken more of a foothold, users might be guided by 5-point 'star rating' that is nonetheless highly skewed and unreliable a a predictor of item quality (Rocklage, Rucker & Nordgren, 2021). 
+
+In the blockchain sector, where any number of DAOs will claim to solve the above problems by offering 
+
+
+
+In the commercial sector, where numeric ratings have taken more of a foothold, customers might be guided by 5-point 'star ratings' on platforms like Uber or Amazon. Although these systems do offer a relatively inclusive review system, the resulting data tends to be highly skewed and thus unreliable as a predictor of actual quality (Rocklage, Rucker & Nordgren, 2021). 
+
+
+Imagine a system that could calculate the value of any contribution to a community, relative to all other previous contributions, and reward the contributor with a token representing the value they brought to their peers.
+
+
+
+we live in abundance; the main problem we see in the world today is one of sharing. 
+
+sharing within and between communities could be facilitated with the development of a universal model that could reliably quantify the relative value of diverse contributions to the common good.
+
+within such a framework, members of a community could contribute in their preferred manner, trusting that their contributions would be given fair recognition and reward. 
+
+community members could provide honest feedback, trusting that their honesty would be rewarded and help to guide the quality of future contributions. Governance could shift into the hands of the crowd, reducing the need for administrative overheads and delays. 
+
+experts within the community could be identified and given a platform 
+
+looking globally, multiple communities could adopt the same framework, creating a common 'language' with which to communicate the relative value of shared contributions and learn from one another as each responds to new situations
+
+Distinct communities, working in parallel to solve the same problem, could cease 'competing' for limited resources (people, money, ideas) and instead collaborate to solve the problem together.
+
+Members could flow between communities, trusting that their previous contributions would empower them to continue giving in new contexts. 
+
+new communities could form, tapping into the existing network much like a new mycelium network might merge with an existing, larger network in the same vicinity. 
+
+in this way, diverse communities around the world could connect and communicate in a dynamic and evolving fashion, using the common framework as a reference point for the valuation of shared ideas, resources and actions. 
+
+
+
+the first challenge in developing a system like this lies in the diversity of contributions. 
+
+
+
+there are multiple challenges in developing a system like this...
+
+transparency (private ratings, academia)
+
+reliability. research into numeric ratings used by commercial companies suggests that 5-point star ratings are typically highly skewed and not indicative of underlying product quality. 
+
+diverse contributions
+
+incentivising honesty
+
+incentivising engagement
+
+normalising contributions
+
+standardising reviews
+
+
+
+3. Existing solutions
+The development of the internet and more recently, decentralised technologies, have fostered a range of methods to quantify the value of contributions. In the sections that follow we will explore the strengths and weaknesses of these existing solutions with respect to measuring the value of contributions to a community.
+
+
+
+Numeric ratings
+
+The most common solution is a numeric rating on one or more dimensions of interest, for example the 5-point 'star rating' system used by many commercial businesses (e.g., Uber, Air BnB). This type of review system offers an easy, quick and user-friendly way to collect review data, while representing diverse qualities in a form that can be easily observed, filtered and analysed. Numeric ratings are often highly skewed (e.g., over half of products are given a 5-star rating on Amazon.com, REF), however, making them unreliable predictors of item quality (Rocklage, Rucker & Nordgren, 2021). These limitations could be due to many factors, ranging from reviewer dishonesty to biased sampling. Often times, companies pay reviewers or reward them in other ways, creating incentives to behave dishonestly. 
+
+
+
+Peer review
+
+In academia, where one might expect to see more honest, critical appraisals, numeric ratings remain underutilised. Indeed, the growing number of numerous models and platforms offer to rate papers have barely made a dint on the dominant paradigm of qualitative peer review. Thus, an additional challenge facing numeric rating systems is incentivising voluntary engagement. 
+
+
+
+In academia, as in the commercial sector, reviewer data is rarely made available, limiting the transparency with which communities can... 
+
+➝ open review
+
+
+
+Meta-review 
+
+Limited but increasing interest in meta-review within academia. Platforms such as XXX offer meta-review, where reviewers have an opportunity to review other reviews. This provides a degree of quality control in the review process, encouraging if not ensuring that reviewers provide fair, high-quality reviews. Qualitative meta-reviews are difficult to standardise.
+
+➝ standardised meta-review
+
+
+
+Rubrics
+
+Rubrics are sets of instructions for grading items according to a transparent criteria (e.g., university assignments or applications to attend an event). Rubrics can increase the reliability, objectivity and transparency of evaluations (REF) and thus could serve some use in our idealised system. Due to their qualitative nature, however, rubrics are time-consuming to both create and employ. On the creation side, new rubrics would need to be created for every type of contribution, making them untenable for the type of diverse, flexible system we envisage here. Reviewers might also find them difficult to use, requiring a high degree of technical skill and/or expertise to use effectively. 
+
+
+
+Token distribution
+
+Decentralised technologies have brought forth a new wave of efforts to quantify the quality of contributions, which often employ some kind of blockchain token to represent value (e.g., Collaborape, Research Hub). Mathematically speaking, the distribution of a limited number of tokens is equivalent to making a fixed number of numerical ratings (or could be, after a simple normalisation procedure), meaning that token distributions are likely to suffer from the same limitations as numeric ratings (we know of little research into this subject to date). 
+
+
+
+Moreover, token-based economics (or tokenomics) tend to suffer from an additional limitation: those with the most tokens have an undue amount of sway within the system. Since early adopters tend to come from priviledged populations, token systems may risk further perpetuating mainstream biases and power dynamics (REF: DisCO manifesto). Innovative solutions (e.g., quadratic voting , REF) may lessen this limitation but not resolve it entirely. There remains a need to balance early contributions (e.g., capital) with later contributions. 
+
+
+
+In the political sphere, early steps toward participatory democracy... (Jonno's paper)
+
+distribution of a limited number of tokens is equivalent to numerical ratings
+
+problem of centralisation -- those who are doing the distribution are ultimately in control; risk of bias and corruption
+
+quadratic voting as a potential solution (but still favours early adopters)
+
+
+
+Artificial Intelligence
+
+[basically just want to say that AI without unbiased, human-centred data is dangerous]...
+
+
+
+
+
+In summary, existing solutions to the problem of 
+
+General Problems?
+incentivising engagement
+
+standardising reviews
+
+common unit of value for diverse communities, orthogonal to community
+
+
+
+In the OHMniverse...
+
+
+
+Pairwise comparisons as a fundamental unit of value
+Here we present a novel idea that resolves many if not all of the above limitations...
+
+
+
+5. Model Overview
+Here, we propose a model that allows every member of a community to contribute in their preferred manner, while empowering the entire community to collectively determine the relative value of those contributions, and reward contributors accordingly. The core model (closed value loop) contains the following key stages (see also Figure X):
+
+
+
+Create. Contributors make voluntary contributions to the community (e.g., ideas, actions, resources, art). 
+
+Record. Community contributions are recorded in a transparent register of the community's choosing. The scale and scope of records depends on the community. Members are incentivised to keep the register current, complete and accurate. Gifts within the community are also recorded (see [7]).
+
+Appreciate. Community members participate in a transparent peer review process to show appreciation for the unique qualities of each contribution. Reviews are comprised of pairwise comparisons: a simple, user-friendly task where reviewers vote between pairs of contributions on multiple dimensions of interest. Crucially, pairwise comparisons are also included in the contribution set, making them self-referential, 'closing' the value loop and incentivising reviews. 
+
+Reward. Algorithms convert the reviews into a relative valuation for each contribution, benchmarked against pairwise comparisons as a standard unit of value. Tokens are distributed to each contributor based on their total contributions, minus any relevant costs. Surplus tokens can be paid forward in appreciation of other contributions (recorded on the register; see step [2]), used to lease community resources (see Radical Markets) or used in governance decisions (see Open Governance). 
+
+Respect. Over time, key contributors are recognised and awarded a reputation score based on their demonstrated expertise. Reliable/unreliable reviewers are rewarded more/less generously for their reviews (e.g., 2 or 0.5 tokens per pairwise comparison, respectively). Reputation scores could also be used to weight governance decisions in favour of experts in the community. 
+
+Pay-it-forward. Surplus tokens can be paid forward to other community members (for basic needs or other contributions on the register; see [2]), or spent on community projects, resources (see Radical Markets) or governance votes (see Open Governance). 
+
+/0. Meet Needs. Community members can also meet their needs by exchanging tokens for community resources (where available). 
+
+
+
+The core model is left intentionally simple, such that it could be adopted by diverse communities. In the following sections, we will go into each of these stages in detail. In later sections, we will expand on various extensions to the core model (e.g., governance, radical economics).
+
+
+
+(For more information on how we are prototyping these principles at Open Heart + Mind (OHM), click the toggle "In the OHMniverse...").
+
+
+
+5-1. Share and Create 
+Contributors make voluntary contributions to the community.
+
+The range of contribution types is infinite and depends entirely on the community vision, mission and values.
+
+In this model, we focus on creative contributions, i.e., those that are 
+
+Creative acts can involve a range of sub-contributions, such as ideas, resources and actions. 
+
+To help guide contributions, we suggest that each community establishes a set of open source reference documents (e.g., Readme and Roadmap)
+
+
+
+5-2. Record
+contributions are recorded in a transparent register of the community's choosing
+
+scope and scale of what is recorded depends on the community and it's purpose
+
+can be beneficial to have a reference document (e.g., README), to determine which contributions fall within the project/community scope
+
+the overall aim is to capture all energetic inputs (or as many as possible) that benefit the community
+
+contributions can thus vary widely in scope, spanning ideas, actions, resources
+
+contributions can be grouped into larger 'containers', such as an event consisting of many sub-contributions, which themselves may have sub-contributions
+
+the method of grouping is up to the community, informed by past research (Open Analyses) and experience (see Open Processes)
+
+Members can nominate their own or other members' contributions, with incentives for nominating novel, high-quality contributions and providing an accurate estimate of their value to the community
+
+...
+
+
+
+In the OHMniverse...
+
+
+
+5-3. Appreciate
+contributions are crowd-rated on one or more dimensions of interest
+
+each dimension represents the crowd's appreciation of a particular quality, such as creativity or reliability. 
+
+dimensions could vary widely, according to the values of each community
+
+we suggest that the dimensions relate to values, decided collectively and defined in the community's core documentation. 
+
+previous literature has stressed the importance of maintaining a common dimension between different instances of an evaluation framework, so that outcomes and measurements can be compared (Krieg). suggestion there was 'Desired impact', in reference to the academic audience of the model 
+
+here, we suggest a more universal dimension that could apply to (practically) any contribution to any given community: appreciation. again, this dimension should be related to the core documentation, e.g., appreciation with respect to the community's core values and vision. 
+
+as identified in the introduction, there are numerous ways that a community might collectively determine their appreciation for contributions. 
+
+the novel aspect of our model is the use of paired comparisons, both as a unit of appreciation and a unit of value 
+
+
+
+Pairwise comparisons 
+
+the key feature of our model is the use of pairwise comparisons to rate contributions
+
+individual reviewers are presented with two contributions and asked to show appreciation for just one of them, on each dimension of interest (Figure X)
+
+for example, our primary dimension (Appreciation) may be surveyed by presenting two contributions and asking the review which contribution they appreciate the most. 
+
+advantages
+
+user-friendly
+
+quick and easy to add meaningful data
+
+inclusive (expertise not required)
+
+minimal cognitive effort
+
+simple model, open to analysis
+
+standard unit for benchmarking
+
+two algorithms: pairing and ranking
+
+pairing algorithm selects the optimal pair for decreasing uncertainty in the system
+
+this could depend on multiple factors (e.g., reviewer familiarity with the contributions, reviewer expertise, etc.)
+
+ranking algorithm predicts the relative value for every contribution in the set, using ELO or more advanced Bayesian models
+
+
+
+Closing the loop
+
+the critical feature of our model is that pairwise comparisons are also included in the contribution set, providing a direct incentive to conduct reviews
+
+in practice, this means that a reviewer could be asked to compare a pair of contributions, one of which represents one or more pairwise comparisons completed by another reviewer (Figure X)
+
+this creates a 'unit of appreciation'. energetically, this represents the energy required to consider and express appreciation for the contribution via the review process
+
+Since pairwise comparisons are orthogonal to the contributions themselves, this creates a second-order contribution 'type' that can transcend communities and become a common language with which to communicate relative values. 
+
+
+
+In the OHMniverse...
+
+
+
+In the OHMniverse...
+
+
+
+5-4. Reward
+review results are automatically converted into tokens that are distributed to contributors
+
+this can be thought of as a 'gift' from the community, representing the positive energy in a form that can be paid forward (again), or used in governance decisions (see below)
+
+tokens might also be subtracted from a users balance, in the case that they have attended a communal event with a fixed value
+
+
+
+Benchmarking 
+
+the inclusion of pairwise comparisons also creates a 'standard unit' with which we can benchmark the relative values of all other contributions 
+
+pairwise comparisons are given a default value of 1 and all other contributions are benchmarked around this value
+
+this value is fixed in the early stages of the community growth, on the assumption that all review data is equally valuable at this point
+
+in the future, scores for individual pairwise reviews could increase or decrease based on multiple factors, e.g., how much data has been collected, reviewer reliability (more on this later), etc. 
+
+also important to note that valuations are estimates only (non-fixed), because they can update with new information over time. This means that an under- or overlooked contribution could be given a more fair valuation, when more data comes in / the community realise how valuable the contribution really was with the benefit of time 
+
+...feature makes the model recursive
+
+
+
+
+
+
+
+
+
+In the OHMniverse...
+
+
+
+What can contributors do with excessive tokens?
+
+when paying forward tokens, the contributor should provide a justification within the open communication layer
+
+limits corruption, encourages fair distribution of resources
+
+crowd can verify valuation by ranking relative to other contributions
+
+nominee (payee) might even be rewarded for accurate appraisal of relative value, creating an incentive to nominate contributors
+
+important to note that contribution valuations are backdated, meaning that they can change with new information
+
+
+
+In the OHMniverse...
+
+
+
+Bootstrapping the system
+Two goals:
+
+
+
+generate a common unit of value between communities
+
+In the early phases, we can make the assumption that all review data is equally valuable
+
+
+
+can set a default value of 1 for each pairwise comparison
+
+
+
+
+
+(OHM) Gatherings
+
+Gatherings offer a discreet 'container' to generate an initial dataset, from which all other contributions could be benchmarked
+
+could create a relatively uniform set of contributions, so that different communities could then compare contributions
+
+new communities could kickstart their data collection with a new gathering
+
+
+
+Model Extensions
+In this section we outline some further implications that are not strictly necessary to the core model, but demonstrate some benefits and extensions to the model. 
+
+
+
+(Respect and Govern. Key contributors are identified and given a reputation score within the system, which empowers them to have more influence in governance decisions within their field/s of expertise.)
+
+
+
+Basic needs
+
+Decay function
+
+Open Algorithms
+All code, data and processes are recorded transparently, making the entire system amenable to meta-scientific analysis and iterative updates based on dynamic feedback.
+
+
+
+Qualitative evaluations
+written reviews, figures, etc provide context to quantitative reviews
+
+
+
+Quantitative evaluations
+other types of quantitative evaluations, beyond pairwise comparisons, could be built into the system, e.g., numerical ratings, confidence intervals, token distribution, item ranking, etc. (see Krieg for more details)
+
+pairwise comparisons might serve as a universal entry point to the broad community, once individuals have distinguished themselves as reliable reviewers they might be invited to participate in more detailed reviews, e.g., numerical rating of specific contributions within their field of expertise
+
+
+
+Open Reputations
+this section is more speculative/less refined
+
+reputation scores in different fields (see Private for a starting point)
+
+mention DAOs and limitations of best in class models? 
+
+quadratic voting
+
+limits abuse of power
+
+
+
+Open Governance
+Governance decisions are made by crowd-vote, whereby contributors with excess tokens can spend them in a quadratic manner to vote on particular issues ()
+
+
+
+
+
+Meta-science
+detecting gaming & transparent consequences
+
+detecting bias
+
+maximising outcomes of interest (e.g., joy)
+
+
+
+Dimension ranking
+the open evaluation & normalisation procedure results in a relative value for each contribution on multiple dimensions of interest
+
+tokenising every dimension could have it's advantages (e.g., allowing people to spend/vote according to their strengths), but might also be overly complex, at least in the early days of community foundation 
+
+alternatively, could collapse multiple dimensions into a single dimension, using a weighting algorithm
+
+final weighting algorithm could be determined collectively, with every user having opportunity to set (and justify) their relative weights and taking group average
+
+
+
+In the OHMniverse...
+
+
+
+Transparent templates
+
+
+Radical markets
+collectively-owned goods could be leased using a Radical Market model
+
+
+
+Tokenomics
+multiple communities using variants of the same base token (NOM)?
+
+
+
+Retrospective updates
+negative updates could be absorbed by the system using donations where necessary (in cases where user not at fault), or charged as a cost (in cases of gaming, bias and cheating)
+
+
+
+Model Characteristics
+In considering the evaluation protocols above, we can identify multiple characteristics that an optimal evaluation protocol should embody (see also Table 1):
+
+
+
+Scalable. The system would need to be highly scaleable to account for a diverse range of communities and their near-infinite range of contributions. 
+
+Flexible. Communities have a near-infinite range of values, practices and outcomes. Our model will thus need to encompass multiple dimensions and be adaptable to the needs of each community. 
+
+Dynamic. The system can be updated in line with new information and evolving feedback.
+
+Inclusive (user-friendly). Estimating worth with respect to the entire community requires honest feedback from a representative sample of the community. To service and receive feedback from diverse populations around the world, the review protocol must be user-friendly and easy to understand.
+
+Human-centred. Value is relative to the (human) community who benefit, so the system should be fundamentally based on human feedback from human agents. This is not to discount the use of artificial intelligence, but to place it in it's proper context and ensure that algorithms are fed high-quality data gathered from human agents (rather than the other way around).
+
+Accurate. For a system to accurately reflect the opinions of the entire community, it should use unbiased sampling procedures at both the level of reviewer and contribution. Sampling at the reviewer level means that not every member of the community need be required to complete reviews, or at least the exact same reviews. The critical point in this kind of sampling is to ensure that the group of reviewers is sufficiently diverse to represent the broader community (i.e., a representative sample). Sampling at the contribution level... 
+
+Trustworthy. ... the community would require a high degree of transparency, such that data, code, evaluations and outcomes can be openly interrogated. 
+
+Closed (self-referential). In order for the system to be autonomous, it should be self-referential without the need for external motivators (e.g., payments for reviews) reference any forms of external value (e.g., fluctuating dollar prices). 
+
+Enticing. Contributions, 
+
+Universal. Common language... could be applied to any community that possesses: Contributors who make voluntary Contributions of variable quality on one or moreDimensions  of interest.
+
+Transferrable. We envisage a common 'unit of value' that is universally applicable to diverse communities.
+
+No externalities? [or does this go in the OHMniverse section]?
+
+
+
+Characteristic
+
+Qualitative
+
+Crowd-rating
+
+Rubric
+
+Token dist.
+
+AI?
+
+Scaleable
+
+X
+
+✓
+
+X
+
+✓
+
+✓
+
+Multivariate
+
+✓
+
+✓
+
+✓
+
+?
+
+
+
+Inclusive / User-friendly
+
+?
+
+✓
+
+X
+
+X
+
+X
+
+Quick
+
+X
+
+✓
+
+X
+
+?
+
+✓✓
+
+Accurate
+
+✓
+
+X
+
+✓
+
+?
+
+
+
+Precise
+
+X
+
+?
+
+✓
+
+
+
+
+
+Decentralised
+
+X
+
+✓
+
+X
+
+✓✓
+
+
+
+...
+
+
+
+
+
+
+
+
+
+
+
+Universal
+
+X
+
+X
+
+X
+
+X
+
+X
+
+Self-referential
+
+X
+
+X
+
+X
+
+X
+
+?
+
+Table 1. Characteristics of modern evaluation protocols (UNDER CONSTRUCTION)
+
+
+
+Critical Model Components
+
+
+
+
+
+Use cases
+A general-purpose model
+Our model is general-purpose, in the sense that it could be adopted by any community who possess the following core elements:
+
+Contributors, who make voluntary
+
+Contributions  that vary in quality on one or more
+
+Dimensions  of interest.
+
+
+
+The model is also intentionally simple, such that it can be adapted for various purposes and expanded upon as each community sees fit. If each community adopts the core model and principles, they would begin speaking the same 'language' and thus be able to learn from one another as they grow and adapt to new scenarios (see Use Cases below for applicability to diverse communities, like academia and DAOs). 
+
+
+
+
+
+Academia
+
+DAO
+
+...
+
+Contributors
+
+Researchers, administrators, librarians, students, citizen scientists, ...
+
+Token-holders, ...
+
+
+
+Contributions
+
+Papers, code, data, talks, admin, reviews, ...
+
+
+
+
+
+Dimensions
+
+Reliability, interest, impact, importance, ...
+
+
+
+
+
+Table 1. Potential use cases in diverse communities
+
+
+
+Academia
+In stark contrast to current technologies, the vast majority of scholarly research is still published in traditional journals, using pipelines designed for the 18th century printing press. Many authors have noted that this status quo remains...
+
+
+
+in the context of academia, discussions around openness usually focus on papers ('open access'), or sometimes data ('open data') and code ('open code')
+
+although valuable, the focus on these public-facing contributions creates an incentive-gap, whereby other valuable contributions get overlooked and underfunded
+
+our model aims to rectify these types of problems by recognising all contributions, not just those that are public-facing, e.g., tasks completed, meetings, internal communications, workshops, talks, conferences
+
+...
+
+
+
+(following section moved here from introduction)
+
+Incentivising engagement (academia)
+
+In academia, for example, there has been much discussion around replacing the traditional journal system with open numerical evaluation -- the idea that contributions (typically, papers) could be publicly rated by any member of the community (e.g., see Kriegeskorte, 2012). Models like this have the potential to disrupt the biased and privatised academic publishing industry (REF Brembs), returning control of the knowledge ecosystem to the public domain. Indeed, a large number of platforms have emerged in the past decade to offer numerical ratings of papers, including freely available preprints (REF Asapbio). Nevertheless, these platforms remain largely unused in the face of powerful incentives to support more 'prestigious', traditional journals instead. Thus, the main challenge (in academia) is convincing researchers to spend their precious time and energy on reviews within a new system that lacks the prestige of more traditional outlets. This problem is particularly relevant for emerging and disadvantaged persons, who face additional pressures and increased risks of providing honest, open feedback.
+
+
+
+
+
+open source projects
+grassroots communities
+gift-based festivals
+participatory democracy
+Charities
+communities of practice
+DAOs
+token-based voting, limitations:
+
+early investors disproportionately favoured (note: quadratic voting as a partial solution)
+
+
+
+
+
+
+
+
+
+An incentive to collaborate
+recognise that various abstractions of the model are possible
+
+core model could be leveraged to service any organisation, even those not fitting with the values we espouse here... collaboration is in everyone's best interest
+
+analogy to open science projects merging under one banner
+
+You don't have access to this Block.
+
+parallel projects could merge, each giving credit to the other before continuing a new combined effort
+
+we offer this model to the world, along with an invitation to collaborate...
 
