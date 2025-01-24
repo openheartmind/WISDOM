@@ -23,3 +23,10 @@ Ideas for the WISDOM acronym:
 - Weaving an Integrated System for Decentralized Opportunity Maximization
 - Worldwide Initiative for Sustainable Development through Open Multistakeholderism
 - Web-Integrated System for Democratizing Open Microcontributions
+
+Possible terms for the mechanism:
+- Metavaluation
+- Participatory valuation
+- Participatory voting
+- Collective valuation
+- Metafeedback
