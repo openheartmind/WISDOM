@@ -28,8 +28,15 @@ We’re focusing our early efforts on a minimal viable product (MVP), which is d
 - Back-end management server that will manage all collected data and participating users
 - Security best practices as we would need to be cautious and mindful of possible cyber security breaches, protecting the data of both users and votes, while also considering the dangers of frauds in the algorithms (Might not make it to MVP but needs a discussion regardless).
 
+### Project boards
+- [All](https://github.com/orgs/openheartmind/projects)
+- [Frontend](https://github.com/orgs/openheartmind/projects/21)
+- [Backend](https://github.com/orgs/openheartmind/projects/17)
+- [Admin](https://github.com/orgs/openheartmind/projects/9)
+- [Meetings](https://github.com/orgs/openheartmind/projects/12)
+
 ### Repositories
-- General framework, wiki, issues and project boards: https://github.com/openheartmind/WISDOM
-- Backend: https://github.com/openheartmind/WISDOM-Backend-MVP
-- Frontend: TBC
-- Analysis: TBC
+- [General framework, wiki, issues and project boards](https://github.com/openheartmind/WISDOM)
+- [Backend](https://github.com/openheartmind/WISDOM-Backend-MVP)
+- [Frontend](https://github.com/openheartmind/WISDOM-Frontend-MVP)
+- [Analysis](https://github.com/openheartmind/WISDOM-Analysis-MVP)
