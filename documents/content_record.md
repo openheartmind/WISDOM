@@ -3,6 +3,20 @@ This document is intended to collect written content created for the WISDOM proj
 
 
 
+## Giveth project description
+
+We’re developing a free, open-source framework that any community can use to quantify the value of any contribution (e.g., ideas, actions, resources) in standard units, using an inclusive peer-review process, so that they can empower contributors, incentivise public goods and coordinate effectively. 
+
+Our framework leverages "metavaluation", a novel mechanism designed from first principles to overcome network effects and motivate positive-sum voluntary coooperation. Metavaluation is:
+
+simple and accessible to diverse populations
+inclusive to diverse contribution types
+automated beyond the peer-evaluation phase
+interoperable between communities and with other mechanisms
+a minimal framework that can evolve dynamically to suit the needs of diverse communities
+
+We've prototyped successfully in various contexts (e.g., festivals, conferences, decentralised projects), and are now building an MVP to scale. Everything we do is guided by open science principles (e.g., transparency, sharing, inclusivity, fairness, reproducibility) and we record all contributions toward metavaluation, so that we can give fair credit to everyone who contributes (yes, we practice what we preach!).
+
 
 
 
