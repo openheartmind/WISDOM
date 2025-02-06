@@ -3,6 +3,42 @@ This document is intended to collect written content created for the WISDOM proj
 
 
 
+## Metascience 2025 application
+### Bio (150 words)
+Dr Cooper Smout is a designer, researcher, and social entrepreneur dedicated to systemic change. Inspired by a Vipassana meditation retreat, he transitioned from a career in architecture to study psychology and neuroscience, earning awards for his Honours and PhD theses on the neural mechanisms of visual awareness.
+
+After uncovering misaligned incentives in academia, Cooper shifted his focus to academic reform. He founded Free Our Knowledge, a collective action platform to advance open science practices. Insights from these campaigns informed the development of a novel open evaluation model. To prototype and validate the model, he established Open Heart + Mind, a citizen-science community and charity, applying it across both academic and non-academic contexts.
+
+Cooper is passionate about collaboration and sustainability, envisioning a future where distributed networks of diverse communities share data and co-develop collaborative AI to tackle complex global challenges, such as climate change.
+
+### Proposal
+Metavaluation is an open peer-review and collective valuation framework designed to overcome academia’s collective action problem and foster positive-sum voluntary cooperation.
+
+I’ll begin by outlining its development, which started as a radical scholarly publishing model and evolved through iterative experimentation into a generalizable solution for diverse communities. Its core innovation lies in pairwise comparisons, serving as both an evaluation mechanism and a ‘standard unit of value.’ This enables automatic scaling of contributions in relative terms, while incentivizing high-quality evaluations through a self-reinforcing feedback loop.
+
+To demonstrate the framework’s flexibility, I’ll present data from multiple implementations across the arts, science, and technology sectors, highlighting how it connects communities around shared values and goals. I’ll then focus on an academic use case where Metavaluation was applied at a metaresearch conference, showing how it (a) surfaced community values and overlooked contributions, (b) incentivized evaluations, and (c) quantified contribution value across multiple dimensions. I’ll share analyses illustrating how the system fosters a virtuous cycle by recognizing and rewarding diverse contributions, such as metaresearch, evaluations, and system improvements.
+
+Finally, I’ll provide a demonstration of the newly-released, open-source Metavaluation app, and invite participants to use it to value diverse contributions to the Metascience 2025 conference, fostering fair recognition, informing future planning, and enabling a dynamic recognition and reward system for the Metascience community and beyond.
+
+
+
+## SIPS2025
+
+### Talk
+Metavaluation: An open, fair, and inclusive mechanism for valuing diverse scholarly contributions
+
+Metavaluation is a novel mechanism designed from first principles to overcome the collective action problem in academia by offering direct rewards for diverse contributions, including peer-reviews themselves. In this talk, I’ll give a brief overview of the framework, highlighting the key innovation: the use of pairwise comparisons as both an inclusive review protocol and a standard unit of value, serving to scale the relative value of all other contributions in a decentralised and autonomous manner. I’ll share data from several communities, within academia and beyond, as a testament to the models capacity to adapt to diverse contexts and foster coordination through interoperable metrics. I’ll close with a vision for how the model could connect diverse communities in the research space and beyond, fostering a virtuous cycle of value creation in line with the evolving needs and values of diverse research communities around the world.
+
+### Hackathon
+Metavaluation: Recognising and rewarding diverse contributions to SIPS
+
+Metavaluation is a novel mechanism designed from first principles to address the collective action problem in academia by offering direct rewards for diverse contributions—including peer reviews. The Metavaluation app, developed by the Open Heart Mind (OHM) community, is a free, open-source tool created to demonstrate the model and make it accessible to a wide range of communities.
+
+In this hackathon, participants will use the Metavaluation app to nominate SIPS contributions and determine their relative value through an inclusive peer-review process. Every participant will have the opportunity to vote for their preferred contributions and be rewarded for their input. By the end of the session, we will generate a set of multidimensional scores that reflect the unique qualities of each contribution—including the evaluations themselves. This dataset may serve as a replicable template for future investigations, potentially fostering a virtuous cycle of value creation within the SIPS community.
+
+
+
+
 ## Giveth project description
 
 We’re developing a free, open-source framework that any community can use to quantify the value of any contribution (e.g., ideas, actions, resources) in standard units, using an inclusive peer-review process, so that they can empower contributors, incentivise public goods and coordinate effectively. 
