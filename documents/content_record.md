@@ -12,13 +12,18 @@ After uncovering misaligned incentives in academia, Cooper shifted his focus to 
 Cooper is passionate about collaboration and sustainability, envisioning a future where distributed networks of diverse communities share data and co-develop collaborative AI to tackle complex global challenges, such as climate change.
 
 ### Proposal
-Metavaluation is an open peer-review and collective valuation framework designed to overcome academia’s collective action problem and foster positive-sum voluntary cooperation.
+Title:
+Metavaluation: An open, fair, and inclusive mechanism for valuing diverse scholarly contributions
 
-I’ll begin by outlining its development, which started as a radical scholarly publishing model and evolved through iterative experimentation into a generalizable solution for diverse communities. Its core innovation lies in pairwise comparisons, serving as both an evaluation mechanism and a ‘standard unit of value.’ This enables automatic scaling of contributions in relative terms, while incentivizing high-quality evaluations through a self-reinforcing feedback loop.
+Short abstract:
+Metavaluation is an open source framework that empowers communities to assess and reward the value of diverse contributions, including evaluations, promoting engagement and fair credit. This talk will introduce the model, share data from multiple communities, and live demo the new Metavaluation app.
 
-To demonstrate the framework’s flexibility, I’ll present data from multiple implementations across the arts, science, and technology sectors, highlighting how it connects communities around shared values and goals. I’ll then focus on an academic use case where Metavaluation was applied at a metaresearch conference, showing how it (a) surfaced community values and overlooked contributions, (b) incentivized evaluations, and (c) quantified contribution value across multiple dimensions. I’ll share analyses illustrating how the system fosters a virtuous cycle by recognizing and rewarding diverse contributions, such as metaresearch, evaluations, and system improvements.
+Description:
+Metavaluation is a collective valuation framework designed to address academia’s collective action problem by directly rewarding contributions based on their relative value. It features pairwise comparisons as an inclusive evaluation mechanism, enabling communities to assess diverse contributions across multiple dimensions of interest. Its core innovation lies in the relative valuation of evaluations themselves (metavaluation), creating a self-reinforcing feedback loop that incentivizes high-quality evaluations and enables the automatic, standardized valuation of all contributions.
 
-Finally, I’ll provide a demonstration of the newly-released, open-source Metavaluation app, and invite participants to use it to value diverse contributions to the Metascience 2025 conference, fostering fair recognition, informing future planning, and enabling a dynamic recognition and reward system for the Metascience community and beyond.
+In this talk, I’ll outline the framework and its development, beginning as a scholarly publishing model and evolving through iterative experimentation into a generalizable solution for diverse communities. I’ll present data from various implementations across the arts, science, and technology sectors, demonstrating how Metavaluation can connect communities with common values and goals. I’ll then focus on an academic case study from an open science and metaresearch conference, highlighting how the framework (a) surfaced community values and hidden contributions, (b) incentivized peer evaluations, and (c) quantified contribution value across multiple dimensions.
+
+I’ll present the results of multiple analyses, demonstrating how Metavaluation can foster a virtuous cycle by recognizing and rewarding critical system functions, including evaluations, metaresearch, and system improvements. Finally, I’ll provide a live demonstration of our new open-source Metavaluation app and invite attendees to participate in a collective experiment to value Metascience 2025 contributions, fostering fair recognition, informing future planning, and building a dynamic reward system for the community.
 
 
 
