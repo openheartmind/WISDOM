@@ -29,6 +29,12 @@ I’ll present the results of multiple analyses, demonstrating how Metavaluation
 
 ## SIPS2025
 
+Anna Finanne, Aidan Tan, Matt Ruby, Ginny Barbour
+0000-0003-1144-3272
+Open Heart Mind (OHM) / IGDORE
+https://osf.io/yq5pg/
+https://x.com/CoopSmout, https://www.linkedin.com/in/cooper-smout-623137193/, https://bsky.app/profile/coopersmout.bsky.social
+
 ### Talk
 Metavaluation: An open, fair, and inclusive mechanism for valuing diverse scholarly contributions
 
@@ -40,6 +46,10 @@ Metavaluation: Recognising and rewarding diverse contributions to SIPS
 Metavaluation is a novel mechanism designed from first principles to address the collective action problem in academia by offering direct rewards for diverse contributions—including peer reviews. The Metavaluation app, developed by the Open Heart Mind (OHM) community, is a free, open-source tool created to demonstrate the model and make it accessible to a wide range of communities.
 
 In this hackathon, participants will use the Metavaluation app to nominate SIPS contributions and determine their relative value through an inclusive peer-review process. Every participant will have the opportunity to vote for their preferred contributions and be rewarded for their input. By the end of the session, we will generate a set of multidimensional scores that reflect the unique qualities of each contribution—including the evaluations themselves. This dataset may serve as a replicable template for future investigations, potentially fostering a virtuous cycle of value creation within the SIPS community.
+
+We will generate multidimensional scores for all nominated contributions and evaluations themselves, reflecting their relative value to the SIPS community.
+
+Metavaluation is designed to foster diversity and inclusion by being accessible and adaptable to diverse populations within academia and beyond. It allows for the evaluation of the relative value of any contribution—whether an idea, action, or resource—ensuring that all contributors at SIPS are fairly recognized for their efforts. The protocol is simple and user-friendly, promoting broad participation and rewarding reviewers for their input. By aligning incentives between individuals, communities, and institutions, the framework creates a virtuous cycle of value creation that supports Open Science principles, ultimately strengthening psychological science.
 
 
 
