@@ -1,6 +1,6 @@
 SUPERCEDED- see backlog under [Design Artefacts](https://github.com/openheartmind/WISDOM/wiki/Design-artifacts) in Wiki
 
-# MVP Scope -- Preprint Meta-Review vs Github Projects Review implementtions
+# MVP Scope -- Preprint Meta-Review vs Github Projects Review implementations
 
 ### What is WISDOM?
 A generalisable open source framework that diverse communities can use to openly peer-review contributions and recognize contributors on multiple dimensions. 
