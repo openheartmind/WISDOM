@@ -2,6 +2,16 @@
 This document is intended to collect written content created for the WISDOM project. Anything can be recorded here, for example conference proposals, pitches, website text, grant applications etc. Place newer contributions at the top. Just use two hashes to create a new title for the context (## Example title), and three or four hashes to create subheadings if required (### Example subheading). You can link by highlighting the relevant text and pasting.
 
 
+## CHAOSS Slack introduction
+Hey folks! @Rowland Mosbergen suggested I join here as we’re developing a project that may be of service to the CHAOSS mission.
+We’re researching and developing an open source system that can estimate the relative value of literally any contribution, using an inclusive peer-evaluation process that motivates engagement through direct rewards, including rewards for evaluations themselves.
+
+The key innovation is in pegging valuation metrics to the valuation process itself, which produces standardised, interoperable metrics that can foster coordination between diverse communities. We’ve prototyped successfully in a range of communities spanning the arts, science and tech sectors, and now building an MVP to scale. Seeking aligned developers to collaborate with and test when ready (particularly frontend support right now).
+
+Please see our Readme and Wiki for more info, and I welcome any feedback :pray: (our website may or may not work — currently having issues)
+I’d also love to share more and connect, and wondering the best way to do this. I noticed you have weekly meetings, would it be appropriate to present at one of those in coming weeks?
+
+
 
 ## Metascience 2025 application
 ### Bio (150 words)
