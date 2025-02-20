@@ -21,17 +21,21 @@
 4. Write report on OHM Gathering and funding distribution
 5. (repeat)
 
+| When | Research | Development | Communication |
+| --- | --- | --- | --- |
+| Q1 |   |   | ZuGrama (Jan 5 - Feb 16) | 
+
 
 ### Events to present/attend in 2025
 
 | What    | When | Where | Who going? |
 | --- | --- | --- | --- |
 | ZuGrama | Jan 5 - Feb 16 | Kerala | Coops | 
-| OHM Gathering? | April? | Brisbane | 
 | [Zuitzerland](https://zuitzerland.ch/) | May-June | Switzerland |
 | [SIPS](https://www.improvingpsych.org/SIPS2025/) | June 25-27 | Budapest |
 | [Metascience](https://metascience.info/) | June 30 – July 2 | London |
 | [Zanzalu](https://lu.ma/1kzrdu3s) | June 21 - July 19 | Zanzibar |
-| International Data Week | 13-16 Oct | Brisbane |
 | Open Science Fair | 15-17 Sept | Switzerland |
 | [Open Science Conference](https://www.open-science-conference.eu/) | 8 – 9 Oct | Germany |
+| International Data Week | 13-16 Oct | Brisbane |
+| OHM Gathering? | Nov? | Brisbane | 
