@@ -21,17 +21,19 @@
 4. Write report on OHM Gathering and funding distribution
 5. (repeat)
 
-| When | Research | Development | Communication |
+| When | Research | Development | Funding proposals |
 | --- | --- | --- | --- |
-| Q1 |   |   | ZuGrama (Jan 5 - Feb 16) | 
-
+| Q1 | ZuGrama prototyping, ZuGrama report, AIMOS paper | MVP alpha release | BGI grant, ZuGrama | 
+| Q2 | ZuAfrique, Zuitzerland, OHM alpha testing | MVP beta release | ? |
+...
 
 ### Events to present/attend in 2025
 
 | What    | When | Where | Who going? |
 | --- | --- | --- | --- |
-| ZuGrama | Jan 5 - Feb 16 | Kerala | Coops | 
-| [Zuitzerland](https://zuitzerland.ch/) | May-June | Switzerland |
+| ZuGrama | Jan 5 - Feb 16 | Kerala India | Coops | 
+| [ZuAfrique](https://zuafrique.onrender.com/) | April 15 - May 6 | Kilifi Kenya |
+| [Zuitzerland](https://zuitzerland.ch/) | May 1 - 26 | Switzerland |
 | [SIPS](https://www.improvingpsych.org/SIPS2025/) | June 25-27 | Budapest |
 | [Metascience](https://metascience.info/) | June 30 – July 2 | London |
 | [Zanzalu](https://lu.ma/1kzrdu3s) | June 21 - July 19 | Zanzibar |
