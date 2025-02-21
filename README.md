@@ -1,6 +1,6 @@
 # WISDOM/README
 
-Hi and welcome to the WISDOM project :)
+Hi and welcome to the Metavaluation (formerly WISDOM) project :)
 
 We’re working with developers, open scientists, and meta-researchers to build a collective valuation protocol for quantifying and standardizing the relative value of diverse contributions, so that we can empower public goods providers and connect communities in pursuit of the common good.  (-> [read more](https://github.com/openheartmind/WISDOM/wiki))
 
