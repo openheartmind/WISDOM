@@ -1,5 +1,5 @@
 
-## CHAOSS Slack introduction
+### CHAOSS Slack introduction
 Hey folks! @Rowland Mosbergen suggested I join here as we’re developing a project that may be of service to the CHAOSS mission.
 We’re researching and developing an open source system that can estimate the relative value of literally any contribution, using an inclusive peer-evaluation process that motivates engagement through direct rewards, including rewards for evaluations themselves.
 
@@ -7,6 +7,32 @@ The key innovation is in pegging valuation metrics to the valuation process itse
 
 Please see our Readme and Wiki for more info, and I welcome any feedback :pray: (our website may or may not work — currently having issues)
 I’d also love to share more and connect, and wondering the best way to do this. I noticed you have weekly meetings, would it be appropriate to present at one of those in coming weeks?
+
+
+### DeSci London TG intro
+Hey all,
+
+I’m Coops, former architect and neuroscientist-turned-open science entrepreneur after discovering academia is broken.
+
+Main focus now is MetaValuation, a novel mechanism aiming to overcome collective inaction and kickstart a virtuous cycle across multiple sectors of society. 
+
+It leverages a simple open evaluation protocol that leads to automatic rewards for all contributions, including evaluations themselves, thus aligning incentives and enabling decentralized coordination through interoperable metrics.
+
+We’ve proven the model in diverse contexts (science, art, tech) and now building an MVP to scale. Expecting to launch at the Metascience conference in London end of June and thought it could be cool to link up with this community before then :) 
+
+It’s a collaborative effort and open to support, particularly on data analysis, UX and frontend. Please reach out if interested! 🙏
+
+This is me: 
+X.com/coopsmout
+https://www.linkedin.com/in/cooper-smout-623137193
+Coopersmout.github.io
+
+And this is our project:
+Openheartmind.org
+https://github.com/openheartmind/WISDOM
+
+Looking forward to finding out more about what you’re all up to 🥰
+
 
 
 ### To a known developer
