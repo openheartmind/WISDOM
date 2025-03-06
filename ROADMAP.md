@@ -42,5 +42,6 @@
 | Open Science Fair | 15-17 Sept | Switzerland |
 | [Open Science Conference](https://www.open-science-conference.eu/) | 8 – 9 Oct | Germany |
 | International Data Week | 13-16 Oct | Brisbane |
-| OHM Gathering? | Nov? | Brisbane | 
+| OHM Gathering? | Nov? | Brisbane | ? |
+
 (see also [OHM Calendar](https://calendar.google.com/calendar/u/0?cid=b3BlbmhlYXJ0bWluZC5vcmdAZ21haWwuY29t))
