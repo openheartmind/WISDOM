@@ -1,5 +1,5 @@
-# Content Record for proposals and applications
-This document is intended to collect written content created for the WISDOM project. Anything can be recorded here, for example conference proposals, pitches, website text, grant applications etc. (personal introductions and requests for support should go [here](introductions.md) instead). Place newer contributions at the top, using two hashes to create a new title (## Example title), and three or four hashes to create subheadings if required (### Example subheading). You can link websites by selecting the relevant text and pasting.
+# Content Record (proposals, applications, websites, etc)
+Use this document to collect formal written content, such as conference proposals, website text, grant applications, etc. (informal introductions and requests for support should go [here](introductions.md) instead). Place newer contributions at the top, using two hashes to create a new title (## Example title), and three or four hashes to create subheadings where needed (### Example subheading). You can link websites by selecting the relevant text and pasting.
 
 
 ## Metascience 2025 application
