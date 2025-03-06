@@ -1,4 +1,4 @@
-# Content Record (proposals, applications, websites, etc)
+# Content Record
 Use this document to collect formal written content, such as conference proposals, website text, grant applications, etc. (informal introductions and requests for support should go [here](introductions.md) instead). Place newer contributions at the top, using two hashes to create a new title (## Example title), and three or four hashes to create subheadings where needed (### Example subheading). You can link websites by selecting the relevant text and pasting.
 
 
