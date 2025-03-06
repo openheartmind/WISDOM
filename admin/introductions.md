@@ -1,3 +1,6 @@
+# Introductions
+Use this document to collect informal introductions to people and communities, including requests for support. More formal content like applications and website content should go [here](content_record.md) instead). Place newer contributions at the top, using two hashes to create a new title (## Example title), and three or four hashes to create subheadings where needed (### Example subheading). You can link websites by selecting the relevant text and pasting.
+
 
 ## CHAOSS Slack introduction
 Hey folks! @Rowland Mosbergen suggested I join here as we’re developing a project that may be of service to the CHAOSS mission.
