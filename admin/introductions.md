@@ -1,5 +1,5 @@
 
-### CHAOSS Slack introduction
+## CHAOSS Slack introduction
 Hey folks! @Rowland Mosbergen suggested I join here as we’re developing a project that may be of service to the CHAOSS mission.
 We’re researching and developing an open source system that can estimate the relative value of literally any contribution, using an inclusive peer-evaluation process that motivates engagement through direct rewards, including rewards for evaluations themselves.
 
@@ -9,7 +9,7 @@ Please see our Readme and Wiki for more info, and I welcome any feedback :pray: 
 I’d also love to share more and connect, and wondering the best way to do this. I noticed you have weekly meetings, would it be appropriate to present at one of those in coming weeks?
 
 
-### DeSci London TG intro
+## DeSci London TG intro
 Hey all,
 
 I’m Coops, former architect and neuroscientist-turned-open science entrepreneur after discovering academia is broken.
@@ -35,7 +35,7 @@ Looking forward to finding out more about what you’re all up to 🥰
 
 
 
-### To a known developer
+## To a known developer
 We’re building a collective valuation system, which can take any contribution as input--ideas, actions, resources-- and determine its relative value in standard units. The evaluation mechanism is super simple so that the whole community can participate, and is also directly rewarded, incentivising engagement with the system. 
 
 We’ve prototyped with 5 science, tech, and arts communities, generating interoperable metrics and proving the concept for mass coordination at scale. 
@@ -49,7 +49,8 @@ Keen to hear your thoughts :)
 Website: https://openheartmind.org
 Github: https://github.com/openheartmind/WISDOM
 
-### To a known developer who asked about payment situation
+
+## To a known developer who said they are open to hire
 Ok cool. We’re not looking to hire out per se. 
 
 To jog your memory, we’re building an open source platform that determines fair value for any contribution, enabling automated rewards to contributors.
@@ -63,7 +64,7 @@ So if you’re needing short term guarantees then this isn’t for you. But if y
 But no stress either way, I’m sure we will get there when the time is right 🙏 Let me know if you have any questions. 🥰
 
 
-### To a known open science coordinator
+## To an old open science colleague
 Hey XXX
 Reaching out to loop you into a cool new initiative we're developing.
 
@@ -82,7 +83,8 @@ Website: https://openheartmind.org
 Github: https://github.com/openheartmind/WISDOM
 
 
-### Crecimiento TG intro
+
+## Crecimiento TG intro
 Hi all I’m Coops 🙂
 
 Former architect and neuroscientist, now system designer and metaresearcher at openheartmind.org (OHM) 🌱
@@ -96,12 +98,23 @@ Aside from that, I like yoga, meditation, rockclimbing, snowboarding, poker and 
 I just discovered Crecimiento while at ZuGrama, India, so I’m excited to discover another aligned pop-up community and looking forward to applying 🥰
 
 
+
+
 ### ZuGrama TG intro
 Hi all I’m Coops 🙂
 
 I’m a designer, neuroscientist, and founder at openheartmind.org (OHM) 🌱
 
 We’re building a free, open-source collective sensemaking platform to measure the relative value of diverse contributions, so we can empower public goods providers and help communities coordinate effectively. 
+
+
+
+
+## IPFS Unconference Telegram channel intro (Nov 2024)
+Hi I’m Cooper 👋 neuroscience PhD with 6+ years researching, developing and validating a decentralised collective valuation protocol that I think could be valuable for the IPFS ecosystem. Would love a vote on my proposal if you like the idea of a radically inclusive open peer review protocol with inbuilt incentive mechanism! 🥰
+
+https://docs.google.com/spreadsheets/d/1xEZfejT43UtRjkUM9n_miPoxGlGbcrIbh0BmudSUiTo/edit?usp=sharing
+
 
 We have a small but awesome volunteer team and will be building throughout ZuGrama— hoping to release an MVP by the end so reach out if you like the idea of kickstarting a gifting revolution and would like to help us reach this milestone. 😍
 
