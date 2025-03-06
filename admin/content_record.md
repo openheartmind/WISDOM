@@ -114,26 +114,6 @@ Cooper has over 10 years experience speaking to diverse audiences and enjoys bre
 
 
 
-
-
-
-## ZuGrama Telegram Channel intro (Dec 2024)
-Hi all I’m Coops 🙂
-
-I’m a designer, neuroscientist, and founder at openheartmind.org (OHM) 🌱
-
-We’re building a free, open-source collective sensemaking platform to measure the relative value of diverse contributions, so we can empower public goods providers and help communities coordinate effectively. 
-
-We have a small but awesome volunteer team and will be building throughout ZuGrama— hoping to release an MVP by the end so reach out if you like the idea of kickstarting a gifting revolution and would like to help us reach this milestone. 😍
-
-Aside from that, I like yoga, meditation, rockclimbing (doesn’t look like there’s any climbing gyms or crags in TRV?) and all kindsa gamezzz!
-
-Deeply grateful to ZuGrama for having me and looking forward to meeting you all soon!
-
-
-
-
-
 ## Astera Open Science Fellowship application cover letter (Dec 2024)
 31st December 2024
 
@@ -371,18 +351,6 @@ Website and research reports: https://openheartmind.org/research/
 Open science conference prototype: https://docs.google.com/spreadsheets/d/1kQJM2kEVulzwXBQZuvR46wxaQY5_ohm0rbndIkdEkSE/edit?gid=575738957#gid=575738957
 Community arts gathering prototype: https://docs.google.com/spreadsheets/d/1HS7HFa9y6PfF61_wTuCAbj9RTHe94VLXulS0pDYgtns/edit?gid=1745137130#gid=1745137130
 Web-app prototype: https://wisdohm.openheartmind.org/
-
-
-
-
-
-
-## IPFS Unconference Telegram channel intro (Nov 2024)
-Hi I’m Cooper 👋 neuroscience PhD with 6+ years researching, developing and validating a decentralised collective valuation protocol that I think could be valuable for the IPFS ecosystem. Would love a vote on my proposal if you like the idea of a radically inclusive open peer review protocol with inbuilt incentive mechanism! 🥰
-
-https://docs.google.com/spreadsheets/d/1xEZfejT43UtRjkUM9n_miPoxGlGbcrIbh0BmudSUiTo/edit?usp=sharing
-
-
 
 
 
