@@ -102,6 +102,15 @@ I just discovered Crecimiento while at ZuGrama, India, so I’m excited to disco
 
 
 
+### ZuGrama Buildathon Github thread
+Hey @nooblemon-eth thanks for asking! We're building over here.
+
+Could use dev support on both frontend (React) and backend (Nest JS). @dipanshuhappy and @arrytiwari are working on the backend and frontend locally, respectively, so perhaps they can offer more details.
+
+Our next team meeting is Tuesday 1pm, so if someone is interested we could onboard them before, then meet the rest of the team and assign tasks to do during the week.
+
+Aside from coding, we could also use some support on data analysis and visualisation.
+
 
 ### ZuGrama TG intro
 Hi all I’m Coops 🙂
