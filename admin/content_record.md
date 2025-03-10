@@ -2,6 +2,40 @@
 Use this document to collect formal written content, such as conference proposals, website text, grant applications, etc. (informal introductions and requests for support should go [here](introductions.md) instead). Place newer contributions at the top, using two hashes to create a new title (## Example title), and three or four hashes to create subheadings where needed (### Example subheading). You can link websites by selecting the relevant text and pasting.
 
 
+## DeSci Berlin application
+### Your company/organization name and website
+Open Heart + Mind (OHM): http://openheartmind.org/
+
+### How is your organization/company related to DeSci?
+Open Heart + Mind (OHM) is a citizen science community and charity dedicated to advancing open science principles of transparency, fairness, and inclusivity through decentralized evaluation and governance models. Our flagship initiative, Metavaluation, is an open-source framework designed to re-align incentives in academia by enabling open, participatory evaluation of all contributions.
+
+Inspired by open evaluation models in open science, the underlying model has evolved through real-world testing to become a general-purpose decentralized solution for diverse communities. Our goal is to integrate Metavaluation with Web3 infrastructure to create interoperable tokenized reward systems, aligning incentives between researchers, DAOs, and other communities committed to open science.
+
+By facilitating transparent and fair recognition of contributions, we believe OHM can help address collective action problems in academia and foster a thriving, interoperable ecosystem of decentralized science communities.
+
+### Do you want to speak, moderate a panel or host a workshop?
+Talk
+
+### Talk/Panel/Workshop title
+Metavaluation: Re-aligning Incentives in Academia Through Participatory Valuation and Rewards for All Contributions
+
+### Talk/Panel/Workshop summary
+Metavaluation is an open-source framework designed to advance scientific collaboration by enabling decentralized, transparent, and equitable valuation of contributions. It addresses the misaligned incentives in academia that hinder collaboration and undervalue contributions such as peer reviews, open data, and community engagement.
+
+At the core of Metavaluation is a pairwise comparison model that replaces traditional rating systems with a simpler and more inclusive way to assess contributions based on relative rather than absolute value. Metavaluation also values the act of evaluating itself, creating a self-reinforcing feedback loop that incentivizes high-quality evaluations and sustains engagement. This approach allows communities to generate interoperable metrics that reflect their unique values, enabling fair recognition and rewards across diverse scientific fields.
+
+This talk will explore:
+• Key innovations of Metavaluation, including the use of pairwise comparisons as a ‘base unit’ of value to standardize and scale contribution assessments.
+• Real-world prototypes from arts, science, and Web3 communities that have validated the model’s potential for generating cross-community metrics.
+• The newly-released Metavaluation app by OHM and a roadmap for integration with DAOs and other communities in the Web3 space.
+
+We will close by inviting all attendees to participate in a collective valuation of DeSci Berlin contributions using the Metavaluation app. This participatory experiment will showcase the framework in action, reveal the community’s values, and generate a replicable dataset for future planning and potential AI training. The results will also produce interoperable metrics to reward contributors fairly and facilitate coordination with other communities who adopt the framework.
+
+### Please add a short bio between 30-50 words. We will use this on our website and any related social media publications.
+Dr. Cooper Smout is a designer, researcher, and social entrepreneur devoted to systemic change. He founded a collective action platform during his PhD to promote open science practices, before designing an innovative peer-review model and founding OHM to prototype these ideas, where he serves as President and R&D lead.
+
+
+
 ## Metascience 2025 application
 ### Bio (150 words)
 Dr Cooper Smout is a designer, researcher, and social entrepreneur dedicated to systemic change. Inspired by a Vipassana meditation retreat, he transitioned from a career in architecture to study psychology and neuroscience, earning awards for his Honours and PhD theses on the neural mechanisms of visual awareness.
