@@ -21,27 +21,39 @@
 4. Write report on OHM Gathering and funding distribution
 5. (repeat)
 
-| When | Research | Development | Funding proposals |
+### Roadmap for 2025
+
+| Quarter | Tech | Research & Writing | Funding proposals |
 | --- | --- | --- | --- |
-| Q1 | ZuGrama prototyping, ZuGrama report, AIMOS paper | MVP alpha release | BGI grant, ZuGrama | 
-| Q2 | ZuAfrique, Zuitzerland, OHM alpha testing | MVP beta release | ? |
+| Q1 | ZuGrama prototypes | ZuGrama report, AIMOS paper | 
+| Q2 | MVP beta release | Alpha testing with OHM backlog & existing partners (ZuGrama, AIMOS, LoPhi?) | ? |
+| Q3 | MVP beta release | Beta testing with new communities (see below) |
+| Q4 | 
 ...
 
-### Events to present/attend in 2025
+### Conferences & Popup villages for 2025
+(crossed out = Coops unable to attend)
 
-| What    | When | Where | Proposal Deadline |
+| What    | When | Where | Proposal Due |
 | --- | --- | --- | --- |
-| ZuGrama | Jan 5 - Feb 16 | Kerala India | 
-| [ZuAfrique](https://zuafrique.onrender.com/) | April 15 - May 6 | Kilifi Kenya |
-| [Zuitzerland](https://zuitzerland.ch/) | May 1 - 26 | Switzerland |
-| [SIPS](https://www.improvingpsych.org/SIPS2025/) | June 25-27 | Budapest |
-| [Metascience](https://metascience.info/) | June 30 – July 2 | London |
-| [Zanzalu](https://lu.ma/1kzrdu3s) | June 21 - July 19 | Zanzibar |
-| [Open Source Summit](https://events.linuxfoundation.org/open-source-summit-europe/program/cfp/) | 25-27 August | Amsterdam | 14 April |
-| [PyCon India](https://in.pycon.org/2025/cfp/) | September 12-15 | Bengaluru | 18 May |
-| Open Science Fair | 15-17 Sept | Switzerland |
-| [Open Science Conference](https://www.open-science-conference.eu/) | 8 – 9 Oct | Germany |
-| International Data Week | 13-16 Oct | Brisbane |
-| OHM Gathering? | Nov? | Brisbane | ? |
+| ZuGrama | Trivandrum, India | Jan 5 - Feb 16 | 
+| ~~[ZuAfrique](https://zuafrique.onrender.com/)~~ | Kilifi Kenya | 15 April - 6 May | 
+| [Zuitzerland](https://zuitzerland.ch/) | Switzerland | 1-26 May | 
+| [DeSci Berlin](https://www.desci.berlin/) | Berlin | 10-11 June | 
+| [Funding the Commons Berlin](https://www.fundingthecommons.io/) | Berlin |  14-15 June | 
+| [ZuBerlin](https://zuberlin.city/) | Berlin | 13-22 June | 
+| [SIPS](https://www.improvingpsych.org/SIPS2025/) | Budapest | 25-27 June  |
+| [Metascience](https://metascience.info/) | London | 30 June – 2 July |
+| [Zanzalu](https://lu.ma/1kzrdu3s) | Zanzibar | July 6 - August 1 |
+| [Community Over Code](https://sessionize.com/communityovercode-asia-2025/) | Beijing | 25-27 July | 21 Apr |
+| [Open Source Summit India](https://events.linuxfoundation.org/open-source-summit-india/) | Hyderabad, India | 5 August | 6 April |
+| [Open Source Summit EU](https://events.linuxfoundation.org/open-source-summit-europe/program/cfp/) | Amsterdam | 25-27 August | 14 April |
+| [PyCon India](https://in.pycon.org/2025/cfp/) | Bengaluru | September 12-15 | 18 May |
+| Open Science Fair | Switzerland | 15-17 Sept |
+| [Open Science Conference](https://www.open-science-conference.eu/) | Germany | 8 – 9 Oct |
+| [International Data Week](https://idw2025.org/) | Brisbane | 13-16 Oct | 15 April |
+| OHM Gathering? | Brisbane | 11-12 Oct? | ? |
+| [Open Source Summit Korea](https://events.linuxfoundation.org/open-source-summit-india/) | Seoul | 5 Nov | 30 June |
+| [Open Source Summit Japan](https://events.linuxfoundation.org/open-source-summit-japan/) | Tokyo | 8-10 Dec | 3 Aug |
 
 (see also [OHM Calendar](https://calendar.google.com/calendar/u/0?cid=b3BlbmhlYXJ0bWluZC5vcmdAZ21haWwuY29t))
