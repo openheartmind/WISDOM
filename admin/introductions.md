@@ -2,6 +2,23 @@
 Use this document to collect informal introductions to people and communities, including requests for support. More formal content like applications and website content should go [here](content_record.md) instead). Place newer contributions at the top, using two hashes to create a new title (## Example title), and three or four hashes to create subheadings where needed (### Example subheading). You can link websites by selecting the relevant text and pasting.
 
 
+
+## Funding the Commons TG introduction
+Hey folks! 
+
+We’re building a free open-source framework that helps communities determine the relative value of all contributions, including evaluations themselves, enabling automated rewards and cross-community coordination through interoperable metrics. 🌱
+
+We’ve proven the concept across diverse use cases and communities, including the recent FtC Design Jam in Bangkok: https://youtu.be/88G-iU-wIP8?si=fNHzX0Cm3O7NNxfP&t=3096 
+
+Currently building an MVP and seeking a front end developer to join the team (React & NextJS). We will be rewarding contributors retrospectively, via the same framework we’re creating, but as this is an ongoing experiment and funding is limited, would suit someone who can contribute freely without need for immediate return. 
+
+See links for more info, and please feel free to reach out with any feedback or questions 🙏
+
+https://openheartmind.org
+https://github.com/openheartmind/WISDOM
+
+
+
 ## CHAOSS Slack introduction
 Hey folks! @Rowland Mosbergen suggested I join here as we’re developing a project that may be of service to the CHAOSS mission.
 We’re researching and developing an open source system that can estimate the relative value of literally any contribution, using an inclusive peer-evaluation process that motivates engagement through direct rewards, including rewards for evaluations themselves.
