@@ -2,14 +2,14 @@
 
 ### Research
 1. Write research paper on AIMOS prototype study
-2. Apply for funding (open science, ethereum)
-3. Distribute funding to AIMOS contributors based on WISDOM metrics
+2. Apply for funding (open science, open source, crypto)
+3. Distribute funding to AIMOS contributors using WISDOM metrics
 4. Write research paper on funding distribution
 5. (repeat)
 
 ### Tech
 1. Build MVP app, record contributions
-2. Use app to value WISDOM contributions
+2. Use app to value contributions
 3. Distribute portion of funds to contributors
 4. Write report on funding distribution
 5. (repeat)
