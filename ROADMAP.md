@@ -1,5 +1,13 @@
 # WISDOM Roadmap
 
+| Quarter | Development | Research | Funding |
+| --- | --- | --- | --- |
+| Q1 2025 | ZuGrama prototypes | ZuGrama report, AIMOS paper | 
+| Q2 2025 | MVP alpha release | Alpha testing with OHM backlog & existing partners (ZuGrama, AIMOS, LoPhi?) | ? |
+| Q3 2025 | MVP beta release | Beta testing with new communities (see below) |
+| Q4 2025 | MVP release | OHM Gathering 2025 |
+...
+
 ### Research
 1. Write research paper on AIMOS prototype study
 2. Apply for funding (open science, open source, crypto)
@@ -7,7 +15,7 @@
 4. Write research paper on funding distribution
 5. (repeat)
 
-### Tech
+### Development
 1. Build MVP app, record contributions
 2. Use app to value contributions
 3. Distribute portion of funds to contributors
@@ -20,16 +28,6 @@
 3. Distribute excess funds to contributors
 4. Write report on OHM Gathering and funding distribution
 5. (repeat)
-
-### Roadmap for 2025
-
-| Quarter | Tech | Research & Writing | Funding proposals |
-| --- | --- | --- | --- |
-| Q1 | ZuGrama prototypes | ZuGrama report, AIMOS paper | 
-| Q2 | MVP beta release | Alpha testing with OHM backlog & existing partners (ZuGrama, AIMOS, LoPhi?) | ? |
-| Q3 | MVP beta release | Beta testing with new communities (see below) |
-| Q4 | 
-...
 
 ### Conferences & Popup villages for 2025
 (crossed out = Coops unable to attend)
