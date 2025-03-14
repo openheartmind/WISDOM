@@ -2,6 +2,40 @@
 Use this document to collect formal written content, such as conference proposals, website text, grant applications, etc. (informal introductions and requests for support should go [here](introductions.md) instead). Place newer contributions at the top, using two hashes to create a new title (## Example title), and three or four hashes to create subheadings where needed (### Example subheading). You can link websites by selecting the relevant text and pasting.
 
 
+
+## Metascience Alliance proposal for activities for Day 3 of Metascience 2025? (1hr 45min, in-person session) 
+I propose an interactive hackathon in which we will pilot-test Metavaluation, an open, participatory evaluation framework designed to fairly recognize and reward diverse contributions across research communities. By applying it to Metascience 2025, we will explore how participatory valuation can surface community values, incentivize contributions, and generate interoperable metrics for future metascience initiatives.
+
+Agenda
+	1.	Introduction to Metavaluation (15 min)
+	•	Overview of Metavaluation’s core mechanics, including its pairwise evaluation model and how evaluations themselves are valued to automate multi-dimensional valuations.
+	•	Presentation of prototype data from open science conferences, Web3 communities, and citizen-science initiatives, showing how Metavaluation can surface community values, recognize overlooked contributions, and connect communities through standardized multidimensional metrics.
+	2.	Live Valuation of Metascience 2025 Contributions (60 min)
+	•	Participants nominate diverse contributions, such as talks, reviews, planning, administration, marketing, and financial contributions.
+	•	Participants evaluate contributions across multiple dimensions using a simple, inclusive pairwise comparisons protocol.
+	•	Contribution values are determined automatically, with standardized scores pegged to the value of a single pairwise comparison.
+	3.	Results and Discussion (30 min)
+	•	Review and discuss valuation scores and reflections on the process.
+	•	Explore how participatory evaluation can strengthen collaboration, incentivize contributions, and enable self-governance through community-driven metrics.
+	•	Discuss potential future integrations with Metascience Alliance activities, including community building, workforce development, matchmaking, and funding allocation.
+
+Expected Outcomes
+
+✅ First-of-its-Kind Metascience Dataset – Generates a community-driven dataset reflecting the perceived value of diverse contributions at Metascience 2025.
+✅ Proof-of-Concept for Future Use – Demonstrates the viability of Metavaluation as an interoperable valuation layer for metascience, paving the way for automated contributor rewards and participatory decision-making.
+✅ Engagement & Knowledge Sharing – Provides a hands-on experience in decentralized evaluation, offering insights to refine Metavaluation for use across metascience communities.
+
+Alignment with the Metascience Alliance Mission
+
+This session directly supports the Metascience Alliance’s goals by:
+	•	Building Community – Facilitating an interactive, collaborative experience where researchers co-create evaluation data.
+	•	Developing Workforce & Best Practices – Training participants in participatory evaluation methods applicable to academic and decentralized research ecosystems.
+	•	Driving Innovation – Piloting a scalable, community-driven framework that could inform future metascience funding and governance models.
+
+I propose to deliver this session and am happy to coordinate with organizers to ensure alignment with the conference program and Metascience Alliance mission.
+
+
+
 ## DeSci Berlin application
 ### Your company/organization name and website
 Open Heart + Mind (OHM): http://openheartmind.org/
