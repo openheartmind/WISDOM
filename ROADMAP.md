@@ -35,14 +35,15 @@
 | What    | When | Where | Proposal Due | Applied |
 | --- | --- | --- | --- | --- |
 | ZuGrama | Trivandrum, India | Jan 5 - Feb 16 | [ ] |
-| ~~[ZuAfrique](https://zuafrique.onrender.com/)~~ | Kilifi Kenya | 15 April - 6 May |  [ ] |
-| [Zuitzerland](https://zuitzerland.ch/) | Switzerland | 1-26 May |  [ ] |
-| [DeSci Berlin](https://www.desci.berlin/) | Berlin | 10-11 June |  [ ] |
-| [Funding the Commons Berlin](https://www.fundingthecommons.io/) | Berlin |  14-15 June |  [ ] |
-| [ZuBerlin](https://zuberlin.city/) | Berlin | 13-22 June |  [ ] |
-| [SIPS](https://www.improvingpsych.org/SIPS2025/) | Budapest | 25-27 June  | [ ] |
-| [Metascience](https://metascience.info/) | London | 30 June – 2 July | [ ] |
-| [Zanzalu](https://lu.ma/1kzrdu3s) | Zanzibar | July 6 - August 1 | [ ] |
+| ~~[ZuAfrique](https://zuafrique.onrender.com/)~~ | Kilifi Kenya | 15 April - 6 May |  |
+| [Zuitzerland](https://zuitzerland.ch/) | Switzerland | 1-26 May | Rolling |  x |
+| [DeSci Week Liberland Popup](https://liberland.org/news/633-liberland-desci-despace-popup-city-a-month-long-exploration-of-innovation-and-freedom) | Serbia | 5–11 May | Rolling | |
+| [DeSci Berlin](https://www.desci.berlin/) | Berlin | 10-11 June | Rolling |  x |
+| [Funding the Commons Berlin](https://www.fundingthecommons.io/) | Berlin |  14-15 June |  N/A |
+| [ZuBerlin](https://zuberlin.city/) | Berlin | 13-22 June | Rolling |
+| [SIPS](https://www.improvingpsych.org/SIPS2025/) | Budapest | 25-27 June  |  | x |
+| [Metascience](https://metascience.info/) | London | 30 June – 2 July | | x |
+| [Zanzalu](https://lu.ma/1kzrdu3s) | Zanzibar | July 6 - August 1 | | |
 | [Community Over Code](https://sessionize.com/communityovercode-asia-2025/) | Beijing | 25-27 July | 21 Apr | [ ] |
 | [Open Source Summit India](https://events.linuxfoundation.org/open-source-summit-india/) | Hyderabad, India | 5 August | 6 April | [ ] |
 | [Open Source Summit EU](https://events.linuxfoundation.org/open-source-summit-europe/program/cfp/) | Amsterdam | 25-27 August | 14 April | [ ] |
