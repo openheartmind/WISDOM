@@ -51,7 +51,7 @@
 | Open Science Fair | Switzerland | 15-17 Sept | [ ] |
 | [Open Science Conference](https://www.open-science-conference.eu/) | Germany | 8 – 9 Oct | [ ] |
 | [International Data Week](https://idw2025.org/) | Brisbane | 13-16 Oct | 15 April | [ ] |
-| OHM Gathering? | Brisbane | 11-12 Oct? | ? | [ ] |
+| OHM Gathering? | Brisbane | 3-5 Oct? | ? | [ ] |
 | [Open Source Summit Korea](https://events.linuxfoundation.org/open-source-summit-india/) | Seoul | 5 Nov | 30 June | [ ] |
 | [Open Source Summit Japan](https://events.linuxfoundation.org/open-source-summit-japan/) | Tokyo | 8-10 Dec | 3 Aug | [ ] |
 
