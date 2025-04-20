@@ -1,5 +1,6 @@
 Ideas for the WISDOM acronym:
-- **Weighted Information System for Distributed Open Merit**
+- **Weighted Information System for Decentralised Open Metavaluation**
+- Weighted Information System for Distributed Open Merit
 - Web3 Information Standards for Distributed Open science and Meta-research
 - Wholehearted Information Standards for Distributed Open science and Metaresearch
 - Worldwide Information Standards for Dispersing Open science and Metaresearch
@@ -23,6 +24,10 @@ Ideas for the WISDOM acronym:
 - Weaving an Integrated System for Decentralized Opportunity Maximization
 - Worldwide Initiative for Sustainable Development through Open Multistakeholderism
 - Web-Integrated System for Democratizing Open Microcontributions
+
+Ideas for the WisdOHM name:
+- Weighted Information System for Decentralising OHM
+- ... or just leave it as is, referencing both the "wisdom of the crowd" effect and our vision for enabling value-aligned system enabling ethically guided coordination
 
 Possible terms for the mechanism:
 - Metavaluation
