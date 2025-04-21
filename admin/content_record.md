@@ -53,38 +53,6 @@ No technical background required—just your perspective, your values, and your 
 
 
 
-## Metascience Alliance proposal for activities for Day 3 of Metascience 2025? (1hr 45min, in-person session) 
-I propose an interactive hackathon in which we will pilot-test Metavaluation, an open, participatory evaluation framework designed to fairly recognize and reward diverse contributions across research communities. By applying it to Metascience 2025, we will explore how participatory valuation can surface community values, incentivize contributions, and generate interoperable metrics for future metascience initiatives.
-
-Agenda
-	1.	Introduction to Metavaluation (15 min)
-	•	Overview of Metavaluation’s core mechanics, including its pairwise evaluation model and how evaluations themselves are valued to automate multi-dimensional valuations.
-	•	Presentation of prototype data from open science conferences, Web3 communities, and citizen-science initiatives, showing how Metavaluation can surface community values, recognize overlooked contributions, and connect communities through standardized multidimensional metrics.
-	2.	Live Valuation of Metascience 2025 Contributions (60 min)
-	•	Participants nominate diverse contributions, such as talks, reviews, planning, administration, marketing, and financial contributions.
-	•	Participants evaluate contributions across multiple dimensions using a simple, inclusive pairwise comparisons protocol.
-	•	Contribution values are determined automatically, with standardized scores pegged to the value of a single pairwise comparison.
-	3.	Results and Discussion (30 min)
-	•	Review and discuss valuation scores and reflections on the process.
-	•	Explore how participatory evaluation can strengthen collaboration, incentivize contributions, and enable self-governance through community-driven metrics.
-	•	Discuss potential future integrations with Metascience Alliance activities, including community building, workforce development, matchmaking, and funding allocation.
-
-Expected Outcomes
-
-✅ First-of-its-Kind Metascience Dataset – Generates a community-driven dataset reflecting the perceived value of diverse contributions at Metascience 2025.
-✅ Proof-of-Concept for Future Use – Demonstrates the viability of Metavaluation as an interoperable valuation layer for metascience, paving the way for automated contributor rewards and participatory decision-making.
-✅ Engagement & Knowledge Sharing – Provides a hands-on experience in decentralized evaluation, offering insights to refine Metavaluation for use across metascience communities.
-
-Alignment with the Metascience Alliance Mission
-
-This session directly supports the Metascience Alliance’s goals by:
-	•	Building Community – Facilitating an interactive, collaborative experience where researchers co-create evaluation data.
-	•	Developing Workforce & Best Practices – Training participants in participatory evaluation methods applicable to academic and decentralized research ecosystems.
-	•	Driving Innovation – Piloting a scalable, community-driven framework that could inform future metascience funding and governance models.
-
-I propose to deliver this session and am happy to coordinate with organizers to ensure alignment with the conference program and Metascience Alliance mission.
-
-
 
 ## DeSci Berlin application
 ### Your company/organization name and website
@@ -117,6 +85,8 @@ We will close by inviting all attendees to participate in a collective valuation
 
 ### Please add a short bio between 30-50 words. We will use this on our website and any related social media publications.
 Dr. Cooper Smout is a designer, researcher, and social entrepreneur devoted to systemic change. He founded a collective action platform during his PhD to promote open science practices, before designing an innovative peer-review model and founding OHM to prototype these ideas, where he serves as President and R&D lead.
+
+
 
 
 
@@ -211,6 +181,68 @@ By following a phased approach—starting with broad research, narrowing to a fo
 
 
 
+
+
+
+## Metascience Alliance proposal for activities for Day 3 of Metascience 2025? (1hr 45min, in-person session) 
+I propose an interactive hackathon in which we will pilot-test Metavaluation, an open, participatory evaluation framework designed to fairly recognize and reward diverse contributions across research communities. By applying it to Metascience 2025, we will explore how participatory valuation can surface community values, incentivize contributions, and generate interoperable metrics for future metascience initiatives.
+
+Agenda
+	1.	Introduction to Metavaluation (15 min)
+	•	Overview of Metavaluation’s core mechanics, including its pairwise evaluation model and how evaluations themselves are valued to automate multi-dimensional valuations.
+	•	Presentation of prototype data from open science conferences, Web3 communities, and citizen-science initiatives, showing how Metavaluation can surface community values, recognize overlooked contributions, and connect communities through standardized multidimensional metrics.
+	2.	Live Valuation of Metascience 2025 Contributions (60 min)
+	•	Participants nominate diverse contributions, such as talks, reviews, planning, administration, marketing, and financial contributions.
+	•	Participants evaluate contributions across multiple dimensions using a simple, inclusive pairwise comparisons protocol.
+	•	Contribution values are determined automatically, with standardized scores pegged to the value of a single pairwise comparison.
+	3.	Results and Discussion (30 min)
+	•	Review and discuss valuation scores and reflections on the process.
+	•	Explore how participatory evaluation can strengthen collaboration, incentivize contributions, and enable self-governance through community-driven metrics.
+	•	Discuss potential future integrations with Metascience Alliance activities, including community building, workforce development, matchmaking, and funding allocation.
+
+Expected Outcomes
+
+✅ First-of-its-Kind Metascience Dataset – Generates a community-driven dataset reflecting the perceived value of diverse contributions at Metascience 2025.
+✅ Proof-of-Concept for Future Use – Demonstrates the viability of Metavaluation as an interoperable valuation layer for metascience, paving the way for automated contributor rewards and participatory decision-making.
+✅ Engagement & Knowledge Sharing – Provides a hands-on experience in decentralized evaluation, offering insights to refine Metavaluation for use across metascience communities.
+
+Alignment with the Metascience Alliance Mission
+
+This session directly supports the Metascience Alliance’s goals by:
+	•	Building Community – Facilitating an interactive, collaborative experience where researchers co-create evaluation data.
+	•	Developing Workforce & Best Practices – Training participants in participatory evaluation methods applicable to academic and decentralized research ecosystems.
+	•	Driving Innovation – Piloting a scalable, community-driven framework that could inform future metascience funding and governance models.
+
+I propose to deliver this session and am happy to coordinate with organizers to ensure alignment with the conference program and Metascience Alliance mission.
+
+
+## Metascience 2025 Travel Bursary Letter of Support
+
+To the Metascience 2025 Organising Committee,
+
+
+I am writing on behalf of the Institute for Globally Distributed Open Research and Education to support Dr. Cooper Smout’s application for a travel bursary to attend Metascience 2025.
+
+
+Dr. Smout is an affiliated researcher at IGDORE and a pioneer in the open science and metascience space. He founded Free Our Knowledge, a collective action platform promoting open research practices, and has published multiple open science and metascience papers under his IGDORE affiliation.
+
+
+Cooper is also the project lead for Metavaluation, an open-source, participatory evaluation framework designed to re-align incentives in academia by recognising diverse research contributions through interoperable, value-aligned metrics. His proposal for Metascience 2025 includes a talk and live demo to launch the Metavaluation app, developed by OHM—the citizen science community he founded to prototype and refine the model. He has also proposed to lead a hackathon for the Metascience Alliance, in which participants would use the app to value contributions to the conference itself—offering a hands-on, community-led proof of concept for the Metascience community and beyond.
+
+
+As an independent researcher who has self-funded his work for several years, Cooper would greatly benefit from travel support. He brings practical experience, innovative thinking, and a strong commitment to reforming research systems—qualities that align closely with the goals of the Metascience conference.
+
+
+We fully support his application and believe his participation will add significant value and a diverse perspective to the conference.
+
+
+Sincerely,
+
+
+
+Gavin J. Taylor
+On behalf of the Board
+Institute for Globally Distributed Open Research and Education (IGDORE)
 
 
 ## Metascience 2025 application
