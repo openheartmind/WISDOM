@@ -34,7 +34,7 @@ Please contact [Cooper](mailto:cooper@openheartmind.org) if you can attend any o
 
 | What    | When | Where | Proposal Due | Applied? |
 | --- | --- | --- | --- | --- |
-| ZuGrama | Trivandrum, India | Jan 5 - Feb 16 | [ ] |
+| ZuGrama | Trivandrum, India | Jan 5 - Feb 16 |  | Coops |
 | *[ZuAfrique](https://zuafrique.onrender.com/)* | Kilifi Kenya | 15 April - 6 May |  |
 | *[Zuitzerland](https://zuitzerland.ch/)* | Switzerland | 1-26 May | Rolling | Coops |
 | [DeSci Week Liberland Popup](https://liberland.org/news/633-liberland-desci-despace-popup-city-a-month-long-exploration-of-innovation-and-freedom) | Serbia | 5–11 May | Rolling | |
