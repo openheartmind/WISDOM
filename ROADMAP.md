@@ -30,7 +30,7 @@
 5. (repeat)
 
 ### Conferences & Popup villages for 2025
-(crossed out = Coops unable to attend)
+Please contact [Cooper](mailto:cooper@openheartmind.org) if you can attend any of these and would like to present on OHM! (crossed out = Coops unable to attend)
 
 | What    | When | Where | Proposal Due | Applied |
 | --- | --- | --- | --- | --- |
@@ -45,11 +45,11 @@
 | [Metascience](https://metascience.info/) | London | 30 June – 2 July | | x |
 | [Zanzalu](https://lu.ma/1kzrdu3s) | Zanzibar | July 6 - August 1 | | |
 | [Community Over Code](https://sessionize.com/communityovercode-asia-2025/) | Beijing | 25-27 July | 21 Apr | [ ] |
-| [Open Source Summit India](https://events.linuxfoundation.org/open-source-summit-india/) | Hyderabad, India | 5 August | 6 April | [ ] |
-| [Open Source Summit EU](https://events.linuxfoundation.org/open-source-summit-europe/program/cfp/) | Amsterdam | 25-27 August | 14 April | [ ] |
-| [PyCon India](https://in.pycon.org/2025/cfp/) | Bengaluru | September 12-15 | 18 May | [ ] |
-| Open Science Fair | Switzerland | 15-17 Sept | [ ] |
-| [Open Science Conference](https://www.open-science-conference.eu/) | Germany | 8 – 9 Oct | [ ] |
+| ~~[Open Source Summit India](https://events.linuxfoundation.org/open-source-summit-india/)~~ | Hyderabad, India | 5 August | 6 April | [ ] |
+| ~~[Open Source Summit EU](https://events.linuxfoundation.org/open-source-summit-europe/program/cfp/)~~ | Amsterdam | 25-27 August | 14 April | [ ] |
+| ~~[PyCon India](https://in.pycon.org/2025/cfp/)~~ | Bengaluru | September 12-15 | 18 May | [ ] |
+| ~~Open Science Fair~~ | Switzerland | 15-17 Sept | [ ] |
+| ~~[Open Science Conference](https://www.open-science-conference.eu/)~~ | Germany | 8 – 9 Oct | [ ] |
 | [International Data Week](https://idw2025.org/) | Brisbane | 13-16 Oct | 15 April | [ ] |
 | OHM Gathering? | Brisbane | 3-5 Oct? | ? | [ ] |
 | [Open Source Summit Korea](https://events.linuxfoundation.org/open-source-summit-india/) | Seoul | 5 Nov | 30 June | [ ] |
