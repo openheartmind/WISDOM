@@ -3,6 +3,56 @@ Use this document to collect formal written content, such as conference proposal
 
 
 
+
+### Community Over Code Asia 2025
+
+### Speaker Tagline:
+
+Designer, neuroscientist, and social entrepreneur building open-source systems for collective intelligence and governance.
+
+### Speaker Biography:
+
+Dr. Cooper Smout is a designer, neuroscientist, and social entrepreneur exploring new ways to incentivize a collective shift toward a commons-led society. After completing a PhD in the neuroscience of consciousness, he founded Free Our Knowledge, a collective action platform for academic reform, and Open Heart + Mind (OHM), a citizen-science community dedicated to prototyping radical models for systemic change.
+
+He is the system designer and project lead of Metavaluation, an open-source protocol for participatory valuation and reward—designed to surface invisible work and align incentives across diverse communities. His work spans academia, open source, Web3, and grassroots ecosystems, with over five years of experience designing and testing innovative models across conferences, gatherings, research communities, online platforms, and decentralized networks.
+
+### TALK
+#### Title:
+
+Community Over Code, Quantified: A Participatory Framework for Valuing Diverse Open Source Contributions
+
+#### Description:
+
+Open source runs on invisible labor—mentorship, documentation, governance, community care—yet recognition and reward systems still center around code. What if we could measure the value of all contributions in a fair, transparent, and community-driven way—while incentivizing participation?
+
+This talk introduces **Metavaluation**—a collective valuation protocol designed to recognise and reward diverse contributions using standardised, interoperable units. At its core is a simple evaluation mechanism: pairwise comparisons that allow everyone to express what they value with minimal time or cognitive effort.
+
+The key innovation lies in treating these comparisons as a ‘base unit’ of value, then applying the same process to evaluate the evaluations themselves—a recursive mechanism we call “metavaluation.” This generates a scalable feedback loop that produces relative value scores for all contributions—code and non-code alike—based on what the community values most.
+
+Metavaluation has been prototyped across diverse communities—spanning art, science, and technology—and in contexts like conferences, projects, and festivals. These real-world tests show its potential for interoperability across community boundaries.
+
+The speaker will introduce the protocol, share key learnings from past use cases, and demo the newly released, open-source Metavaluation app—a minimal viable product designed to make this protocol freely available to any community. The talk will close with an invitation to participate in a collective valuation of contributions to the Community Over Code conference itself—an experiment that could surface invisible work, guide future events, and create pathways for rewarding contributors based on their true impact. 
+
+### WORKSHOP
+#### Title: 
+
+Community Over Code, In Practice: A Live Experiment in Valuing Diverse Contributions
+
+#### Description:
+
+Open source depends on more than just code—it runs on documentation, community care, governance, mentoring, funding, and the invisible labor that keeps projects alive. But how often do we truly see and value those contributions?
+
+This workshop invites you to take part in a real-time experiment to collectively recognize and reward diverse contributions to the Community Over Code conference. We’ll introduce Metavaluation—a participatory protocol that enables communities to evaluate contributions through a simple, inclusive review process, paired with an innovative analysis layer that generates standardized value metrics for use within and across communities.
+
+Using our newly released, free, open-source app, we’ll nominate and assess real contributions to the conference—whether it’s a standout talk, a moment of mentorship, or behind-the-scenes organizing. Together, we’ll generate a transparent, multidimensional map of what this community truly values—where every voice is heard, and every act of service is seen.
+
+The data generated may benefit individual contributors through fairer recognition and automated rewards based on the value they bring to the community. It may also serve the broader community by strengthening trust, incentivizing invisible work, and powering AI tools trained on value-aligned data to support community events and the collective mission.
+
+No technical background required—just your perspective, your values, and your voice.
+
+
+
+
 ## Metascience Alliance proposal for activities for Day 3 of Metascience 2025? (1hr 45min, in-person session) 
 I propose an interactive hackathon in which we will pilot-test Metavaluation, an open, participatory evaluation framework designed to fairly recognize and reward diverse contributions across research communities. By applying it to Metascience 2025, we will explore how participatory valuation can surface community values, incentivize contributions, and generate interoperable metrics for future metascience initiatives.
 
