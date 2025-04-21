@@ -120,6 +120,99 @@ Dr. Cooper Smout is a designer, researcher, and social entrepreneur devoted to s
 
 
 
+## DAOstar Research Fellowship Application
+
+### If you're representing organization(s), tell us more about them
+Open Heart + Mind (OHM) is a volunteer-run community and registered charity dedicated to exploring radical models for society based on open science principles such as transparency, fairness, equity, diversity, and inclusion. Founded in 2022, OHM has partnered with a registered arts charity to co-create a diverse range of community gatherings, using each as an opportunity to prototype new governance and valuation models.
+
+Our primary focus is Metavaluation, an open-source framework designed to help communities recognize, reward, and coordinate contributions transparently and equitably. Metavaluation was built to address the collective action problem in academia but has since evolved into a generalizable solution for diverse communities, including those in the arts, science, and technology sectors.
+
+At its core, Metavaluation replaces traditional rating systems with pairwise comparisons to assess contributions based on relative rather than absolute value. This approach simplifies the evaluation process and allows communities to generate interoperable metrics that reflect their unique values. A key innovation of Metavaluation is its self-reinforcing feedback loop, which incentivizes high-quality evaluations by rewarding reviewers directly for their assessments.
+
+We have successfully prototyped Metavaluation across various communities, demonstrating its capacity to create fair, transparent, and scalable systems for recognizing and rewarding contributions. We are currently building an MVP (scheduled for release in Q2 this year) and plan to launch it at Metascience 2025—the world’s largest metaresearch conference—to value contributions to the conference itself.
+
+Our goal is to extend Metavaluation’s framework to Web3 communities and DAOs, leveraging its ability to generate standardized, multi-dimensional reward systems that align with the principles of decentralized governance. By enabling communities to value contributions fairly and sustainably, we believe Metavaluation can serve as an interoperable layer for governance and compensation in DAOs and beyond.
+
+### In 500 words or less, tell us about your experiences with DAOs, and what keeps you interested in them.
+Beyond user interactions with Uniswap and other DAOs, my experience with DAOs has been primarily conceptual. At Open Heart + Mind (OHM), we’re building a recognition, reward, and governance system that embodies many DAO-like qualities. Although we have not yet implemented smart contracts or blockchain technologies, we have been developing Metavaluation with decentralization and automation in mind, focusing first on the core mechanics of decentralized valuation. 
+
+
+Metavaluation is an open-source framework that enables communities to assess and reward contributions transparently and equitably, evolved through an active process of prototyping with diverse communities. Early prototypes revealed that traditional methods, such as ratings and token distributions, are highly biased and non-inclusive to diverse populations. We experimented with rubrics to control these issues but found them cumbersome and non-adaptive to diverse contribution types. Critically, we believed that assessing the quality of evaluations themselves would be necessary to properly incentivise high-quality feedback and meaningful engagement, which is not easily achieved through these prior mechanisms.
+
+
+This led us to pivot to pairwise comparisons as a simpler and more inclusive way to assess contributions based on relative rather than absolute value. Pairwise comparisons simplified the evaluation process and allowed us to standardize assessments using a ‘base unit’ of value. This enabled a metavaluation process where the relative value of all contributions could be normalized against this base unit, creating a self-reinforcing feedback loop that incentivizes high-quality evaluations and automates the valuation process.
+
+
+We validated this model across diverse communities in the arts, science, and technology sectors. We found that some dimensions, such as Gratitude, are highly adaptable to diverse contributions, whereas others (e.g., uniqueness) are less reliable and thus less ideally suited to the core Metavaluation model. We demonstrated the potential for interoperable metrics by retaining Gratitude across all prototypes, spanning open science conferences, community arts gatherings, and Web3 communities. Feedback from these communities led to the adoption of a tri-dimensional model to foster interoperability, while retaining flexibility for each community’s mission.
+
+
+We built a proof-of-concept web app, which revealed several valuable insights into achieving resilience in a decentralized organizational structure. Building on these learnings, we now have a diverse international team aligned in our vision for the app, which is forecast for release in Q2 of this year.
+
+
+What keeps me interested in DAOs is their potential to motivate systemic change and address global problems that centralized institutions struggle to resolve. I believe that the Metavaluation model could help DAOs overcome challenges such as aligning incentives, ensuring fair compensation, and preventing plutocratic governance. By embedding Metavaluation as an interoperable layer for valuing contributions, DAOs could move beyond simple token-based incentives to multi-dimensional reward systems that better reflect community values and contributions.
+
+
+In short, what excites me about DAOs is the potential to combine their technical infrastructure with Metavaluation’s validated model for decentralized valuation, creating systems that are both fair and scalable. I believe this synthesis could unlock new forms of governance and resource coordination across a wide range of DAO communities.
+
+
+
+### “In 1000 words or less, describe what you would like to spend the 3 months working on.”
+
+
+Over the next few months, I plan to continue developing the Open Heart + Mind (OHM) project, focusing on launching and testing the Metavaluation MVP—a free, open-source app designed to empower communities to assess and reward contributions transparently and equitably. The MVP is scheduled for release in Q2 this year and will be made freely available to encourage collaboration with diverse communities.
+
+
+We plan to conduct alpha testing using OHM’s own historical data of recorded contributions, to validate the MVP’s functionality. Beta testing will follow with partnered communities such as AIMOS (an open science conference) and ZuGrama (a Web3 community). We aim to officially launch the Metavaluation app at Metascience 2025—the world’s largest metaresearch conference to date—using it to value contributions to the conference itself. This will serve as a high-visibility pilot to attract further interest and feedback from diverse research communities.
+
+
+With the support of the DAOstar Fellowship, I would like to expand this work to explore how Metavaluation can align with the needs of DAOs. Specifically, I propose to focus on the following three research areas:
+
+
+####  1. Broad Research into the DAO Space
+The first area of focus would be to conduct a literature review and targeted interviews to uncover:
+	•	Values and needs: Exploring what principles and priorities matter most to different DAOs and how these can inform appropriate valuation dimensions.
+	•	Contribution scope: Understanding what types of contributions DAOs typically recognize and reward—ranging from code and governance to community-building and content creation.
+	•	Pain points: Identifying challenges DAOs face with existing compensation and reward mechanisms.
+	•	Technical infrastructure: Investigating the range of technical implementations in use by various DAOs, along with their strengths and limitations.
+
+
+The goal of this research would be to build a broad understanding of the DAO ecosystem and identify key opportunities for integrating Metavaluation’s model.
+
+
+#### 2. Focused Case Study with a High-Profile DAO
+In addition to broad research, I propose to conduct a detailed case study with at least one high-profile DAO to test Metavaluation’s model mechanics in practice. Depending on the progress of the MVP, this research can be conducted either via the app or through spreadsheet prototypes.
+
+
+Key activities would include:
+	•	Participatory valuation: Inviting DAO members to nominate and value a representative sample of contributions using pairwise comparisons.
+	•	Exploring values and contribution scope: Analyzing which valuation dimensions and types of contributions resonate most with the community.
+	•	Gamification and incentives: Testing simple incentives to encourage broad participation, aiming to capture a rich representation of contributions and their relative values.
+	•	Detailed model mechanics: Assessing how well pairwise comparisons and metavaluation perform in practice within a DAO context.
+
+The goal is to gather in-depth feedback on the usability and effectiveness of Metavaluation’s model in a real-world DAO setting, providing actionable insights for refinement.
+
+
+#### 3. Standardization, Interoperability, and Web3 Integration
+The third area of focus would involve exploring pathways for aligning Metavaluation with DAOstar standards and integrating it into Web3 ecosystems. Key research areas would include:
+	•	Standardization: Investigating how Metavaluation can build on existing DAOIP standards—such as DAOIP3 for recognizing contributions. If initial research suggests feasibility, I may draft an outline for a potential new DAOIP standard for decentralized valuation.
+	•	Interoperability: Exploring the use of ERC-1155 tokens to represent relative contribution value, enabling DAOs to integrate Metavaluation metrics seamlessly into their governance and compensation systems.
+	•	Web3 integration: Researching smart contracts to automate the valuation and reward process, with a focus on scalable and cost-effective solutions.
+	•	Cross-community metrics: Exploring feasibility of creating interoperable valuation metrics, such as the tri-dimensonal model we recently prototyped at ZuGrama. 
+
+
+The goal is to lay the groundwork for a phased transition from a Web2 MVP to a Web3-compatible model that aligns with DAOstar standards.
+
+
+### Potential Impact
+By focusing on these three research areas, the DAOstar Fellowship would provide a unique opportunity to accelerate Metavaluation’s development and integration with DAOs. The ultimate goal is to transform Metavaluation into a robust, interoperable layer for DAO governance and compensation—empowering communities to reward contributions fairly and sustainably. I believe this approach could help unlock new forms of decentralized coordination and pave the way for a more inclusive and resilient DAO ecosystem.
+
+
+By following a phased approach—starting with broad research, narrowing to a focused case study, and ending with standardization efforts—the DAOstar Fellowship would provide the resources and network necessary to refine Metavaluation’s model mechanics, explore real-world applications, and set the stage for a scalable, interoperable solution for DAO governance.
+
+
+
+
+
 ## Metascience 2025 application
 ### Bio (150 words)
 Dr Cooper Smout is a designer, researcher, and social entrepreneur dedicated to systemic change. Inspired by a Vipassana meditation retreat, he transitioned from a career in architecture to study psychology and neuroscience, earning awards for his Honours and PhD theses on the neural mechanisms of visual awareness.
