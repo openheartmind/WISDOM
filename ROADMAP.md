@@ -1,35 +1,34 @@
-# WISDOM Roadmap
+# OHM Roadmap
 
-| Quarter | Development | Research | Funding |
+# Annual Roadmap
+| Year |  Community | Technology | Outputs |
 | --- | --- | --- | --- |
-| Q1 2025 | ZuGrama prototypes | ZuGrama report, AIMOS paper | 
-| Q2 2025 | MVP alpha release | Alpha testing with OHM backlog & existing partners (ZuGrama, AIMOS, LoPhi?) | ? |
-| Q3 2025 | MVP beta release | Beta testing with new communities (see below) |
-| Q4 2025 | MVP release | OHM Gathering 2025 |
+| 2025 | OHM Gathering v1 | MVP Release |
+| 2026 | OHM Gathering v2 | 
+| 2027 | OHM Gathering v3 |
 ...
 
-### Research
-1. Write research paper on AIMOS prototype study
-2. Apply for funding (open science, open source, crypto)
-3. Distribute funding to AIMOS contributors using WISDOM metrics
-4. Write research paper on funding distribution
-5. (repeat)
+# 2025 Roadmap
+| Date | Moon | Community | Technology | Outputs |
+| --- | --- | --- | --- | --- |
+| 31 Dec | Wolf |  ZuGrama | MVP build |  |
+| Jan 29 | Snow | ZuGrama | MVP build | [ZuGrama prototype report](https://docs.google.com/document/d/180Ryn-3AFCjEpK1_Wg0SpW7wN-tk7kJab19k0F1m0i4/edit?usp=sharing) | 
+| Feb 28 | Worm | AIMOS paper | MVP build |  |  
+| Mar 29 | Pink | AIMOS paper | MVP build |  |  
+| Apr 28 | Flower | Governance docs | OHMcore election | Core documents |
+| May 27 | Strawberry | OHM Gathering v1 (OG1) visioning | MVP soft-release, alpha testing | AIMOS paper |  | 
+| June 25 | Buck | Blockchain Berlin, Metascience conferences | MVP release, beta testing | Metascience presentation |
+| July 25 | Sturgeon | OG1 group proposals (headliners?), Community Over Code conference | OG1 group review | OG1 group invites & promo, Community Over Code presentation | 
+| Aug 23 | Corn | OG1 individual proposals | OG1 individual review | OG1 individual invites & promo  | 
+| Sept 22 | Hunters | OG1 individual proposals | OG1 individual review | OG1 individual invites & promo  | 
+| Oct 21 | Beaver | International Data Week, OG1 individual proposals | OG1 individual review | International Data Week presentation, OG1 individual invites & promo | 
+| Nov 20 | Cold | OG1 preparation & execution |  | **OHM Gathering v1** (5-7 Dec 🌕) | 
+| Dec 20 | Wolf | Re-gathering | OG1 analysis | OG1 report/manifesto, Payments to OG1 contributors, OG1 video | 
 
-### Development
-1. Build MVP app, record contributions
-2. Use app to value contributions
-3. Distribute portion of funds to contributors
-4. Write report on funding distribution
-5. (repeat)
+* To add these moon cycles to your calendar, subscribe to [this URL](https://mooncal.ch/mooncal.ics?created=41234647928&lang=en&phases[full]=true&phases[new]=true&phases[quarter]=false&phases[daily]=false&style=withDescription&events[lunareclipse]=true&events[solareclipse]=true&events[moonlanding]=false&before=P6M&after=P2Y&zone=Australia/Brisbane)
 
-### Community
-1. Host second OHM Gathering, record contributions
-2. Use app to value gathering contributions
-3. Distribute excess funds to contributors
-4. Write report on OHM Gathering and funding distribution
-5. (repeat)
 
-### Conferences & Popup villages for 2025
+### 2025 Conferences & Residencies
 Please contact [Cooper](mailto:cooper@openheartmind.org) if you can attend any of these and would like to present on OHM--especially those in italics as Coops cannot attend:
 
 | What    | When | Where | Proposal Due | Applied? |
@@ -52,7 +51,7 @@ Please contact [Cooper](mailto:cooper@openheartmind.org) if you can attend any o
 | *[Open Science Conference](https://www.open-science-conference.eu/)* | Germany | 8 – 9 Oct | 
 | [International Data Week](https://idw2025.org/) | Brisbane | 13-16 Oct | 15 April | 
 | OHM Gathering? | Brisbane | 3-5 Oct? | 
-| [Open Source Summit Korea](https://events.linuxfoundation.org/open-source-summit-india/) | Seoul | 5 Nov | 30 June |  
-| [Open Source Summit Japan](https://events.linuxfoundation.org/open-source-summit-japan/) | Tokyo | 8-10 Dec | 3 Aug |  
+| *[Open Source Summit Korea](https://events.linuxfoundation.org/open-source-summit-india/)* | Seoul | 5 Nov | 30 June |  
+| *[Open Source Summit Japan](https://events.linuxfoundation.org/open-source-summit-japan/)* | Tokyo | 8-10 Dec | 3 Aug |  
 
 (see also [OHM Calendar](https://calendar.google.com/calendar/u/0?cid=b3BlbmhlYXJ0bWluZC5vcmdAZ21haWwuY29t))
