@@ -1,34 +1,52 @@
 # OHM Roadmap
 
-# Annual Roadmap
-| Year |  Community | Technology | Outputs |
-| --- | --- | --- | --- |
-| 2025 | OHM Gathering v1 | MVP Release |
-| 2026 | OHM Gathering v2 | 
-| 2027 | OHM Gathering v3 |
-...
+## Annual Growth Cycle
+Each year represents a full system cycle, rooted in an OHM Gathering and shaped by the community’s evolving needs. Over time, these cycles will grow into an ecosystem of living knowledge, collective frameworks, and shared wisdom.
 
-# 2025 Roadmap
-| Date | Moon | Community | Technology | Outputs |
-| --- | --- | --- | --- | --- |
-| 31 Dec | Wolf |  ZuGrama | MVP build |  |
-| Jan 29 | Snow | ZuGrama | MVP build | [ZuGrama prototype report](https://docs.google.com/document/d/180Ryn-3AFCjEpK1_Wg0SpW7wN-tk7kJab19k0F1m0i4/edit?usp=sharing) | 
-| Feb 28 | Worm | AIMOS paper | MVP build |  |  
-| Mar 29 | Pink | AIMOS paper | MVP build |  |  
-| Apr 28 | Flower | Governance docs | OHMcore election | Core documents |
-| May 27 | Strawberry | OHM Gathering v1 (OG1) visioning | MVP soft-release, alpha testing | AIMOS paper |  | 
-| June 25 | Buck | Blockchain Berlin, Metascience conferences | MVP release, beta testing | Metascience presentation |
-| July 25 | Sturgeon | OG1 group proposals (headliners?), Community Over Code conference | OG1 group review | OG1 group invites & promo, Community Over Code presentation | 
-| Aug 23 | Corn | OG1 individual proposals | OG1 individual review | OG1 individual invites & promo  | 
-| Sept 22 | Hunters | OG1 individual proposals | OG1 individual review | OG1 individual invites & promo  | 
-| Oct 21 | Beaver | International Data Week, OG1 individual proposals | OG1 individual review | International Data Week presentation, OG1 individual invites & promo | 
-| Nov 20 | Cold | OG1 preparation & execution |  | **OHM Gathering v1** (5-7 Dec 🌕) | 
-| Dec 20 | Wolf | Re-gathering | OG1 analysis | OG1 report/manifesto, Payments to OG1 contributors, OG1 video | 
+| Year |  Community | Theme |
+| ---  | --- | --- |
+| 2025 | OHM Gathering v1 | Planting seeds |
+| 2026 | OHM Gathering v2 | TBD |
+| 2027 | OHM Gathering v3 | TBD |
+
+
+## cOHMunity Council Series 2025
+A series of meetings exploring a new theme and use case for the WisdOHM System each new moon cycle, using OHM-Gathering as a case study. Building up to OHM Gathering (OHMG) at the end of the year. 
+
+| Meeting        | Name    | Theme                 | Presentation (presenter)                 | Participatory Research               | Outputs | Other |
+| ---            | ---     | ---                   | ---                                      | ---                                  | ---     | ---   |
+| Apr 28         | Seed    | Values                | Open source collective valuation (Coops) | Weighting values                     | Community-weighted values, Core documents |
+| May 27         | Root    | Governance            | (participatory democracy JS?)            | Electing the CAGA charity committee  | Nominations & rankings           | MVP soft-release?, AIMOS paper |  
+| June 25        | Shoot   | Membranes             | (Extitutional theory PF?)                | Prioritising OHMG fields/categories? | Categories & rankings  | MVP launch, Berlin & Metascience Conferences |
+| July 25        | Trunk   | Resource Allocation   | (Burner camps AF?)                       | Allocating OHMG project grants       | Project proposals, rankings & invites | COC Conference Beijing |
+| Aug 23         | Branch  | Predicting Value      | (prediction markets?)                    | Selecting OHMG participant offerings | Participant offerings, valuations & invites  | High-valley Dawn collab |
+| Sept 22        | Leaf    | Participant Curation  | (conviction voting?)                     | Selecting OHMG participant offerings | Participant offerings, valuations & invites  | 
+| Oct 21         | Bloom   | Invitations Finalised | (post-capitalism JD?)                    | Selecting OHMG participant offerings | Participant offerings, valuations & invites  | International Data Week Brisbane |
+| Nov 20         | Fruit   | **OHM Gathering 5-7 Dec** | Preparing for OHM Gathering (Coops)  | Recording & Valuing OHMG contributions | Contribution records | 
+| Dec 20         | Drop    | Valuation & Reward    | DAO payments?                            | Valuing OHMG contributions (cont.), Rewarding participants | Contribution valuations, Participant payments | 
+| Jan 19         | Ring    | Reputation            | DAO governance?                          | Honouring OHMG participants          | Participant reputation scores | 
+| Feb 17         | Canopy  | Metaresearch          | (BN?)                                    | Identifying externalities & limitations | OHMG report, OHM manifesto, Re-gathering? |
+| March 19       | Compost | Rest & Reflection     | ~                                        | ~ | ~ | OG1 video? |
 
 * To add these moon cycles to your calendar, subscribe to [this URL](https://mooncal.ch/mooncal.ics?created=41234647928&lang=en&phases[full]=true&phases[new]=true&phases[quarter]=false&phases[daily]=false&style=withDescription&events[lunareclipse]=true&events[solareclipse]=true&events[moonlanding]=false&before=P6M&after=P2Y&zone=Australia/Brisbane)
 
 
-### 2025 Conferences & Residencies
+## Weekly Growth Cycle
+Within each monthly Council theme, we’ll move through a full WisdOHM cycle — not just in thought, but in practice.
+
+Like tending a growing tree, we begin by observing and gathering. Then we evaluate, reflect, and share what we’ve learned.
+
+These four phases repeat each moonth — simple, steady, systemic.
+
+| Week |  Phase      | Example tasks      | 
+| ---  | ---         | ---                |
+| 1    | Record      | Nominate people, projects, contributions |
+| 2    | Review      | Value and metavalue contributions  |
+| 3    | Report      | Analyse data, calculate valuations |
+| 4    | Share       | Write report, communicate outcomes |
+
+
+## Conferences & Residencies 2025
 Please contact [Cooper](mailto:cooper@openheartmind.org) if you can attend any of these and would like to present on OHM--especially those in italics as Coops cannot attend:
 
 | What    | When | Where | Proposal Due | Applied? |
