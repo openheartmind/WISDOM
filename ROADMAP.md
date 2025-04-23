@@ -12,8 +12,9 @@ Each year represents a full system cycle — a rhythm of shared learning, rooted
 | 2026 | TBD                   | OHM Gathering v2             | TBD                            |
 | 2027 | TBD                   | OHM Gathering v3             | TBD                            |
 
+
 ## 🌒 cOHMunity Council Series 2025
-A series of meetings exploring a new theme and use case for the WisdOHM System each new moon cycle, using OHM-Gathering as a case study. Building up to OHM Gathering (OHMG) at the end of the year. 
+A series of meetings exploring a new theme and use case for the WisdOHM System each new moon cycle — using OHM Gathering (OHMG) as a live case study. These monthly Councils are open to everyone, and are supported by focused weekly meetings throughout the month.
 
 | Meeting  | Theme   | Topic                 | Heart (presentation))                    | Mind (participatory research)               | Outputs | Other |
 | ---      | ---     | ---                   | ---                                      | ---                                  | ---     | ---   |
@@ -34,18 +35,14 @@ A series of meetings exploring a new theme and use case for the WisdOHM System e
 
 
 ## 🔁 Weekly Growth Cycle
-Within each monthly Council theme, we’ll move through a full WisdOHM cycle — not just in thought, but in practice.
+Within each monthly Council theme, we move through a full WisdOHM cycle — not just in thought, but in practice. We begin by recording what’s emerging. Then we evaluate, reflect, and report what we’ve learned. These four phases repeat each moonth — simple, steady, systemic — and weekly meetings are open to those who can commit to attending all four sessions within the cycle.
 
-Like tending a growing tree, we begin by observing and gathering. Then we evaluate, reflect, and share what we’ve learned.
-
-These four phases repeat each moonth — simple, steady, systemic.
-
-| Week |  Phase      | Example tasks      | 
-| ---  | ---         | ---                |
-| 1    | Record      | Nominate people, projects, contributions |
-| 2    | Review      | Value and metavalue contributions    |
-| 3    | Reflect     | Analyze patterns, surface insights   |
-| 4    | Report      | Communicate outcomes, tell the story |
+| Week | Phase    | Example Tasks                                     |
+|------|----------|---------------------------------------------------|
+| 1    | Record   | Nominate people, projects, contributions          |
+| 2    | Review   | Value and metavalue contributions                 |
+| 3    | Reflect  | Analyze patterns, surface insights                |
+| 4    | Report   | Communicate outcomes, tell the story              |
 
 
 ## Conferences & Residencies 2025
