@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# cOHMunity Code of Conduct
 
 ## Our Pledge
 
