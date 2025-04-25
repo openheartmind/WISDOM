@@ -16,20 +16,20 @@ Each year represents a full system cycle — a rhythm of shared learning, rooted
 ## 🌒 cOHMunity Council Series 2025
 A series of meetings exploring a new theme and use case for the WisdOHM System each new moon cycle — using OHM Gathering (OHMG) as a live case study. These monthly Councils are open to everyone, and are supported by focused weekly meetings throughout the month.
 
-| Meeting  | Theme   | Topic                 | Heart (presentation))                    | Mind (participatory research)               | Outputs | Other |
-| ---      | ---     | ---                   | ---                                      | ---                                  | ---     | ---   |
-| Apr 28   | Seed    | Values                | Open source collective valuation (Coops) | Weighting values                     | Community-weighted values, Core documents |
-| May 27   | Root    | Governance            | (participatory democracy JS?)            | Electing the CAGA charity committee  | Nominations & rankings           | MVP soft-release?, AIMOS paper |  
-| June 25  | Shoot   | Membranes             | (Extitutional theory PF?)                | Prioritising OHMG fields/categories? | Categories & rankings  | MVP launch, Berlin & Metascience Conferences |
-| July 25  | Trunk   | Resource Allocation   | (Burner camps AF?)                       | Allocating OHMG project grants       | Project proposals, rankings & invites | COC Conference Beijing |
-| Aug 23   | Branch  | Predicting Value      | (prediction markets?)                    | Selecting OHMG participant offerings | Participant offerings, valuations & invites  | High-valley Dawn collab |
-| Sept 22  | Leaf    | Participant Curation  | (conviction voting?)                     | Selecting OHMG participant offerings | Participant offerings, valuations & invites  | 
-| Oct 21   | Bloom   | Invitations Finalised | (post-capitalism JD?)                    | Selecting OHMG participant offerings | Participant offerings, valuations & invites  | International Data Week Brisbane |
-| Nov 20   | Fruit   | **OHM Gathering 5-7 Dec** | Preparing for OHM Gathering (Coops)  | Recording & Valuing OHMG contributions | Contribution records | 
-| Dec 20   | Drop    | Valuation & Reward    | DAO payments?                            | Valuing OHMG contributions (cont.), Rewarding participants | Contribution valuations, Participant payments | 
-| Jan 19   | Ring    | Reputation            | DAO governance?                          | Honouring OHMG participants          | Participant reputation scores | 
-| Feb 17   | Canopy  | Metaresearch          | (BN?)                                    | Identifying externalities & limitations | OHMG report, OHM manifesto, Re-gathering? |
-| March 19 | Compost | Rest & Reflection     | ~                                        | ~ | ~ | OG1 video? |
+| Meeting  | Theme   | Topic                 | Heart (presentation)                     | Mind (participatory research)          | Outputs | Other |
+| ---      | ---     | ---                   | ---                                      | ---                                    | ---     | ---   |
+| Apr 28   | Seed    | Values                | “A Coming OHM Story” (Coops)             | Voting for core values                 | Value Map, Governance documents |
+| May 27   | Root    | Governance            | (participatory democracy JS?)            | cOHMittee elections                    | Committee, Role descriptions  | MVP soft-release?, AIMOS paper |  
+| June 25  | Shoot   | AGM, Incentives       | "The OHM-Nom Metagame" (Coops)           | WisdOHM app alpha testing              | MVP launch, Berlin & Metascience Conferences | 
+| July 25  | Trunk   | Decisions             | Project pitches                          | Metavaluing projects                   | Project rankings & invites | COC Conference Beijing |
+| Aug 23   | Branch  | Leadership            | Offering pitches (priority: roles)       | Metavaluing offerings                  | Offerings, valuations & invites  | High-valley Dawn collab |  
+| Sept 22  | Leaf    | Culture               | Offering pitches (priority: heart, mind, art)   | Metavaluing cOHMunity offerings  | Offering valuations & invites  | International Data Week Brisbane |
+| Oct 21   | Bloom   | Gifting               | Offering pitches (priority: service, donations) | Metavaluing cOHMunity offerings  | Offering valuations & invites  | 
+| Nov 20   | Fruit   | **OHM Gathering 5-7 Dec** | "All Hands OHM Deck" (Coops)         | Metavaluing contributions | Contribution records & valuations, **OHM Gathering 5-7 Dec** | 
+| Dec 20   | Drop    | Recognition           | cOHMunity reflections                    | Metavaluing contributions | Contribution records & valuations | 
+| Jan 19   | Ring    | Reward & Reputation   | "The WisdOHM Tree" (Coops)               | Metavaluing contributions              | Participant payments, reputation scores | 
+| Feb 17   | Canopy  | Reflection            | (culture change BN?)                     | Meta-research, OHM manifesto           | OHMG report, OHM manifesto, Re-gathering? |
+| March 19 | Compost | Self-care             | "Go OHM" (Coops)                         | ~ | ~ | OG1 video? |
 
 * To add these moon cycles to your calendar, subscribe to [this URL](https://mooncal.ch/mooncal.ics?created=41234647928&lang=en&phases[full]=true&phases[new]=true&phases[quarter]=false&phases[daily]=false&style=withDescription&events[lunareclipse]=true&events[solareclipse]=true&events[moonlanding]=false&before=P6M&after=P2Y&zone=Australia/Brisbane)
 
@@ -41,8 +41,8 @@ Within each monthly Council theme, we move through a full WisdOHM cycle — not 
 |------|----------|---------------------------------------------------|
 | 1    | Record   | Nominate people, projects, contributions          |
 | 2    | Review   | Value and metavalue contributions                 |
-| 3    | Reflect  | Analyze patterns, surface insights                |
-| 4    | Report   | Communicate outcomes, tell the story              |
+| 3    | Recognise | Analyze patterns, surface insights                |
+| 4    | Reflect   | Communicate outcomes, tell the story              |
 
 
 ## Conferences & Residencies 2025
