@@ -5,12 +5,12 @@ Each year represents a full system cycle — a rhythm of shared learning, rooted
 
 | Year | Theme                 | Heart (cOHMunity)            | Mind (wisdOHM)                 |
 |------|-----------------------|------------------------------|--------------------------------|
-| ~~2022~~ | ~                 | Tiny OHM Gathering           | Festival prototypes            |
-| ~~2023~~ | ~                 | OHM Gathering (pilot)        | Conference prototype, Proof-of-concept web-app |
-| ~~2024~~ | ~                 | Non-OHM events (America, Africa, Thailand) | Web3 prototypes  |
-| 2025 | Planting Seeds        | OHM Gathering v1             | Residency prototype, MVP release + live deployment |
-| 2026 | TBD                   | OHM Gathering v2             | TBD                            |
-| 2027 | TBD                   | OHM Gathering v3             | TBD                            |
+| ~~2022~~ | ~           | Tiny OHM Gathering           | Festival prototypes            |
+| ~~2023~~ | ~           | OHM Gathering (pilot)        | Conference prototype, Proof-of-concept web-app |
+| ~~2024~~ | ~           | Non-OHM events (America, Africa, Thailand) | Web3 prototypes  |
+| 2025 | Planting Seeds  | OHM Gathering v1             | Residency prototype, MVP release + live deployment |
+| 2026 | TBD             | OHM Gathering v2             | TBD                            |
+| 2027 | TBD             | OHM Gathering v3             | TBD                            |
 
 
 ## 🌒 cOHMunity Council Series 2025
@@ -23,11 +23,11 @@ A series of meetings exploring a new theme and use case for the WisdOHM System e
 | June 25  | Shoot   | AGM, Incentives       | "The OHM-Nom Metagame" (Coops)           | WisdOHM app alpha testing              | MVP launch, Berlin & Metascience Conferences | 
 | July 25  | Trunk   | Decisions             | Project pitches                          | Metavaluing projects                   | Project rankings & invites | COC Conference Beijing |
 | Aug 23   | Branch  | Leadership            | Offering pitches (priority: roles)       | Metavaluing offerings                  | Offerings, valuations & invites  | High-valley Dawn collab |  
-| Sept 22  | Leaf    | Culture               | Offering pitches (priority: heart, mind, art)   | Metavaluing cOHMunity offerings  | Offering valuations & invites  | International Data Week Brisbane |
-| Oct 21   | Bloom   | Gifting               | Offering pitches (priority: service, donations) | Metavaluing cOHMunity offerings  | Offering valuations & invites  | 
-| Nov 20   | Fruit   | **OHM Gathering 5-7 Dec** | "All Hands OHM Deck" (Coops)         | Metavaluing contributions | Contribution records & valuations, **OHM Gathering 5-7 Dec** | 
-| Dec 20   | Drop    | Recognition           | cOHMunity reflections                    | Metavaluing contributions | Contribution records & valuations | 
-| Jan 19   | Ring    | Reward & Reputation   | "The WisdOHM Tree" (Coops)               | Metavaluing contributions              | Participant payments, reputation scores | 
+| Sept 22  | Leaf    | Culture               | Offering pitches (priority: heart, mind, art)   | Metavaluing cOHMunity offerings | Offering valuations & invites  | International Data Week Brisbane |
+| Oct 21   | Bloom   | Gifting               | Offering pitches (priority: service, donations) | Metavaluing cOHMunity offerings | Offering valuations & invites  | 
+| Nov 20   | Fruit   | **OHM Gathering 5-7 Dec** | "All Hands OHM Deck" (Coops)         | Metavaluing contributions              | Contribution records & valuations, **OHM Gathering 5-7 Dec** | 
+| Dec 20   | Drop    | Gratitude & Value     | Testamonials                             | Metavaluing contributions              | Contribution records & valuations, Re-gathering? |
+| Jan 19   | Ring    | Reward & Reputation   | "The WisdOHM Tree" (Coops)               | Metavaluing contributions              | Participant payments, reputation scores, Re-gathering? |
 | Feb 17   | Canopy  | Reflection            | (culture change BN?)                     | Meta-research, OHM manifesto           | OHMG report, OHM manifesto, Re-gathering? |
 | March 19 | Compost | Self-care             | "Go OHM" (Coops)                         | ~ | ~ | OG1 video? |
 
@@ -41,8 +41,8 @@ Within each monthly Council theme, we move through a full WisdOHM cycle — not 
 |------|----------|---------------------------------------------------|
 | 1    | Record   | Nominate people, projects, contributions          |
 | 2    | Review   | Value and metavalue contributions                 |
-| 3    | Recognise | Analyze patterns, surface insights                |
-| 4    | Reflect   | Communicate outcomes, tell the story              |
+| 3    | Recognise | Analyze patterns, surface insights               |
+| 4    | Reflect   | Communicate outcomes, tell the story             |
 
 
 ## Conferences & Residencies 2025
