@@ -19,17 +19,17 @@ A series of meetings exploring a new theme and use case for the WisdOHM System e
 | Meeting  | Theme   | Topic                 | Heart (presentation)                     | Mind (participatory research)          | Outputs | Other |
 | ---      | ---     | ---                   | ---                                      | ---                                    | ---     | ---   |
 | Apr 28   | Seed    | Values                | “A Coming OHM Story” (Coops)             | Voting for core values                 | Value Map, Governance documents |
-| May 27   | Root    | Governance            | (participatory democracy JS?)            | cOHMittee elections                    | Committee, Role descriptions  | MVP soft-release?, AIMOS paper |  
-| June 25  | Shoot   | AGM, Incentives       | "The OHM-Nom Metagame" (Coops)           | WisdOHM app alpha testing              | MVP launch, Berlin & Metascience Conferences | 
+| May 27   | Root    | Governance            | (participatory democracy)                | cOHMittee elections                    | Committee, Role descriptions  | MVP soft-release?, AIMOS paper |  
+| June 25  | Shoot   | AGM, Incentives       | "OHM-Nom: A Metagame" (Coops)            | WisdOHM app alpha testing              | MVP launch, Berlin & Metascience Conferences | 
 | July 25  | Trunk   | Decisions             | Project pitches                          | Metavaluing projects                   | Project rankings & invites | COC Conference Beijing |
 | Aug 23   | Branch  | Leadership            | Offering pitches (priority: roles)       | Metavaluing offerings                  | Offerings, valuations & invites  | High-valley Dawn collab |  
 | Sept 22  | Leaf    | Culture               | Offering pitches (priority: heart, mind, art)   | Metavaluing cOHMunity offerings | Offering valuations & invites  | International Data Week Brisbane |
 | Oct 21   | Bloom   | Gifting               | Offering pitches (priority: service, donations) | Metavaluing cOHMunity offerings | Offering valuations & invites  | 
-| Nov 20   | Fruit   | **OHM Gathering 5-7 Dec** | "All Hands OHM Deck" (Coops)         | Metavaluing contributions              | Contribution records & valuations, **OHM Gathering 5-7 Dec** | 
-| Dec 20   | Drop    | Gratitude & Value     | Testamonials                             | Metavaluing contributions              | Contribution records & valuations, Re-gathering? |
-| Jan 19   | Ring    | Reward & Reputation   | "The WisdOHM Tree" (Coops)               | Metavaluing contributions              | Participant payments, reputation scores, Re-gathering? |
-| Feb 17   | Canopy  | Reflection            | (culture change BN?)                     | Meta-research, OHM manifesto           | OHMG report, OHM manifesto, Re-gathering? |
-| March 19 | Compost | Self-care             | "Go OHM" (Coops)                         | ~ | ~ | OG1 video? |
+| Nov 20   | Fruit   | Gathering             | "All Hands OHM Deck" (Coops)         | Metavaluing contributions              | Contribution records & valuations, **OHM Gathering 5-7 Dec** | 
+| Dec 20   | Drop    | Recognition           | Testamonials                             | Metavaluing contributions              | Contribution records & valuations, Re-gathering? |
+| Jan 19   | Ring    | Reward                | (DAOs?)                                  | Metavaluing contributions              | Participant payments, reputation scores, Re-gathering? |
+| Feb 17   | Canopy  | Respect               | (culture change BN?)                     | Meta-research, OHM manifesto           | OHMG report, OHM manifesto, Re-gathering? |
+| March 19 | Compost | Rest                  | "Go OHM" (Coops)                         | ~ | ~ | OG1 video? |
 
 * To add these moon cycles to your calendar, subscribe to [this URL](https://mooncal.ch/mooncal.ics?created=41234647928&lang=en&phases[full]=true&phases[new]=true&phases[quarter]=false&phases[daily]=false&style=withDescription&events[lunareclipse]=true&events[solareclipse]=true&events[moonlanding]=false&before=P6M&after=P2Y&zone=Australia/Brisbane)
 
