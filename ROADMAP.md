@@ -3,7 +3,7 @@
 ## 🌳 Annual Growth Cycle
 Each year represents a full system cycle — a rhythm of shared learning, rooted in gatherings of the heart and shaped by collective inquiry of the mind.
 
-| Year | Theme                 | Heart (cOHMunity)            | Mind (wisdOHM)                 |
+| Year | Theme                 | Heart (cOHMunity)            | Mind (R&D)                 |
 |------|-----------------------|------------------------------|--------------------------------|
 | ~~2022~~ | ~           | Tiny OHM Gathering           | Festival prototypes            |
 | ~~2023~~ | ~           | OHM Gathering (pilot)        | Conference prototype, Proof-of-concept web-app |
@@ -16,10 +16,10 @@ Each year represents a full system cycle — a rhythm of shared learning, rooted
 ## 🌒 cOHMunity Council Series 2025
 A series of meetings exploring a new theme and use case for the WisdOHM System each new moon cycle — using OHM Gathering (OHMG) as a live case study. These monthly Councils are open to everyone, and are supported by focused weekly meetings throughout the month.
 
-| Meeting  | Theme   | Topic                 | Heart (presentation)                     | Mind (participatory research)          | Outputs | Other |
+| Meeting  | Theme   | Topic                 | Heart (presentation/s)                     | Mind (R&D)          | Outputs | Other |
 | ---      | ---     | ---                   | ---                                      | ---                                    | ---     | ---   |
 | Apr 28   | Seed    | Values                | “A Coming OHM Story” (Coops)             | Voting for core values                 | Value Map, Governance documents |
-| May 27   | Root    | Governance            | (participatory democracy)                | cOHMittee elections                    | Committee, Role descriptions  | MVP soft-release?, AIMOS paper |  
+| May 27   | Root    | Democracy             | (participatory democracy JS?)                | cOHMittee elections                    | Committee, Role descriptions  | MVP soft-release?, AIMOS paper |  
 | June 25  | Shoot   | AGM, Incentives       | "OHM-Nom: A Metagame" (Coops)            | WisdOHM app alpha testing              | MVP launch, Berlin & Metascience Conferences | 
 | July 25  | Trunk   | Decisions             | Project pitches                          | Metavaluing projects                   | Project rankings & invites | COC Conference Beijing |
 | Aug 23   | Branch  | Leadership            | Offering pitches (priority: roles)       | Metavaluing offerings                  | Offerings, valuations & invites  | High-valley Dawn collab |  
@@ -39,8 +39,8 @@ Within each monthly Council theme, we move through a full WisdOHM cycle — not 
 
 | Week | Phase    | Example Tasks                                     |
 |------|----------|---------------------------------------------------|
-| 1    | Record   | Nominate people, projects, contributions          |
-| 2    | Review   | Value and metavalue contributions                 |
+| 1    | Record   | Design & build prototype, Nominate people/projects/contributions   |
+| 2    | Review   | Review people/projects/contributions                 |
 | 3    | Recognise | Analyze patterns, surface insights               |
 | 4    | Reflect   | Communicate outcomes, tell the story             |
 
