@@ -16,20 +16,20 @@ Each year represents a full system cycle — a rhythm of shared learning, rooted
 ## 🌒 Monthly Cycle: 2025
 A series of meetings exploring a new theme and use case for the WisdOHM System each new moon cycle — using OHM Gathering (OHMG) as a live case study. These monthly Councils are open to everyone, and are supported by focused weekly meetings throughout the month.
 
-| Meeting  | Title   | Topic                 | Community                                | System          | Outputs | Other |
-| ---      | ---     | ---                   | ---                                      | ---                                    | ---     | ---   |
-| Apr 28   | Seed    | Values                | “A Coming OHM Story” (Coops)             | Voting for core values                 | Value Map, Governance documents |
-| May 27   | Root    | Democracy             | (participatory democracy JS?)            | Electing the cOHMittee                 | Committee, Role descriptions  | MVP soft-release?, AIMOS paper |  
-| June 25  | Shoot   | AGM, Incentives       | "OHM-Nom: A Metagame" (Coops)            | WisdOHM app alpha testing              | MVP launch, Berlin & Metascience Conferences | 
-| July 25  | Trunk   | Decisions             | Project pitches                          | Selecting projects                     | Project rankings & invites | COC Conference Beijing |
-| Aug 23   | Branch  | Leadership            | Offering pitches (priority: roles)       | Electing lead roles                    | Offerings, valuations & invites  | High-valley Dawn collab |  
-| Sept 22  | Leaf    | Culture               | Offering pitches (priority: heart, mind, art)   | Metavaluing cOHMunity offerings | Offering valuations & invites  | International Data Week Brisbane |
-| Oct 21   | Bloom   | Gifting               | Offering pitches (priority: service, donations) | Metavaluing cOHMunity offerings | Offering valuations & invites  | 
-| Nov 20   | Fruit   | Gathering             | "All Hands OHM Deck" (Coops)         | Metavaluing contributions              | Contribution records & valuations, **OHM Gathering 5-7 Dec** | 
-| Dec 20   | Drop    | Recognition           | Testamonials                             | Metavaluing contributions              | Contribution records & valuations, Re-gathering? |
-| Jan 19   | Ring    | Reward                | (DAOs?)                                  | Metavaluing contributions              | Participant payments, reputation scores, Re-gathering? |
-| Feb 17   | Canopy  | Respect               | (culture change BN?)                     | Meta-research, OHM manifesto           | OHMG report, OHM manifesto, Re-gathering? |
-| March 19 | Compost | Rest                  | "Go OHM" (Coops)                         | ~ | ~ | OG1 video? |
+| ID | Name  | Title   | Topic                 | Community                                | System          | Outputs | Other |
+| --- | --- | ---     | ---                   | ---                                      | ---                                    | ---     | ---   |
+| 1 | Apr 28   | Seed    | Values                | “A Coming OHM Story” (Coops)             | Voting for core values                 | Value Map, Governance documents |
+| 2 | May 27   | Root    | Democracy             | (participatory democracy JS?)            | Electing the cOHMittee                 | Committee, Role descriptions  | MVP soft-release?, AIMOS paper |  
+| 3 | June 25  | Shoot   | AGM, Incentives       | "OHM-Nom: A Metagame" (Coops)            | WisdOHM app alpha testing              | MVP launch, Berlin & Metascience Conferences | 
+| 4 | July 25  | Trunk   | Decisions             | Project pitches                          | Selecting projects                     | Project rankings & invites | COC Conference Beijing |
+| 5 | Aug 23   | Branch  | Leadership            | Offering pitches (priority: roles)       | Electing lead roles                    | Offerings, valuations & invites  | High-valley Dawn collab |  
+| 6 | Sept 22  | Leaf    | Culture               | Offering pitches (priority: heart, mind, art)   | Metavaluing cOHMunity offerings | Offering valuations & invites  | International Data Week Brisbane |
+| 7 | Oct 21   | Bloom   | Gifting               | Offering pitches (priority: service, donations) | Metavaluing cOHMunity offerings | Offering valuations & invites  | 
+| 8 | Nov 20   | Fruit   | Gathering             | "All Hands OHM Deck" (Coops)         | Metavaluing contributions              | Contribution records & valuations, **OHM Gathering 5-7 Dec** | 
+| 9 | Dec 20   | Drop    | Recognition           | Testamonials                             | Metavaluing contributions              | Contribution records & valuations, Re-gathering? |
+| 10 | Jan 19   | Ring    | Reward                | (DAOs?)                                  | Metavaluing contributions              | Participant payments, reputation scores, Re-gathering? |
+| 11 | Feb 17   | Canopy  | Respect               | (culture change BN?)                     | Meta-research, OHM manifesto           | OHMG report, OHM manifesto, Re-gathering? |
+| 12 | March 19 | Compost | Rest                  | "Go OHM" (Coops)                         | ~ | ~ | OG1 video? |
 
 * To add these moon cycles to your calendar, subscribe to [this URL](https://mooncal.ch/mooncal.ics?created=41234647928&lang=en&phases[full]=true&phases[new]=true&phases[quarter]=false&phases[daily]=false&style=withDescription&events[lunareclipse]=true&events[solareclipse]=true&events[moonlanding]=false&before=P6M&after=P2Y&zone=Australia/Brisbane)
 
@@ -37,12 +37,12 @@ A series of meetings exploring a new theme and use case for the WisdOHM System e
 ## 🔁 Weekly Cycle: Seed Moon
 Within each monthly Council theme, we move through a full WisdOHM cycle — not just in thought, but in practice. We begin by recording what’s emerging. Then we evaluate, reflect, and report what we’ve learned. These four phases repeat each moonth — simple, steady, systemic — and weekly meetings are open to those who can commit to attending all four sessions within the cycle.
 
-| Week | Meeting | Phase     | Objectives                            |
-|---|--------|---------------------------------------------------|---|
-| 1 | May 5  | Record    | Invite cOHMunity to nominate values. Select set of 10 for review, build prototype |
-| 2 | May 12 | Review    | Invite cOHMunity to review. Reward reviews immediately. Close prototype when completed |
-| 3 | May 19 | Recognise | Analyze data, generate rank-order of values |
-| 4 | May 26 | Reflect   | Identify improvements for next cycle. Share leaderboard and other outcomes via newsletter    |
+| ID | Meeting | Phase     | Objectives                            |
+| -- |--------|---------------------------------------------------|---|
+| 1a | May 5  | Record    | Invite cOHMunity to nominate values. Select set of 10 for review, build prototype |
+| 1b | May 12 | Review    | Invite cOHMunity to review. Reward reviews immediately. Close prototype when completed |
+| 1c | May 19 | Recognise | Analyze data, generate rank-order of value. Identify improvements for next cycle. |
+| (2)  | (TBD) | (following Council) | Share leaderboard and other outcomes (newsletter & Council)   |
 
 
 ## Conferences & Residencies 2025
