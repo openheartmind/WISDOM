@@ -8,7 +8,7 @@ Each year represents a full system cycle — a rhythm of shared learning, rooted
 | ~~2022~~ | ~           | Tiny OHM Gathering           | Festival prototypes                            | Clickup | Google Sheets | Playful |
 | ~~2023~~ | ~           | OHM Gathering (pilot)        | Conference prototype, Proof-of-concept web-app | Clickup/Github | Google Sheets | Playful |
 | ~~2024~~ | ~           | Non-OHM events (America, Africa, Thailand) | Web3 prototypes                  | Github  | Google Sheets | Playful |
-| 2025 | Planting Seeds  | OHM Gathering v1             | Residency prototype, MVP release + live deployment | Github | Google Sheets | Rooted in Resonance |
+| 2025 | Planting Seeds  | OHM Gathering v1             | Residency prototype, **WisdOHM MVP release** | Github | **WisdOHM** | Rooted in Resonance |
 | 2026 |                 | OHM Gathering v2             |                                                    | 
 | 2027 |                 | OHM Gathering v3             |                                                    | 
 
