@@ -34,15 +34,15 @@ A series of meetings exploring a new theme and use case for the WisdOHM System e
 * To add these moon cycles to your calendar, subscribe to [this URL](https://mooncal.ch/mooncal.ics?created=41234647928&lang=en&phases[full]=true&phases[new]=true&phases[quarter]=false&phases[daily]=false&style=withDescription&events[lunareclipse]=true&events[solareclipse]=true&events[moonlanding]=false&before=P6M&after=P2Y&zone=Australia/Brisbane)
 
 
-## 🔁 Weekly Cycle: Seed
+## 🔁 Weekly Cycle: Seed Moon
 Within each monthly Council theme, we move through a full WisdOHM cycle — not just in thought, but in practice. We begin by recording what’s emerging. Then we evaluate, reflect, and report what we’ve learned. These four phases repeat each moonth — simple, steady, systemic — and weekly meetings are open to those who can commit to attending all four sessions within the cycle.
 
-| Week | Phase     | Intentions                                             |
+| Meeting | Phase     | Objectives                            |
 |------|-----------|---------------------------------------------------|
-| 1    | Record    | Nominate values and select 10 for review, build prototype |
-| 2    | Review    | Invite cOHMunity to review, Fill prototype with enough votes |
-| 3    | Recognise | Analyze data, produce rank-order of values        |
-| 4    | Reflect   | Communicate outcomes via newsletter              |
+| May 5  | Record    | Invite cOHMunity to nominate values, select 10 for review, build prototype |
+| May 12 | Review    | Invite cOHMunity to review, complete prototype with cOHMunity votes |
+| May 19 | Recognise | Analyze data, generate rank-order of values        |
+| May 26 | Reflect   | Identify improvements for next cycle, Communicate outcomes via newsletter    |
 
 
 ## Conferences & Residencies 2025
