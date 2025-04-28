@@ -3,26 +3,26 @@
 ## 🌳 Annual Growth Cycle
 Each year represents a full system cycle — a rhythm of shared learning, rooted in gatherings of the heart and shaped by collective inquiry of the mind.
 
-| Year | Theme                 | Heart (cOHMunity)            | Mind (R&D)                 |
-|------|-----------------------|------------------------------|--------------------------------|
-| ~~2022~~ | ~           | Tiny OHM Gathering           | Festival prototypes            |
-| ~~2023~~ | ~           | OHM Gathering (pilot)        | Conference prototype, Proof-of-concept web-app |
-| ~~2024~~ | ~           | Non-OHM events (America, Africa, Thailand) | Web3 prototypes  |
-| 2025 | Planting Seeds  | OHM Gathering v1             | Residency prototype, MVP release + live deployment |
-| 2026 | TBD             | OHM Gathering v2             | TBD                            |
-| 2027 | TBD             | OHM Gathering v3             | TBD                            |
+| Year | Theme                 | Community            | System                         | Records | Reviews | Branding |
+|------|-----------------------|----------------------|--------------------------------|-----|-----|-----|
+| ~~2022~~ | ~           | Tiny OHM Gathering           | Festival prototypes                            | Clickup | Google Sheets | Playful |
+| ~~2023~~ | ~           | OHM Gathering (pilot)        | Conference prototype, Proof-of-concept web-app | Clickup/Github | Google Sheets | Playful |
+| ~~2024~~ | ~           | Non-OHM events (America, Africa, Thailand) | Web3 prototypes                  | Github  | Google Sheets | Playful |
+| 2025 | Planting Seeds  | OHM Gathering v1             | Residency prototype, MVP release + live deployment | Github | Google Sheets | Rooted in Resonance |
+| 2026 |                 | OHM Gathering v2             |                                                    | 
+| 2027 |                 | OHM Gathering v3             |                                                    | 
 
 
 ## 🌒 cOHMunity Council Series 2025
 A series of meetings exploring a new theme and use case for the WisdOHM System each new moon cycle — using OHM Gathering (OHMG) as a live case study. These monthly Councils are open to everyone, and are supported by focused weekly meetings throughout the month.
 
-| Meeting  | Theme   | Topic                 | Heart (presentation/s)                     | Mind (R&D)          | Outputs | Other |
+| Meeting  | Theme   | Topic                 | Community                                | System          | Outputs | Other |
 | ---      | ---     | ---                   | ---                                      | ---                                    | ---     | ---   |
 | Apr 28   | Seed    | Values                | “A Coming OHM Story” (Coops)             | Voting for core values                 | Value Map, Governance documents |
-| May 27   | Root    | Democracy             | (participatory democracy JS?)                | cOHMittee elections                    | Committee, Role descriptions  | MVP soft-release?, AIMOS paper |  
+| May 27   | Root    | Democracy             | (participatory democracy JS?)            | Electing the cOHMittee                 | Committee, Role descriptions  | MVP soft-release?, AIMOS paper |  
 | June 25  | Shoot   | AGM, Incentives       | "OHM-Nom: A Metagame" (Coops)            | WisdOHM app alpha testing              | MVP launch, Berlin & Metascience Conferences | 
-| July 25  | Trunk   | Decisions             | Project pitches                          | Metavaluing projects                   | Project rankings & invites | COC Conference Beijing |
-| Aug 23   | Branch  | Leadership            | Offering pitches (priority: roles)       | Metavaluing offerings                  | Offerings, valuations & invites  | High-valley Dawn collab |  
+| July 25  | Trunk   | Decisions             | Project pitches                          | Selecting projects                     | Project rankings & invites | COC Conference Beijing |
+| Aug 23   | Branch  | Leadership            | Offering pitches (priority: roles)       | Electing lead roles                    | Offerings, valuations & invites  | High-valley Dawn collab |  
 | Sept 22  | Leaf    | Culture               | Offering pitches (priority: heart, mind, art)   | Metavaluing cOHMunity offerings | Offering valuations & invites  | International Data Week Brisbane |
 | Oct 21   | Bloom   | Gifting               | Offering pitches (priority: service, donations) | Metavaluing cOHMunity offerings | Offering valuations & invites  | 
 | Nov 20   | Fruit   | Gathering             | "All Hands OHM Deck" (Coops)         | Metavaluing contributions              | Contribution records & valuations, **OHM Gathering 5-7 Dec** | 
