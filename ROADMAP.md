@@ -1,6 +1,6 @@
 # OHM Roadmap
 
-## 🌳 Annual Growth Cycle
+## 🌳 Annual Cycle
 Each year represents a full system cycle — a rhythm of shared learning, rooted in gatherings of the heart and shaped by collective inquiry of the mind.
 
 | Year | Theme                 | Community            | System                         | Records | Reviews | Branding |
@@ -13,10 +13,10 @@ Each year represents a full system cycle — a rhythm of shared learning, rooted
 | 2027 |                 | OHM Gathering v3             |                                                    | 
 
 
-## 🌒 cOHMunity Council Series 2025
+## 🌒 Monthly Cycle: 2025
 A series of meetings exploring a new theme and use case for the WisdOHM System each new moon cycle — using OHM Gathering (OHMG) as a live case study. These monthly Councils are open to everyone, and are supported by focused weekly meetings throughout the month.
 
-| Meeting  | Theme   | Topic                 | Community                                | System          | Outputs | Other |
+| Meeting  | Title   | Topic                 | Community                                | System          | Outputs | Other |
 | ---      | ---     | ---                   | ---                                      | ---                                    | ---     | ---   |
 | Apr 28   | Seed    | Values                | “A Coming OHM Story” (Coops)             | Voting for core values                 | Value Map, Governance documents |
 | May 27   | Root    | Democracy             | (participatory democracy JS?)            | Electing the cOHMittee                 | Committee, Role descriptions  | MVP soft-release?, AIMOS paper |  
@@ -34,15 +34,15 @@ A series of meetings exploring a new theme and use case for the WisdOHM System e
 * To add these moon cycles to your calendar, subscribe to [this URL](https://mooncal.ch/mooncal.ics?created=41234647928&lang=en&phases[full]=true&phases[new]=true&phases[quarter]=false&phases[daily]=false&style=withDescription&events[lunareclipse]=true&events[solareclipse]=true&events[moonlanding]=false&before=P6M&after=P2Y&zone=Australia/Brisbane)
 
 
-## 🔁 Weekly Growth Cycle
+## 🔁 Weekly Cycle: Seed
 Within each monthly Council theme, we move through a full WisdOHM cycle — not just in thought, but in practice. We begin by recording what’s emerging. Then we evaluate, reflect, and report what we’ve learned. These four phases repeat each moonth — simple, steady, systemic — and weekly meetings are open to those who can commit to attending all four sessions within the cycle.
 
-| Week | Phase    | Example Tasks                                     |
-|------|----------|---------------------------------------------------|
-| 1    | Record   | Design & build prototype, Nominate people/projects/contributions   |
-| 2    | Review   | Review people/projects/contributions                 |
-| 3    | Recognise | Analyze patterns, surface insights               |
-| 4    | Reflect   | Communicate outcomes, tell the story             |
+| Week | Phase     | Intentions                                             |
+|------|-----------|---------------------------------------------------|
+| 1    | Record    | Nominate values and select 10 for review, build prototype |
+| 2    | Review    | Invite cOHMunity to review, Fill prototype with enough votes |
+| 3    | Recognise | Analyze data, produce rank-order of values        |
+| 4    | Reflect   | Communicate outcomes via newsletter              |
 
 
 ## Conferences & Residencies 2025
