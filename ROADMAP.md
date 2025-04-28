@@ -42,7 +42,7 @@ Within each monthly Council theme, we move through a full WisdOHM cycle — not 
 | 1a | May 5  | Record    | Invite cOHMunity to nominate values. Select set of 10 for review, build prototype |
 | 1b | May 12 | Review    | Invite cOHMunity to review. Reward reviews immediately. Close prototype when completed |
 | 1c | May 19 | Recognise | Analyze data, generate rank-order of value. Identify improvements for next cycle. |
-| (2)  | (TBD) | (following Council) | Share leaderboard and other outcomes (newsletter & Council)   |
+| -- | (prior to Council) | Reflect | Share outcomes and invite to next council via newsletter  |
 
 
 ## Conferences & Residencies 2025
