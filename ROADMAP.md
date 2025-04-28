@@ -37,12 +37,12 @@ A series of meetings exploring a new theme and use case for the WisdOHM System e
 ## 🔁 Weekly Cycle: Seed Moon
 Within each monthly Council theme, we move through a full WisdOHM cycle — not just in thought, but in practice. We begin by recording what’s emerging. Then we evaluate, reflect, and report what we’ve learned. These four phases repeat each moonth — simple, steady, systemic — and weekly meetings are open to those who can commit to attending all four sessions within the cycle.
 
-| Meeting | Phase     | Objectives                            |
-|------|-----------|---------------------------------------------------|
-| May 5  | Record    | Invite cOHMunity to nominate values, select 10 for review, build prototype |
-| May 12 | Review    | Invite cOHMunity to review, complete prototype with cOHMunity votes |
-| May 19 | Recognise | Analyze data, generate rank-order of values        |
-| May 26 | Reflect   | Identify improvements for next cycle, Communicate outcomes via newsletter    |
+| Week | Meeting | Phase     | Objectives                            |
+|---|--------|---------------------------------------------------|---|
+| 1 | May 5  | Record    | Invite cOHMunity to nominate values. Select set of 10 for review, build prototype |
+| 2 | May 12 | Review    | Invite cOHMunity to review. Reward reviews immediately. Close prototype when completed |
+| 3 | May 19 | Recognise | Analyze data, generate rank-order of values |
+| 4 | May 26 | Reflect   | Identify improvements for next cycle. Share leaderboard and other outcomes via newsletter    |
 
 
 ## Conferences & Residencies 2025
