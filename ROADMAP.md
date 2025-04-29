@@ -25,7 +25,7 @@ A series of meetings exploring a new theme and use case for the WisdOHM System e
 | 5 | 23/08  | Branch  | Planning              | Project spotlights (e.g., theme camps))        | Selecting projects for funding  | Offerings, valuations & invites  | High-valley Dawn? |  
 | 6 | 22/09  | Leaf    | Gifts                 | Offering spotlights (e.g., art, workshops))    | Selecting people for invites    | cOHMunity offerings | Offering valuations & invites  | Int. Data Week Brisbane |
 | 7 | 21/10  | Bloom   | Service               | Offering spotlights (e.g., service, donations) | Selecting people for invites    | Offering valuations  | 
-| 8 | 20/11  | Fruit   | Gathering             | **"OHM Gathering: 5-7 Dec"** (Coops)             | Recording contributions              | **OHM Gathering 5-7 Dec**  | 
+| 8 | 20/11  | Fruit   | Gathering             | **"OHM Gathering: 5th-7th Dec"** (Coops)             | Recording contributions              | **OHM Gathering 5-7 Dec**  | 
 | 9 | 20/12  | Drop    | Recognition           | (Testamonials?                           | Valuing contributions              | Contribution valuations |
 | 10 | 19/01 | Ring    | Reward                | (DAOs?)                                  | Valuing contributions              | Participant payments, reputation scores |
 | 11 | 17/02 | Canopy  | Respect               | (culture change BN?)                     | (none: Meta-research)              | OHM Manifesto v1, Re-gathering? |
