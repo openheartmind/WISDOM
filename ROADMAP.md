@@ -17,7 +17,7 @@ Each year represents a full system cycle — a rhythm of shared learning, rooted
 A series of meetings exploring a new theme and use case for the WisdOHM System each new moon cycle — using OHM Gathering (OHMG) as a live case study. These monthly Councils are open to everyone, and are supported by focused weekly meetings throughout the month.
 
 | ID  | Council | Name | Topic                 | Presentation (during Council)            | System/Practice Use Case               | Outputs | Other |
-| --- | ---  | ---     | ---                   | ---                                      | ---                                    | --- | --- |
+| --- | ---  | ---     | ---                   | ------------------------------------------------------   | ---                                    | --- | ------------------------------------------------------ |
 | 1 | 28/04  | Seed    | Values                | “A Coming OHM Story” (Coops)             | Prioritising core values               | Value Map, Governance documents |
 | 2 | 27/05  | Root    | Democracy             | (participatory democracy JS?)            | Electing the cOHMittee                 | Committee, Role descriptions  | MVP soft-release?, AIMOS paper |  
 | 3 | 25/06  | Shoot   | AGM, Incentives       | "OHM-Nom: A Metagame" (Coops)            | WisdOHM alpha testing                  | **WisdOHM release**, Berlin conferences (?) | 
