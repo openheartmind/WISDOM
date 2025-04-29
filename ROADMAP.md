@@ -19,14 +19,14 @@ A series of meetings exploring a new theme and use case for the WisdOHM System e
 | ID  | Council | Name | Topic                 | Presentation (during Council)            | System/Practice Use Case               | Outputs | Other |
 | --- | ---  | ---     | ---                   | ------------------------------------------------------   | ---                                    | --- | ------------------------------------------------------ |
 | 1 | 28/04  | Seed    | Values                | “A Coming OHM Story” (Coops)             | Prioritising core values               | Value Map, Governance documents |
-| 2 | 27/05  | Root    | Democracy             | (participatory democracy JS?)            | Electing the cOHMittee                 | Committee, Role descriptions  | AIMOS draft |  
+| 2 | 27/05  | Root    | Democracy             | "Participatory Democracy" (J. Sri)       | Electing the cOHMittee                 | Committee, Role descriptions  | AIMOS draft |  
 | 3 | 25/06  | Shoot   | AGM, Incentives       | "OHM-Nom: A Metagame" (Coops)            | WisdOHM alpha testing                  | **WisdOHM release**, Berlin conferences? | 
-| 4 | 25/07  | Trunk   | Leadership            | Lead role spotlights (e.g., comms)    | Selecting people for lead roles  | Project rankings & invites | COC Beijing? |
-| 5 | 23/08  | Branch  | Planning              | Project spotlights (e.g., theme camps))      | Selecting projects for funding   | Offerings, valuations & invites  | High-valley Dawn? |  
-| 6 | 22/09  | Leaf    | Gifts                 | Offering spotlights (e.g., art, workshops))   | Selecting people for invites | cOHMunity offerings | Offering valuations & invites  | Int. Data Week Brisbane |
-| 7 | 21/10  | Bloom   | Service               | Offering spotlights (e.g., service, donations)       | Selecting people for invites | Offering valuations  | 
-| 8 | 20/11  | Fruit   | Gathering             | "All Hands OHM Deck" (Coops)             | Valuing contributions              | **OHM Gathering 5-7 Dec**  | 
-| 9 | 20/12  | Drop    | Recognition           | Testamonials                             | Valuing contributions              | Contribution valuations |
+| 4 | 25/07  | Trunk   | Leadership            | Lead role spotlights (e.g., comms)       | Selecting people for lead roles       | Project rankings & invites | COC Beijing? |
+| 5 | 23/08  | Branch  | Planning              | Project spotlights (e.g., theme camps))        | Selecting projects for funding  | Offerings, valuations & invites  | High-valley Dawn? |  
+| 6 | 22/09  | Leaf    | Gifts                 | Offering spotlights (e.g., art, workshops))    | Selecting people for invites    | cOHMunity offerings | Offering valuations & invites  | Int. Data Week Brisbane |
+| 7 | 21/10  | Bloom   | Service               | Offering spotlights (e.g., service, donations) | Selecting people for invites    | Offering valuations  | 
+| 8 | 20/11  | Fruit   | Gathering             | **"OHM Gathering 5-7/12"** (Coops)             | Recording contributions              | **OHM Gathering 5-7 Dec**  | 
+| 9 | 20/12  | Drop    | Recognition           | (Testamonials?                           | Valuing contributions              | Contribution valuations |
 | 10 | 19/01 | Ring    | Reward                | (DAOs?)                                  | Valuing contributions              | Participant payments, reputation scores |
 | 11 | 17/02 | Canopy  | Respect               | (culture change BN?)                     | (none: Meta-research)              | OHM Manifesto v1, Re-gathering? |
 | 12 | 19/3  | Compost | Rest                  | "Go OHM" (Coops)                         | ~ | ~ | OG1 video? |
