@@ -16,13 +16,13 @@ Each year represents a full system cycle — a rhythm of shared learning, rooted
 ## 🌒 Monthly Cycle: 2025
 A series of meetings exploring a new theme and use case for the WisdOHM System each new moon cycle — using OHM Gathering (OHMG) as a live case study. These monthly Councils are open to everyone, and are supported by focused weekly meetings throughout the month.
 
-| ID  | Council | Name | Topic                 | Presentation (during Council)            | Prototype (during month)               | Outputs | Other |
+| ID  | Council | Name | Topic                 | Presentation (during Council)            | Prototype (throughout month)               | Outputs | Other |
 | --- | ---  | ---     | ---                   | ------------------------------------------------------   | ---                                    | --- | ------------------------------------------------------ |
 | 1 | 28/04  | Seed    | Values                | “A Coming OHM Story”              | Prioritising core values               | Value Map, Governance documents | 
 | 2 | 27/05  | Root    | Democracy             | "Participatory Democracy"         | Electing representatives (cOHMittee)   | Charity board, Role descriptions  | AIMOS draft | 
-| 3 | 25/06  | Shoot   | Incentives (+AGM)     | "OHM-Nom: A Metagame"             | WisdOHM alpha testing                  | **WisdOHM release**, Berlin conferences? | 
-| 4 | 25/07  | Trunk   | Leadership            | Lead role spotlights (e.g., comms)       | Selecting people for lead roles       | Project rankings & invites | COC Beijing? | 
-| 5 | 23/08  | Branch  | Grantmaking           | Project spotlights (e.g., theme camps)         | Selecting projects for funding  | Offering valuations & invites  | High-valley Dawn? | 
+| 3 | 25/06  | Shoot   | Incentives (+AGM)     | "OHM-Nom: A Metagame"             | (WisdOHM alpha testing)                  | **WisdOHM MVP release**, Berlin conferences? | 
+| 4 | 25/07  | Trunk   | Leadership            | Lead role spotlights (e.g., comms)       | Electing people into lead roles       | Project rankings & invites | COC Beijing? | 
+| 5 | 23/08  | Branch  | Grantmaking           | Project spotlights (e.g., theme camps)         | Selecting & funding projects  | Offering valuations & invites  | High-valley Dawn? | 
 | 6 | 22/09  | Leaf    | Gifting               | Offering spotlights (e.g., art, workshops)     | Selecting & inviting participants  | cOHMunity offerings | Offering valuations & invites  | Int. Data Week Brisbane | 
 | 7 | 21/10  | Bloom   | Service               | Offering spotlights (e.g., service, donations) | Selecting & inviting participants | Offering valuations & invites | 
 | 8 | 20/11  | Fruit   | Gathering             | **"OHM Gathering: 5-7 Dec"**             | Recording contributions              | **OHM Gathering: 5-7 Dec**  | 
