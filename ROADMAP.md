@@ -16,7 +16,7 @@ Each year represents a full system cycle — a rhythm of shared learning, rooted
 ## 🌒 Monthly Cycle: 2025
 A series of meetings exploring a new theme and use case for the WisdOHM System each new moon cycle — using OHM Gathering (OHMG) as a live case study. These monthly Councils are open to everyone, and are supported by focused weekly meetings throughout the month.
 
-| ID  | Council | Name | Topic                 | Presentation (in Council)            | System Use Case (during month)               | Outputs | Other |
+| ID  | Council | Name | Topic                 | Presentation (during Council)            | Prototype (during month)               | Outputs | Other |
 | --- | ---  | ---     | ---                   | ------------------------------------------------------   | ---                                    | --- | ------------------------------------------------------ |
 | 1 | 28/04  | Seed    | Values                | “A Coming OHM Story” (Coops)             | Prioritising core values               | Value Map, Governance documents | 
 | 2 | 27/05  | Root    | Democracy             | "Participatory Democracy" (JS?)       | Electing representatives (cOHMittee)   | Charity board, Role descriptions  | AIMOS draft | 
