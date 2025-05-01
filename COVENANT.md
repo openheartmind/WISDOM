@@ -26,7 +26,7 @@ We are guided by principles drawn from the Open Science and Burning Man movement
 
 These values guide us in creating spaces that are experimental, participatory, and grounded in care for one another and the planet.
 
-For more detail, see our [Values Wiki](link-to-values-wiki).
+For more detail, see our [Values Wiki](https://github.com/openheartmind/cOHMunity/wiki/Values-and-Principles).
 
 ## 6. Participating in OHM
 We welcome contributions of all kinds that advance the OHM mission—technical, creative, emotional, logistical, or relational. These may include:
