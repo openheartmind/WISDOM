@@ -1,6 +1,6 @@
 # OHM Roadmap
 
-## 🌳 Annual Cycle
+## 🌳 Annual Roadmap
 Each year represents a full system cycle — a rhythm of shared learning, rooted in gatherings of the heart and shaped by collective inquiry of the mind.
 
 | Year | Theme                 | Community            | System                         | Records | Reviews | Branding |
@@ -13,7 +13,7 @@ Each year represents a full system cycle — a rhythm of shared learning, rooted
 | 2027 |                 | OHM Gathering v3             |                                                    | 
 
 
-## 🌒 Monthly Cycle: 2025
+## 🌒 Monthly Roadmap: OHM Council Series 2025
 A series of meetings exploring a new theme and use case for the WisdOHM System each new moon cycle — using OHM Gathering (OHMG) as a live case study. These monthly Councils are open to everyone, and are supported by focused weekly meetings throughout the month.
 
 | ID  | Council | Name | Topic                 | Presentation (during Council)            | Prototype (throughout month)               | Outputs | Other |
@@ -34,14 +34,14 @@ A series of meetings exploring a new theme and use case for the WisdOHM System e
 * To add these moon cycles to your calendar, subscribe to [this URL](https://mooncal.ch/mooncal.ics?created=41234647928&lang=en&phases[full]=true&phases[new]=true&phases[quarter]=false&phases[daily]=false&style=withDescription&events[lunareclipse]=true&events[solareclipse]=true&events[moonlanding]=false&before=P6M&after=P2Y&zone=Australia/Brisbane)
 
 
-## 🔁 Weekly Cycle: Seed Moon
+## 🔁 Weekly Roadmap: Seed Council Series May 2025
 Within each monthly Council theme, we move through a full WisdOHM cycle — not just in thought, but in practice. We begin by recording what’s emerging. Then we evaluate, reflect, and report what we’ve learned. These four phases repeat each moonth — simple, steady, systemic — and weekly meetings are open to those who can commit to attending all four sessions within the cycle.
 
 | ID | Council | Name     | During Council     | During following week |
-| -- |--------|---------------------------------------------------|---|
+| -- |--------|---------------------------------------------------|---|---|
 | 1A | 05/05  | Surfacing Values  | Introduce roadmap & discuss, introduce prototype & discuss, begin nominating values   | Invite broader cOHMunity to nominate values  |
 | 1B | 12/05 | Rating Values  | Close nomination phase & discuss. Introduce rating phase & discuss, begin rating values   | Invite broader cOHMunity to rate values, reward ratings immediately. Discuss analysis plan.  |
-| 1C | 19/05 | Prioritising Values  | Close rating phase & discuss. Introduce analysis plan & discuss. Generate results & discuss. | Reflect on results, identify improvements for next cycle. Write report and share via newsletter with invite to next Council |
+| 1C | 19/05 | Prioritising Values  | Close rating phase & discuss. Introduce analysis plan & discuss. Generate results & discuss. | Reflect on results, identify improvements. Write report and share via newsletter with invite to next Council |
 
 
 ## Conferences & Residencies 2025
