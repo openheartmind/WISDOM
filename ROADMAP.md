@@ -57,7 +57,8 @@ Please contact [Cooper](mailto:cooper@openheartmind.org) if you can attend any o
 | [Funding the Commons Berlin](https://www.fundingthecommons.io/) | Berlin |  14-15 June |  
 | [ZuBerlin](https://zuberlin.city/) | Berlin | 13-22 June | Rolling |
 | [SIPS](https://www.improvingpsych.org/SIPS2025/) | Budapest | 25-27 June  |  | Coops |
-| [Metascience](https://metascience.info/) | London | 30 June – 2 July | | Coops |
+| [Metascience](https://metascience.info/) | London | 30 June – 2 July | | Coops -- rejected |
+| [ResBaz QLD](https://ardc.edu.au/event/resbaz-queensland-2025/) | Brisbane | 1-3 July | Early May | |
 | [Zanzalu](https://lu.ma/1kzrdu3s) | Zanzibar | July 6 - August 1 | 
 | [Community Over Code](https://sessionize.com/communityovercode-asia-2025/) | Beijing | 25-27 July | 21 Apr | Coops |
 | *[Open Source Summit India](https://events.linuxfoundation.org/open-source-summit-india/)* | Hyderabad, India | 5 August | 6 April | 
