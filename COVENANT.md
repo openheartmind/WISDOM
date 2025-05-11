@@ -1,4 +1,4 @@
-# cOHMunity Covenant
+# OHM Covenant
 *A shared commitment to fairness, care, and collective contribution*
 
 ## 1. Welcome
