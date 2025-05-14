@@ -3,15 +3,15 @@
 ## 🌳 Annual Growth Cycle
 Each year represents a full system cycle — a rhythm of shared learning, rooted in gatherings of the heart and shaped by collective inquiry of the mind.
 
-| Year  | Color     | Theme                      | Heart (Chakra)       |  Mind (Maslow Tier)                      | Description    |
-|---|---|-----|-----|----------|-----------|
-| 2025  | 🔴 Red    | Security & Foundations     | Root         | Physiological needs, Safety needs            | Establishing shared values, democratic structures, recognition and reward protocols. Building trust in the system. |
-| 2026  | 🟠 Orange | Flow & Creative Expression | Sacral       | Aesthetic Needs   | Fostering creativity, pleasure, art, and deeper relationships between communities. Cultural play and co-expression. | 
-| 2027  | 🟡 Yellow | Power & Self-Governance    | Solar Plexus | Esteem                    | Empowering individual and group agency. Growing confidence in self-governance, leadership, and decentralised infrastructure. |
-| 2028  | 🟢 Green  | Connection & Compassion    | Heart        | Love & Belonging                   | Strengthening social fabric. Deepening care, empathy, and mutual recognition across networks.              |
-| 2029  | 🔵 Blue   | Voice & Truth              | Throat       | Cognitive Needs    | Enabling truthful, transparent dialogue. Broadcasting values-aligned stories and models.                  |
-| 2030  | 🟣 Indigo | Vision & Wisdom            | Third Eye    | Self-Actualization          | Synthesising learnings. Scaling interoperable logic. Collective sensemaking, predictive tools, and wisdom. |
-| 2031  | ⚪ White  | Unity & Transcendence      | Crown        | Self-Transcendence | Aligning heart and mind. Becoming a fully integrated system for global service and regeneration.         |
+| Year  | Color     | Theme                      | Chakra       | Maslow Tier                  | Description |
+|-------|-----------|----------------------------|---------------|------------------------------|-------------|
+| 2025  | 🔴 Red     | Security & Foundations      | Root          | Physiological, Safety Needs  | Establishing core values, democratic governance, and reward protocols. Laying trust-based foundations for a living system. |
+| 2026  | 🟠 Orange  | Flow & Creative Expression  | Sacral        | Aesthetic Needs              | Fostering creativity, relational depth, and joyful collaboration. Celebrating shared culture through art, play, and co-expression. |
+| 2027  | 🟡 Yellow  | Power & Self-Governance     | Solar Plexus  | Esteem                       | Empowering individuals and collectives to lead. Building confidence in decentralised structures and shared agency. |
+| 2028  | 🟢 Green   | Connection & Compassion     | Heart         | Love & Belonging             | Strengthening community bonds. Practicing care, gratitude, and mutual recognition across diverse networks. |
+| 2029  | 🔵 Blue    | Voice & Truth               | Throat        | Cognitive Needs              | Cultivating transparent, courageous communication. Amplifying values-aligned narratives and inter-community dialogue. |
+| 2030  | 🟣 Indigo  | Vision & Wisdom             | Third Eye     | Self-Actualization           | Integrating insights and scaling open logic. Enabling collective foresight, sensemaking, and wisdom tools. |
+| 2031  | ⚪ White   | Unity & Transcendence       | Crown         | Self-Transcendence           | Unifying heart and mind in service. Becoming an integrated, values-aligned system for planetary regeneration. |
 
 
 ## 🌒 OHM Council Series 2025-26
