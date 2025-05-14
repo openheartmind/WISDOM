@@ -4,6 +4,54 @@ Use this document to collect formal written content, such as conference proposal
 
 
 
+## ResBaz Queensland 2025
+
+### Workshop title (10 words or less preferred!)
+Valuing What Matters: A Participatory Framework for Recognising Diverse Contributions
+
+### Workshop description (topics covered or learning objectives)
+This workshop introduces Metavaluation, an open-source framework for recognising and rewarding diverse research contributions—from data sharing and teaching to mentoring, organising, and behind-the-scenes work that often goes unseen.
+
+Its key innovation lies in treating peer evaluations as valuable contributions themselves—using a self-referential process that pegs all other valuations to these reviews as a ‘base unit’ of value. This creates a dynamic feedback loop that directly rewards participation while generating transparent, relative value scores across all contributions.
+
+In the first part of the workshop, we’ll explore the development of Metavaluation—from its origins as a radically transparent peer-review model aimed at accelerating Open Science, to its evolution through participatory festivals into a general-purpose framework for community-led evaluation. We’ll share pilot data from commons-oriented communities across science, arts, technology, and environmental sectors—demonstrating how the system flexibly recognises what matters to different communities, while also creating pathways for coordination between them.
+
+In the second part, we’ll use ResBaz Queensland 2025 as a live case study. Participants will nominate and evaluate real contributions to the event—such as talks, mentorship, organising, or community support—via a simple, inclusive peer-review process. Together, we’ll generate a live dataset that maps what this community values most, and explore how this data can support recognition, guide future events, and connect aligned communities across domains.
+
+You’ll leave with:
+	•	An understanding of key obstacles to the Open Science movement—and how Metavaluation addresses them
+	•	Hands-on experience with participatory valuation
+	•	A live dataset visualising ResBaz contributions and community values
+	•	Tools to empower your own research group or community
+	•	An invitation to join a participatory festival later in the year, organised through Metavaluation
+	•	Recognition for your workshop contributions—credited within the Metavaluation system itself
+
+### Attendee prerequisites, if any
+None. This workshop is designed to be inclusive and accessible to all, regardless of background or experience. No technical or research expertise required—just curiosity and a willingness to reflect on what we value as a community.
+
+### Attendee instructions (will be emailed to attendees -- software installation, pre-reading and so on)
+No preparation is required, and no software installation needed.
+
+If you’d like to explore the project in advance, you’re welcome to visit:
+🔗 https://openheartmind.org
+🔗 https://github.com/openheartmind/WISDOM
+
+You’re also invited to come with a few ResBaz contributions in mind —- talks, gestures, or efforts (big or small!) that you feel made a positive difference to the community, so we can value them together. 💛
+
+### Speaker bio
+Dr. Cooper Smout is a neuroscientist, designer, and open science advocate working at the intersection of collective sensemaking, participatory governance, and systemic reform. He founded Free Our Knowledge, a collective action platform for academic reform, and Open Heart + Mind (OHM), a charitable organisation developing open-source tools to empower diverse communities. His current work centres on Metavaluation—a protocol for participatory evaluation that generates transparent, interoperable value metrics to support fair recognition and reward, decentralised coordination, and collective governance across research and commons-oriented ecosystems.
+
+
+
+
+## OHBM OS-SIG
+
+### Short Bio
+Dr. Cooper Smout is a neuroscientist, designer, and open science entrepreneur focused on building participatory systems for recognition, reward, and governance. He founded Free Our Knowledge, a collective action platform for academic reform, and Open Heart + Mind (OHM), a charitable organization developing open-source tools to recognise and reward diverse community contributions. His current work centers on Metavaluation, a novel incentive mechanism designed to address the collective action problem in academia and generalised to empower and connect communities across the environment, arts, and knowledge commons.
+
+
+
+
 ## Community Over Code Asia 2025
 
 ### Speaker Tagline:
