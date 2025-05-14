@@ -1,22 +1,23 @@
 # OHM Roadmap
 
-## 🌳 Annual Roadmap
+## 🌳 Annual Growth Cycle
 Each year represents a full system cycle — a rhythm of shared learning, rooted in gatherings of the heart and shaped by collective inquiry of the mind.
 
-| Year | Theme                 | Community            | System                         | Records | Reviews | Branding |
-|------|-----------------------|----------------------|--------------------------------|-----|-----|-----|
-| ~~2022~~ | ~           | Tiny OHM Gathering           | Festival prototypes                            | Clickup | Google Sheets | Playful |
-| ~~2023~~ | ~           | OHM Gathering (pilot)        | Conference prototype, Proof-of-concept web-app | Clickup/Github | Google Sheets | Playful |
-| ~~2024~~ | ~           | Non-OHM events (America, Africa, Thailand) | Web3 prototypes                  | Github  | Google Sheets | Playful |
-| 2025 | Planting Seeds  | OHM Gathering v1             | Residency prototype, **WisdOHM MVP release** | Github | **WisdOHM** | Rooted in Resonance |
-| 2026 |                 | OHM Gathering v2             |                                                    | 
-| 2027 |                 | OHM Gathering v3             |                                                    | 
+| Year  | Color     | Theme                      | Heart (Chakra)       |  Mind (Maslow Tier)                      | Description    |
+|---|---|-----|-----|----------|-----------|
+| 2025  | 🔴 Red    | Security & Foundations     | Root         | Physiological needs, Safety needs            | Establishing shared values, democratic structures, recognition and reward protocols. Building trust in the system. |
+| 2026  | 🟠 Orange | Flow & Creative Expression | Sacral       | Aesthetic Needs   | Fostering creativity, pleasure, art, and deeper relationships between communities. Cultural play and co-expression. | 
+| 2027  | 🟡 Yellow | Power & Self-Governance    | Solar Plexus | Esteem                    | Empowering individual and group agency. Growing confidence in self-governance, leadership, and decentralised infrastructure. |
+| 2028  | 🟢 Green  | Connection & Compassion    | Heart        | Love & Belonging                   | Strengthening social fabric. Deepening care, empathy, and mutual recognition across networks.              |
+| 2029  | 🔵 Blue   | Voice & Truth              | Throat       | Cognitive Needs    | Enabling truthful, transparent dialogue. Broadcasting values-aligned stories and models.                  |
+| 2030  | 🟣 Indigo | Vision & Wisdom            | Third Eye    | Self-Actualization          | Synthesising learnings. Scaling interoperable logic. Collective sensemaking, predictive tools, and wisdom. |
+| 2031  | ⚪ White  | Unity & Transcendence      | Crown        | Self-Transcendence | Aligning heart and mind. Becoming a fully integrated system for global service and regeneration.         |
 
 
-## 🌒 Monthly Roadmap: OHM Council Series 2025-26
-A series of meetings exploring new themes and use cases for the WisdOHM System each new moon cycle — using OHM Gathering (OHMG) as a live case study. These monthly OHM Councils are open to everyone, and are supported by focused weekly meetings throughout the month.
+## 🌒 OHM Council Series 2025-26
+A series of monthly meetings exploring new themes and use cases for the WisdOHM System each new moon cycle — using OHM Gathering (OHMG) as a live case study. These monthly OHM Councils are open to everyone, and are supported by focused weekly meetings throughout the month.
 
-| ID  | Council | Name | Heart Theme & Practice/Presentation | Mind Topic & Presentation   | Prototype (throughout month)               | Outputs | Other |
+| ID  | Date | Earth   | Heart (Topic, Practice) | Mind (Topic, Presentation)   | Prototype (throughout month)               | Outputs | Other |
 | --- | ---  | ---     | ---         | ---          | ------------------------------------------------------                                      | --- | ------------------------------------------------------ |
 | 1 | 28/04  | Seed    | Values, Community/Project intros     | Values, “A Coming OHM Story”              | Prioritising core values               | Value Map, Governance documents | 
 | 2 | 27/05  | Root    | "Rising Hearts" (Angie)   |  "Participatory Democracy" (J. Sri)    | Electing representatives (cOHMittee)   | Charity board, Role descriptions  | AIMOS draft | 
@@ -29,7 +30,7 @@ A series of meetings exploring new themes and use cases for the WisdOHM System e
 | 9 | 20/12  | Drop    | Gratitude                | Recognition, Testamonials?                              | Valuing contributions              | Contribution valuations |
 | 10 | 19/01 | Ring?   | Compassion?              | Reward, Smart Contracts?                                  | Valuing contributions              | Participant payments, reputation scores |
 | 11 | 17/02 | Canopy  | Intuition & Faith        | Respect, DAO Governance? Metascience?                   | Assigning reputation scores        | OHM Manifesto v1, Re-gathering? |
-| 12 | 19/3  | Compost | Rest, Calm & Stillness?  | Replication   | "Go On, Go OHM"                          | ~ | ~ | OG1 video? |
+| 12 | 19/03  | Compost | Rest, Calm & Stillness?  | Replication   | "Go On, Go OHM"                          | ~ | ~ | OG1 video? |
 
 * To add these moon cycles to your calendar, subscribe to [this URL](https://mooncal.ch/mooncal.ics?created=41234647928&lang=en&phases[full]=true&phases[new]=true&phases[quarter]=false&phases[daily]=false&style=withDescription&events[lunareclipse]=true&events[solareclipse]=true&events[moonlanding]=false&before=P6M&after=P2Y&zone=Australia/Brisbane)
 
@@ -45,7 +46,7 @@ Within each monthly Council theme, we move through a full WisdOHM cycle — not 
 
 
 ## Conferences & Residencies 2025
-Please contact [Cooper](mailto:cooper@openheartmind.org) if you can attend any of these and would like to present on OHM--especially those in italics as Coops cannot attend:
+Help us spread the word! Contact [Cooper](mailto:cooper@openheartmind.org) if you would like to host an OHM workshop at any of the conferences in italics below or not listed. 
 
 | What | When | Where | Proposal Due | Applied? |
 | --- | --- | --- | --- | --- |
@@ -72,4 +73,4 @@ Please contact [Cooper](mailto:cooper@openheartmind.org) if you can attend any o
 | *[Open Source Summit Korea](https://events.linuxfoundation.org/open-source-summit-india/)* | Seoul | 5 Nov | 30 June |  
 | *[Open Source Summit Japan](https://events.linuxfoundation.org/open-source-summit-japan/)* | Tokyo | 8-10 Dec | 3 Aug |  
 
-(see also [OHM Calendar](https://calendar.google.com/calendar/u/0?cid=b3BlbmhlYXJ0bWluZC5vcmdAZ21haWwuY29t))
+See our public [OHM Calendar here](https://calendar.google.com/calendar/u/0?cid=b3BlbmhlYXJ0bWluZC5vcmdAZ21haWwuY29t).
