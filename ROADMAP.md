@@ -5,7 +5,7 @@ Each year represents a full system cycle — a rhythm of shared learning, rooted
 
 | Year  | Color     | Theme                      | Chakra       | Maslow Tier                  | Description |
 |-------|-----------|----------------------------|---------------|------------------------------|-------------|
-| 2025  | 🔴 Red     | Security & Foundations      | Root          | Physiological, Safety Needs  | Establishing core values, democratic governance, and reward protocols. Laying trust-based foundations for a living system. |
+| 2025  | 🔴 Red     | Security & Foundations      | Root          | Physiological, Safety Needs  | Establishing core values, democratic governance, and reward protocols. Laying trust-based foundations for a living system. Basic incomes for core contributors. |
 | 2026  | 🟠 Orange  | Flow & Creative Expression  | Sacral        | Aesthetic Needs              | Fostering creativity, relational depth, and joyful collaboration. Celebrating shared culture through art, play, and co-expression. |
 | 2027  | 🟡 Yellow  | Power & Self-Governance     | Solar Plexus  | Esteem                       | Empowering individuals and collectives to lead. Building confidence in decentralised structures and shared agency. |
 | 2028  | 🟢 Green   | Connection & Compassion     | Heart         | Love & Belonging             | Strengthening community bonds. Practicing care, gratitude, and mutual recognition across diverse networks. |
