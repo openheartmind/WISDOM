@@ -4,6 +4,144 @@ Use this document to collect formal written content, such as conference proposal
 
 
 
+
+## International Data Week
+
+### TALK
+#### Title
+Metavaluation: A Participatory Framework for Valuing and Incentivising Diverse Research Contributions
+
+#### Description
+Systemic reform in science continues to face a collective action problem: researchers agree that contributions such as data sharing, peer review, software development, and community engagement are essential, yet these remain structurally undervalued in current incentive systems. Although the Open Science movement has promoted greater transparency and expanded recognition, uptake of alternative evaluation tools remains low. Most systems rely on unpaid labor and lack meaningful incentives, creating a paradox where improved evaluation tools fail to attract enough evaluators to function effectively.
+
+This talk introduces Metavaluation—an open-source, participatory evaluation protocol designed to overcome this barrier by embedding incentives directly into the evaluation process. Rather than treating peer review and contribution recognition as separate, unlinked processes, Metavaluation treats evaluations themselves as contributions, subject to the same collective valuation process. By feeding pairwise evaluations into a recursive feedback loop—where evaluations are used to value other evaluations—the system generates standardized, reproducible value metrics across multiple dimensions (e.g. Gratitude, Value to the Community and Mission). These metrics support rigorous, transparent, and inclusive science by informing recognition, funding, governance, and strategic planning.
+
+Unlike conventional reputation systems, Metavaluation is designed from first principles to be open, inclusive, interoperable, and resistant to gaming. It avoids absolute scoring and popularity biases by relying on pairwise comparisons—a simple, accessible format proven to generate high-quality judgments with minimal cognitive load. It also controls for exposure and attention biases through random sampling. The key innovation is treating these comparisons as a “base unit” of community value, then embedding them within the same evaluative process. This allows all other contributions to be scaled in relative terms, making every value score comparable to the value of a single pairwise comparison. The result is a participatory, decentralized incentive mechanism that mitigates gatekeeping while encouraging broad engagement.
+
+Since its inception, the framework has been prototyped and validated across multiple domains—academic conferences, community arts festivals, and decentralized projects—demonstrating its flexibility in valuing diverse contributions. These real-world experiments have shown how communities can use Metavaluation to make the invisible visible, recognize essential work, and begin aligning incentives with shared values. Its use of community-defined metrics and reward structures offers promising applications for open infrastructure, responsible AI, and sustainable funding models.
+
+This presentation will:
+	•	Share the conceptual foundations and system design of Metavaluation.
+	•	Present results from recent prototypes in academic and grassroots settings.
+	•	Reflect on learnings related to participation, data quality, and interoperability.
+	•	Explore implications for open research infrastructures, value-aligned funding, and future data governance systems.
+
+The session is especially relevant to attendees interested in reproducible science, decentralized governance, data stewardship, equity and inclusion, and cross-community infrastructure. It will complement a related workshop that introduces the hands-on use of the Metavaluation app for valuing contributions to the SciDataCon conference itself.
+
+By centering reward and recognition on what communities truly value—rather than what is easiest to count—Metavaluation offers a scalable, interoperable, and fair approach to evaluation. It enables research communities to coordinate through shared metrics, reward engagement, and align practices with values—laying the groundwork for a more inclusive, resilient, and participatory data ecosystem.
+
+
+
+### WORKSHOP
+#### Title
+Metavaluation in Practice: A Workshop on Valuing Diverse Research Contributions
+
+#### Introduction
+
+The scientific community faces a critical challenge: essential contributions to research progress—including data sharing, code development, peer review, mentorship, and community engagement—remain systematically undervalued. Despite the Open Science movement’s efforts to broaden recognition beyond traditional publications, engagement with alternative evaluation systems remains persistently low. Researchers continue to prioritize activities that advance their careers within traditional reward structures, creating a paradox in which systems designed to improve evaluation cannot attract enough evaluators to function effectively.
+
+This workshop introduces **Metavaluation**, a novel participatory framework that directly addresses this engagement challenge by treating **evaluations themselves** as valuable contributions. Through an innovative self-referential system—where evaluations are also evaluated—participants are incentivized to provide high-quality assessments, creating a virtuous cycle of participation. Unlike existing systems that struggle with low uptake, Metavaluation includes **direct rewards for evaluators**, making the process engaging, equitable, and sustainable.
+
+#### Significance and Relevance to SciDataCon Themes
+
+Metavaluation’s six-stage protocol aligns directly with several of SciDataCon 2025’s key themes:
+
+ - **Record** – *Open Research Through Interoperable Data*. Contributions and evaluation dimensions are transparently recorded, forming an open registry that enables interoperable value metrics across research communities.
+
+ - **Review** – *Empowering Global Participation*. Evaluations are conducted through simple pairwise comparisons, allowing anyone—regardless of expertise level—to meaningfully contribute. This reduces gatekeeping and fosters inclusive global participation.
+
+ - **Recognize** – *Supporting Rigorous, Responsible Science*. A meta-evaluation process generates standardized, reproducible metrics for diverse contribution types, improving transparency and scientific integrity.
+
+ - **Reward** – *Aligning Incentives Toward Openness*. Tokenized or symbolic rewards for both contributions and evaluations incentivize sustained participation, aligning individual and collective goals.
+
+ - **Respect** – *Building Responsible AI and Governance*. The system tracks reliability over time, enabling merit-based governance models and providing value-aligned training data for future AI tools.
+
+ - **Research** – *Advancing Reproducible Meta-Research*. Metavaluation supports continuous learning by documenting and analyzing the valuation process itself, contributing to open, reproducible meta-science.
+
+
+#### Workshop Format and Structure
+
+This 90-minute workshop will combine a concise overview of the Metavaluation model with a live, hands-on session where participants apply it in real time to value contributions to SciDataCon 2025. The session will be structured as follows:
+
+##### **1. Introduction and Framing (15 min)**  
+Overview of the collective action problem in research evaluation and core blockers to cultural change. Introduction to Metavaluation’s six-stage protocol and its role as a participatory incentive layer for research communities. Overview of prototype data collected from diverse communities spanning the arts, sciences, and technology sectors, along with key learnings from three years of prototyping radical participatory governance models. 
+
+##### **2. Live Demonstration (10 min)**  
+Walkthrough of the newly released, open-source Metavaluation app. Demonstration of how to nominate contributions, conduct evaluations, and view output metrics.
+
+##### **3. Interactive Collective Valuation (40 min)**  
+Participants will:
+- Nominate real contributions from the conference (e.g. talks, organizing, registration fees).
+- Evaluate them via pairwise comparisons across multiple dimensions (e.g. Gratitude, Value to the Community and Mission).
+- Review system-generated metrics showing relative value rankings.
+
+##### **4. Discussion and Synthesis (20 min)**  
+Group discussion on:
+- What values emerged from the experiment
+- Participant experience of the evaluation process
+- Use cases in other communities (e.g. data stewardship, governance)
+- Feedback and ideas for broader adoption
+
+##### **5. Wrap-Up and Invitation (5 min)**  
+Invitation to continue using the system beyond the workshop. Encouragement to co-develop value taxonomies, nominate more contributions, and contribute to a growing commons of interoperable, community-generated data.
+
+---
+
+No technical background is required to attend this workshop — just your perspective, values, and voice.
+
+
+### POSTER 
+#### Title  
+Metavaluation in Action: A Live Experiment in Valuing Diverse Contributions to SciDataCon
+
+#### Authors
+Cooper Smout, Anna Finnane
+
+#### Abstract
+Despite years of progress by the Open Science movement, many essential contributions to research—such as mentoring, data sharing, peer review, and community organisation—remain structurally undervalued in formal reward systems. The result is a persistent collective action problem: researchers acknowledge the value of these contributions, but rarely prioritise them, as they are not recognised or rewarded in meaningful ways.
+
+**Metavaluation** is a novel, open-source framework designed to address this challenge. Its core innovation is to treat peer evaluations as first-class contributions, using them as a ‘base unit’ of value in a self-referential process that generates **transparent, multidimensional value scores** across all contributions. By embedding direct rewards into the evaluation process and scaling all values relative to the effort of a single peer comparison, the system creates a dynamic feedback loop that both incentivises participation and surfaces what a community truly values.
+
+This poster visualises the Metavaluation framework, including:
+
+- Its six-stage participatory protocol (Record, Review, Recognise, Reward, Respect, Research)
+- Core design principles (open, inclusive, decentralised, interoperable)
+- Sample data from recent prototypes across open science, Web3, and community events
+- Insights into reviewer reliability, reproducibility, and fairness in participatory evaluation
+
+Attendees are invited to **interact with the poster** via QR code, which links to a live instance of the Metavaluation platform tailored for IDW/SciDataCon 2025. Through this interface, they can:
+
+- Nominate real contributions to the conference (e.g. talks, organising, support work)
+- Evaluate them using a simple pairwise comparison protocol
+- View live, evolving community metrics that reflect the values of participants
+
+This interactive poster invites researchers, practitioners, and infrastructure developers to help test a new mode of collective recognition—offering a hands-on glimpse of a system that could support **fairer attribution, decentralised governance, and value-aligned coordination** across the research ecosystem.
+
+
+
+### WORKSHOP 
+#### Title
+Valuing What Matters: A Participatory Framework for Recognising Diverse Contributions
+
+#### Description
+This workshop introduces Metavaluation, an open-source framework for recognising and rewarding diverse research contributions—from data sharing and teaching to mentoring, organising, and behind-the-scenes work that often goes unseen.
+
+Its key innovation lies in treating peer evaluations as valuable contributions themselves—using a self-referential process that pegs all other valuations to these reviews as a ‘base unit’ of value. This creates a dynamic feedback loop that directly rewards participation while generating transparent, relative value scores across all contributions.
+
+In the first part of the workshop, we’ll explore the development of Metavaluation—from its origins as a radically transparent peer-review model aimed at accelerating Open Science, to its evolution through participatory festivals into a general-purpose framework for community-led evaluation. We’ll share pilot data from commons-oriented communities across science, arts, technology, and environmental sectors—demonstrating how the system flexibly recognises what matters to different communities, while also creating pathways for coordination between them.
+
+In the second part, we’ll use ResBaz Queensland 2025 as a live case study. Participants will nominate and evaluate real contributions to the event—such as talks, mentorship, organising, or community support—via a simple, inclusive peer-review process. Together, we’ll generate a live dataset that maps what this community values most, and explore how this data can support recognition, guide future events, and connect aligned communities across domains.
+
+You’ll leave with:
+	•	An understanding of key obstacles to the Open Science movement—and how Metavaluation addresses them
+	•	Hands-on experience with participatory valuation
+	•	A live dataset visualising ResBaz contributions and community values
+	•	Tools to empower your own research group or community
+	•	An invitation to join a participatory festival later in the year, organised through Metavaluation
+	•	Recognition for your workshop contributions—credited within the Metavaluation system itself
+
+
+
 ## ResBaz Queensland 2025
 
 ### Workshop title (10 words or less preferred!)
@@ -37,6 +175,9 @@ If you’d like to explore the project in advance, you’re welcome to visit:
 🔗 https://github.com/openheartmind/WISDOM
 
 You’re also invited to come with a few ResBaz contributions in mind —- talks, gestures, or efforts (big or small!) that you feel made a positive difference to the community, so we can value them together. 💛
+
+#### Materials or equipment required
+Participants are encouraged to bring a laptop or tablet to complete evaluations during the hands-on component of the workshop. However, a device is not strictly required—we will have alternative participation options available to ensure everyone can take part in the activity, regardless of tech access. 
 
 ### Speaker bio
 Dr. Cooper Smout is a neuroscientist, designer, and open science advocate working at the intersection of collective sensemaking, participatory governance, and systemic reform. He founded Free Our Knowledge, a collective action platform for academic reform, and Open Heart + Mind (OHM), a charitable organisation developing open-source tools to empower diverse communities. His current work centres on Metavaluation—a protocol for participatory evaluation that generates transparent, interoperable value metrics to support fair recognition and reward, decentralised coordination, and collective governance across research and commons-oriented ecosystems.
