@@ -2,6 +2,28 @@
 Use this document to collect formal written content, such as conference proposals, website text, grant applications, etc. (informal introductions and requests for support should go [here](introductions.md) instead). Place newer contributions at the top, using two hashes to create a new title (## Example title), and three or four hashes to create subheadings where needed (### Example subheading). You can link websites by selecting the relevant text and pasting.
 
 
+## Mushroom Valley
+#### Title
+Valuing What Matters: Free Tools to Celebrate, Support, and Align Community Efforts
+
+#### Extra Name Info (country, label affiliation, etc.)
+
+#### Description / Synopsis
+Valuing What Matters is a participatory workshop in collective gratitude and fair recognition for contributions. Together, we’ll pause to honour the quiet web of care that holds communities, gatherings, and projects together—build crews, artists, healers, organisers, volunteers, space holders, and all the unseen contributions that bring collective visions to life.
+
+We’ll begin by introducing a novel participatory governance framework that emerged from the open science movement and has since evolved into a general-purpose solution for diverse communities. We’ll explore the model’s core dynamics and share data from real-world prototypes across the arts, science, and environment sectors—showing how it can align incentives, reward contributors, and support coordination through community-defined metrics.
+
+Next, we’ll move into a hands-on experiment using our free, open-source app to celebrate contributions to Mushroom Valley itself. Participants will be invited to nominate moments or contributions that made the festival shine, which we’ll enter into a custom instance created for the Mushroom Valley community. We’ll then play a light-hearted, peer-based game that rewards honest, thoughtful evaluation and generates a “relative value map” of contributions—honouring good deeds, celebrating community care, and demonstrating a new way to see and support the invisible labour that holds communities together.
+
+Participants will leave with hands-on experience of the app, a deeper understanding of participatory valuation, and an open invitation to use this free tool in their own projects, teams, or communities—planting seeds for a more connected, caring, and value-aligned future.
+
+Please bring a smartphone if you have one, as we’ll be using a web-based app during the workshop. That said, no one will be excluded—we’ll offer alternative ways to participate for those without a device.
+
+#### Biography
+Cooper Smout is a systems thinker, storyteller, and community builder exploring how we come together, share value, and shape the future. With a background in architecture, neuroscience, and open science activism, he founded Open Heart + Mind —- a volunteer collective weaving tools, gatherings, and radical models to support reciprocity, recognition, and decentralised care. His work lives at the edges of festivals, research spaces, and grassroots communities, where he invites people to slow down, reflect on what matters, and co-create more harmonious, integrated systems of belonging.
+
+
+
 ## Zen Festival
 
 #### Tell us a little about yourself. What would you like to offer?
@@ -57,7 +79,7 @@ Cooper Smout is a systems thinker, storyteller, and community builder exploring 
 The Grounded PDC was a turning point for me—opening my eyes to the world of permaculture and reshaping how I think about systems, community, and culture. It’s been a few hot years since then, but we now have a refined model, a growing international network, and are in the final stages of building a free, open-source app designed to empower communities like Grounded.  I’m excited to reconnect after a long season of building, see what the community think about our offering, and begin forging partnerships toward a future rooted in relationship, regeneration, and care.  And of course—I’m ready for a good old-fashioned Grounded boogie.
 
 #### What's your offer
-Valuing What Matters: A Participatory Workshop to Recognise Diverse Contributions to the Grounded Community.
+Valuing What Matters: A Participatory Workshop to Celebrate Diverse Contributions.
 
 Every community runs on a quiet web of care—meals cooked, spaces created, gardens tended, children held. This workshop invites the Grounded community to pause and honour that web by recognising the contributions that made this gathering possible.
 
