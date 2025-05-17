@@ -2,18 +2,56 @@
 Use this document to collect formal written content, such as conference proposals, website text, grant applications, etc. (informal introductions and requests for support should go [here](introductions.md) instead). Place newer contributions at the top, using two hashes to create a new title (## Example title), and three or four hashes to create subheadings where needed (### Example subheading). You can link websites by selecting the relevant text and pasting.
 
 
+## Zen Festival
+
+#### Tell us a little about yourself. What would you like to offer?
+I’m a designer, researcher, and community builder exploring how we come together, share value, and co-create change. For almost a decade, I’ve been developing a participatory framework for community recognition—shaped through festivals, research spaces, and grassroots projects. After years of prototyping, we’re now launching a free, open-source app to support this work.
+
+I’d love to offer Zen Festival one of the first opportunities to explore it in practice—gathering feedback on the system while empowering the community to reflect on, honour, and value the many contributions that make this gathering possible.
+
+#### Please give a short description of your primary offering (100 words or less)
+"Valuing What Matters" is a participatory workshop in collective gratitude and fair valuation. We’ll pause to honour the quiet web of care that holds Zen Festival together—meals cooked, spaces tended, hearts held. Using a free, open-source app built for communities, we’ll nominate meaningful contributions and play a light-hearted game to value them together. The process generates a transparent “value map” of Zen—revealing what the community values most, recognising contributors, and planting seeds for a fair, community-led system of recognition and coordination that can grow across festivals, projects, and purpose-driven spaces.
+
+#### Please give a short description of your secondary offering (100 words or less):
+"Metavaluation: Valuing What Matters" is a talk about an inclusive, open-source framework designed to help communities recognise and reward meaningful contributions. At its heart is a simple, participatory mechanism that empowers communities to express gratitude and collectively determine the relative value of contributions in service of a shared mission. I’ll walk through the model’s mechanics, share insights and data from diverse communities worldwide, and demonstrate how it supports deeper engagement and alignment across networks. I’ll close with a vision for a global ecosystem of value-aligned communities—and an open invitation to help bring it to life. 
+
+(Note: I'd also be happy to offer additional, more focussed workshops with the core crew or other teams, supporting mutual reflection and appreciation for their roles within the larger effort)
+
+#### Please provide a 3rd person bio (100 words or less)
+Cooper Smout is a systems thinker, storyteller, and community builder exploring how we come together, share value, and shape the future. With a background in architecture, neuroscience, and open science activism, he founded Open Heart + Mind—a volunteer collective weaving tools, gatherings, and radical models to support reciprocity, recognition, and decentralised care. His work lives at the edges of festivals, research spaces, and grassroots communities, where he invites people to slow down, reflect on what matters, and co-create more harmonious, integrated systems of belonging.
+
+#### Please include any social media links (instagram, facebook, youtube, spotify, bandcamp, etc...)
+https://www.instagram.com/coopersmout
+https://www.instagram.com/open.heart.mind
+https://www.facebook.com/cooper.smout
+https://www.facebook.com/openheartmindpage
+https://twitter.com/coopsmout
+https://twitter.com/ohmcollective
+https://www.youtube.com/@OpenHeartMind
+
+#### What do you do to embody the ZEN philosophy/principles?
+I’ve practiced meditation, mindfulness, and gratitude for nearly two decades, guided by Buddhist philosophy and a deep commitment to reducing suffering for all beings. My work is an extension of that path—creating tools to help communities shift from extractive systems toward ways of living rooted in compassion, reciprocity, and balance. Through this, I seek to honour our interconnection and support more harmonious relationships between people, planet, and purpose.
+
+#### If you share an Indigenous practice ~ how do you embody respect towards the practice & the culture ? What do you do to acknowledge it's cultural belonging?
+I do not share any Indigenous practices in this offering. However, the tools I’m building are inspired by principles of reciprocity, decentralisation, and interdependence that many Indigenous cultures have long upheld. I aim to acknowledge and uplift these values while being mindful not to appropriate specific cultural forms or language.
+
+#### What will you need from us? ie. power, microphone, other equipment etc.
+For the workshop, I’ll need internet access so participants can use our web-based app. If that’s not available on-site, I will need power to provide my own Starlink connection. No other equipment is needed for small, intimate spaces—but for larger setups, a microphone and screen/projector would help guide participants through the app.
+
+For the talk, I’m flexible. In a smaller space, no equipment is needed, though a projector for slides would help visual learners engage with the model and data. In a larger space, a microphone would be essential.
+
+#### How did you hear about Zen Festival?
+I attended Zen Festival two years ago and have known members of the Zenthai community and partner communities (Grounded, Island Vibes) for some time now. 
+
+#### Is there anything else you would like to share, to support your application?
+This offering represents the “Mind” side of Open Heart + Mind—our volunteer-based collective exploring new ways to gather, co-create, and relate. The “Heart” side of OHM is rooted in art and community. My collaborator, Angie Sierra, is submitting a separate offering to share her large-scale art installations at Zen Festival. While our proposals are independent, they’re deeply complementary. If both are selected, we’ll support one another in setting up, facilitating, and deepening the collective experience.
+
+
 
 ## Grounded Gathering
 
-#### Details
-Cooper Smout
-046-8611645
-cooper.smout@gmail.com
-Cooper Smout
-https://openheartmind.org
-
 #### Bio
-Cooper Smout is a designer, researcher, and community builder working at the intersection of art, science, and culture. With a background in neuroscience and open-source activism, he founded Open Heart + Mind (OHM)—a volunteer-powered collective creating tools for transparent, community-led recognition, reward, and governance. Cooper has prototyped these tools at gatherings around the world, from academic conferences and Web3 workshops to grassroots festivals. He now leads the development of a free, open-source framework to support diverse communities in practicing reciprocal care, transparent valuation, and decentralised decision-making.
+Cooper Smout is a systems thinker, storyteller, and community builder exploring how we come together, share value, and shape the future. With a background in architecture, neuroscience, and open science activism, he founded Open Heart + Mind—a volunteer collective weaving tools, gatherings, and radical models to support reciprocity, recognition, and decentralised care. His work lives at the edges of festivals, research spaces, and grassroots communities, where he invites people to slow down, reflect on what matters, and co-create more harmonious, integrated systems of belonging.
 
 #### Why do you want to be at GG2025?
 The Grounded PDC was a turning point for me—opening my eyes to the world of permaculture and reshaping how I think about systems, community, and culture. It’s been a few hot years since then, but we now have a refined model, a growing international network, and are in the final stages of building a free, open-source app designed to empower communities like Grounded.  I’m excited to reconnect after a long season of building, see what the community think about our offering, and begin forging partnerships toward a future rooted in relationship, regeneration, and care.  And of course—I’m ready for a good old-fashioned Grounded boogie.
@@ -32,7 +70,9 @@ The data we generate will form a transparent value map of Grounded’s energetic
 (Note: I’d be happy to run this workshop multiple times throughout the weekend to gather more feedback and participation. I’m also open to joining earlier during the Permaculture School or Bush Retreat to explore mapping those activities or diving deeper into the system.)
 
 #### Requested exchange
-One weekend action party pass for myself
+One weekend action party pass for myself (Nb: we’ll also submit a proposal/request for a second ticket for my collaborator Angie to bring her large-scale art installation/s, so she can support my workshop and vice versa)
+
+
 
 
 ## International Data Week
