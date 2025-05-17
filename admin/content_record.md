@@ -5,6 +5,13 @@ Use this document to collect formal written content, such as conference proposal
 
 ## Grounded Gathering
 
+#### Details
+Cooper Smout
+046-8611645
+cooper.smout@gmail.com
+Cooper Smout
+https://openheartmind.org
+
 #### Bio
 Cooper Smout is a designer, researcher, and community builder working at the intersection of art, science, and culture. With a background in neuroscience and open-source activism, he founded Open Heart + Mind (OHM)—a volunteer-powered collective creating tools for transparent, community-led recognition, reward, and governance. Cooper has prototyped these tools at gatherings around the world, from academic conferences and Web3 workshops to grassroots festivals. He now leads the development of a free, open-source framework to support diverse communities in practicing reciprocal care, transparent valuation, and decentralised decision-making.
 
@@ -12,11 +19,20 @@ Cooper Smout is a designer, researcher, and community builder working at the int
 The Grounded PDC was a turning point for me—opening my eyes to the world of permaculture and reshaping how I think about systems, community, and culture. It’s been a few hot years since then, but we now have a refined model, a growing international network, and are in the final stages of building a free, open-source app designed to empower communities like Grounded.  I’m excited to reconnect after a long season of building, see what the community think about our offering, and begin forging partnerships toward a future rooted in relationship, regeneration, and care.  And of course—I’m ready for a good old-fashioned Grounded boogie.
 
 #### What's your offer
-Valuing What Matters: A Participatory Workshop in Gratitude and Collective Valuation. Every community runs on a quiet web of care—meals cooked, spaces created, gardens tended, children held. This workshop invites the Grounded community to pause and honour that web by recognising those who contributed and valuing the gifts that made this gathering possible.  We’ll introduce a simple, inclusive app designed to help communities recognise all forms of value—especially the ones that often go unseen. Together, we’ll play a light-hearted “game” where anyone can nominate meaningful contributions and take part in a collective process to determine their relative value. The process includes a built-in feedback loop that rewards thoughtful evaluations and invites reflection on what really matters—to each of us and to the community as a whole.  All responses will be woven into a collective value map—recognising contributors, highlighting what the community values most, and planting seeds for a decentralised system that could help Grounded flourish into the future.  You’ll leave with: A felt sense of how much invisible care holds this gathering together—and what matters most to this community; Hands-on experience with a tool for community-led gratitude, recognition, and autonomous governance; Free, open-source tools to support value recognition and reward in your own projects and communities. No tech skills needed—just your attention, appreciation, and voice.
+Valuing What Matters: A Participatory Workshop to Recognise Diverse Contributions to the Grounded Community.
+
+Every community runs on a quiet web of care—meals cooked, spaces created, gardens tended, children held. This workshop invites the Grounded community to pause and honour that web by recognising the contributions that made this gathering possible.
+
+We’ll introduce the participatory valuation framework we’re developing at OHM, with a brief look at its origins, how it works, and insights from prototyping across diverse communities around the world. Then, we’ll offer a hands-on tour of our free, open-source app, using a custom instance created just for Grounded.
+
+Together, we’ll play a light-hearted “game” where participants earn points for both their contributions and their reviews—showing how fair recognition can be playful and engaging for individuals while serving a deeper collective mission.
+
+The data we generate will form a transparent value map of Grounded’s energetic inputs—offering feedback on what the community values most, recognising key contributors, and planting seeds for a decentralised system that could grow in service of Grounded’s mission.
+
+(Note: I’d be happy to run this workshop multiple times throughout the weekend to gather more feedback and participation. I’m also open to joining earlier during the Permaculture School or Bush Retreat to explore mapping those activities or diving deeper into the system.)
 
 #### Requested exchange
-One ticket for myself at a minimum, ideally a second so I can bring a co-facilitator to help people use the app during the workshop
-
+One weekend action party pass for myself
 
 
 ## International Data Week
