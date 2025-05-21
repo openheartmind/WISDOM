@@ -1,8 +1,8 @@
-# WISDOM/README
+# cOHMunity/README
 
-Hi and welcome to the WISDOM project (Weighted Information System for Decentralised Open Metavaluation) :)
+Hi and welcome to the cOHMunity :)
 
-We’re working with developers, open scientists, and meta-researchers to build a collective valuation protocol for quantifying and standardizing the relative value of diverse contributions, so that we can empower public goods providers and connect communities in pursuit of the common good.  (-> [read more](https://github.com/openheartmind/WISDOM/wiki))
+We’re working with developers, researchers, and diverse communities to build WisdOHM, an open source system for quantifying the relative value of diverse contributions to any given collective mission, so that we can empower and connect communities in pursuit of the common good.  (-> [read more](https://github.com/openheartmind/WISDOM/wiki))
 
 ### How it works
 Contributions can be recorded and peer-reviewed by any member of the community. Reviews are completed as pairwise comparisons: voting between pairs of contributions on one or more dimensions of interest to the community. Open source algorithms then convert these data into standardised metrics, which serve to (a) recognise the unique qualities of each contribution, (b) reward contributors automatically, and (c) respect contributors for the value they provide. (-> [read more](https://github.com/openheartmind/WISDOM/wiki/Core-Model))
@@ -20,7 +20,7 @@ WISDOM is designed to be simple yet flexible, so that it can be applied to diver
 In addition to fixed-duration events, WISDOM could also be used to evaluate dynamic contributions to an ongoing project. We intend to prove this concept via the WISDOM project itself, using WISDOM to recognise the full range of project contributions, including but not limited to documents, code, donations, and administration tasks. We also intend to explore the concept of a decentralised autonomous funding system, using WISDOM metrics to distribute any financial contributions that we receive (e.g., donations or grants).
 
 ### Minimum Viable Product
-We’re focusing our early efforts on a minimal viable product (MVP), which is designed to serve our most proven use case: recognising contributions to an academic conference. The WISDOM MVP will focus on the first three stages of the [broader framework](https://github.com/openheartmind/WISDOM/wiki/Core-Model) (Record, Review, Recognise) and contain the bare minimum of features required for multiple instances to be created and tested. The MVP will have the following core components:
+We’re focusing our early efforts on a minimal viable product (MVP), which is designed to serve our most proven use case: recognising contributions to in-person gatherings, whether they be community arts festivals or research conferences. The WisdOHM MVP will focus on the first three stages of the [broader framework](https://github.com/openheartmind/cOHMunity/wiki/Core-Model) (Record, Review, Recognise) and will allow any community to create their own instance and populate it with relevant contributions. The MVP will have the following core components:
 
 - Well established data model we can use as a basis for any future data analysis.
 - Front-end facing application that will engage users with a pairwise comparison voting system. 
