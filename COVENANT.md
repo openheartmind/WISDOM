@@ -104,6 +104,8 @@ This Covenant is a living document. We aim to provide reasonable notice of subst
 
 ---
 
-*Latest version available at: https://github.com/openheartmind/cOHMunity/blob/main/COVENANT.md*
+*Latest version available at: 
+https://github.com/openheartmind/cOHMunity/blob/main/COVENANT.md*
 
-*Next version being written at https://docs.google.com/document/d/1c0APCHYIUajYhci3m0AP1VOQLR8BmlRMZnJ2wcBa-tk/edit?usp=sharing*
+*Next version being written at:
+https://docs.google.com/document/d/1c0APCHYIUajYhci3m0AP1VOQLR8BmlRMZnJ2wcBa-tk/edit?usp=sharing*
