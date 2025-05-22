@@ -2,7 +2,7 @@
 *A shared commitment to fairness, care, and collective contribution*
 
 ## 1. Welcome
-Open Heart + Mind (OHM) is a community of researchers, artists, developers, and community leaders exploring new ways of living, working, and relating together. By participating in this community or using the WisdOHM app, you are joining a collective experiment in open collaboration and fair recognition of value.
+Open Heart + Mind (OHM) is a community of researchers, artists, developers, and community leaders exploring new ways of living, working, and relating together. By participating in the OHM community ("cOHMunity") or using the WisdOHM app, you are joining a collective experiment in open collaboration and fair recognition of value.
 
 This Covenant outlines our shared purpose, values, and expectations. By engaging with WisdOHM or contributing to OHM, you agree to uphold these principles.
 
@@ -13,20 +13,25 @@ We aim to co-create regenerative, participatory, and transparent systems that su
 We envision a globally distributed network of autonomous communities, coordinating their efforts through open, composable valuation and governance mechanisms. These systems empower people to contribute freely and to be fairly recognized and rewarded for the value they bring to one another and to society.
 
 ## 4. Our Mission
-To realize this purpose, we are developing WisdOHM—an open-source tool for decentralized valuation—and contributing to the broader Metavaluation framework in collaboration with aligned communities around the world.
+To realize this purpose, we are developing WisdOHM —- an open-source tool for decentralized valuation —- and contributing to the broader Metavaluation framework in collaboration with aligned communities around the world.
 
 These tools empower communities to record and assess diverse contributions, helping to recognize what matters, reward what supports the collective good, and build more transparent and inclusive systems of coordination.
 
 ## 5. Our Values
-We are guided by principles drawn from the Open Science and Burning Man movements, such as:
-- Transparency and reproducibility
-- Radical inclusion and accessibility
-- Collaboration, gifting, and decommodification
-- Self-expression, civic responsibility, and care for the world
+OHM is inspired by the Open Science, Burning Man and Permaculture movements. In May 2025, we ran a collective "value mapping" experiment to identify the most important values to our community with respect to achieving the OHM mission. The top 10 values selected by the cOHMunity were:
 
-These values guide us in creating spaces that are experimental, participatory, and grounded in care for one another and the planet.
+1. Integrity
+2. Consent
+3. Regeneration
+4. Care
+5. Respect
+6. Transparency
+7. Decentralization
+8. Community
+9. Creativity
+10. Gifting
 
-For more detail, see our [Values Wiki](https://github.com/openheartmind/cOHMunity/wiki/Values-and-Principles).
+You can read more about our value mapping methodology and process in our [Values wiki](https://github.com/openheartmind/cOHMunity/wiki/Values). We welcome ongoing dialogue about how our values guide our practices, and will continue to iterate on this list as our system and project evolves to serve our collective purpose, vision, and mission.
 
 ## 6. Participating in OHM
 We welcome contributions of all kinds that advance the OHM mission—technical, creative, emotional, logistical, or relational. These may include:
