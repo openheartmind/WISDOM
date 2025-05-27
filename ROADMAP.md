@@ -7,7 +7,7 @@ A series of monthly meetings exploring new themes and use cases for the WisdOHM 
 | ID  | Date | Earth   | Heart (Topic, Practice) | Mind (Topic, Presentation)   | Prototype (throughout month)               | Outputs | Other |
 | --- | ---  | ---     | ---         | ---          | ------------------------------------------------------                                      | --- | ------------------------------------------------------ |
 | 1 | 28/04  | Seed    | Values, Community/Project intros     | Values, “A Coming OHM Story”              | Prioritising core values               | Value Map, Governance documents | 
-| 2 | 27/05  | Root    | "Rising Hearts" (Angie)   |  "Participatory Democracy" (J. Sri)    | Electing representatives (cOHMittee)   | Charity board, Role descriptions  | AIMOS draft | 
+| 2 | 27/05  | Root    | Authenticity?    |  "Participatory Democracy" (J. Sri)    | Electing representatives (cOHMittee)   | Charity board, Role descriptions  | AIMOS draft | 
 | 3 | 25/06  | Shoot   | Self-compassion? | Do-ocracy (+AGM), "Celebrating OHM Core" (Coops) | Recognising core contributors | **WisdOHM MVP release & alpha testing** | 
 | 4 | 25/07  | Trunk   | Resilience?      | Leadership, Role offering spotlights (e.g., comms)    | Electing people into lead roles       | Project rankings & invites | COC Beijing? | 
 | 5 | 23/08  | Branch  | Intuition?       | Grantmaking, Project offering spotlights (e.g., theme camps)   | Selecting & funding projects  | Offering valuations & invites  | High-valley Dawn visit? | 
