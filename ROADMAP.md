@@ -4,20 +4,20 @@
 ## 🌒 OHM Council Series 2025-26
 A series of monthly meetings exploring new themes and use cases for the WisdOHM System each new moon cycle — using OHM Gathering (OHMG) as a live case study. These monthly OHM Councils are open to everyone, and are supported by focused weekly meetings throughout the month.
 
-| ID  | Date | Earth   | Heart (Topic, Practice) | Mind (Topic, Presentation)   | Prototype (throughout month)               | Outputs | Other |
+| ID  | Date | Name    | Topic, Presentation   | Prototype (throughout month)               | Outputs | Other |
 | --- | ---  | ---     | ---         | ---          | ------------------------------------------------------                                      | --- | ------------------------------------------------------ |
-| 1 | 28/04  | Seed    | Values, Community/Project intros     | Values, “A Coming OHM Story”              | Prioritising core values               | Value Map, Governance documents | 
-| 2 | 27/05  | Root    | Authenticity?    |  "Participatory Democracy" (J. Sri)    | Electing representatives (cOHMittee)   | Charity board, Role descriptions  | AIMOS draft | 
-| 3 | 25/06  | Shoot   | Self-compassion? | Do-ocracy (+AGM), "Celebrating OHM Core" (Coops) | Recognising core contributors | **WisdOHM MVP release & alpha testing** | 
-| 4 | 25/07  | Trunk   | Resilience?      | Leadership, Role offering spotlights (e.g., comms)    | Electing people into lead roles       | Project rankings & invites | COC Beijing? | 
-| 5 | 23/08  | Branch  | Intuition?       | Grantmaking, Project offering spotlights (e.g., theme camps)   | Selecting & funding projects  | Offering valuations & invites  | High-valley Dawn visit? | 
-| 6 | 22/09  | Leaf    | Creativity       | Gifting, Creative offering spotlights (e.g., art, workshops)     | Selecting & inviting participants  | cOHMunity offerings | Offering valuations & invites  | Int. Data Week Brisbane | 
-| 7 | 21/10  | Bloom   | Meaningful work/Abundance?   | Service/Patronage? Offering spotlights (e.g., service, donations) | Selecting & inviting participants | Offering valuations & invites | 
-| 8 | 20/11  | Fruit   | Play, Laughter, Song & Dance | Coordination, **"OHM Gathering: 5-7 Dec"**             | Recording contributions              | **OHM Gathering: 5-7 Dec**  | 
-| 9 | 20/12  | Drop    | Gratitude                | Recognition, Testamonials?                              | Valuing contributions              | Contribution valuations |
-| 10 | 19/01 | Ring?   | Compassion?              | Reward, Smart Contracts?                                  | Valuing contributions              | Participant payments, reputation scores |
-| 11 | 17/02 | Canopy  | Intuition & Faith        | Respect, DAO Governance? Metascience?                   | Assigning reputation scores        | OHM Manifesto v1, Re-gathering? |
-| 12 | 19/03  | Compost | Rest, Calm & Stillness?  | Replication   | "Go On, Go OHM"                          | ~ | ~ | OG1 video? |
+| 1 | 28/04  | Seed    | Values, Introductions & “A Coming OHM Story”              | Prioritising core values               | Value Map, Governance documents | 
+| 2 | 28/05  | Root    | Participatory Democracy / (J. Sri)    | Electing representatives (cOHMittee)   | Charity board, Role descriptions  | AIMOS draft | 
+| 3 | 25/06  | Shoot   | Do-ocracy (+AGM), "Celebrating past contributors" (Coops) | Recognising core contributors | **WisdOHM MVP release & alpha testing** | 
+| 4 | 25/07  | Trunk   | Leadership, Role offering spotlights (e.g., comms)    | Electing people into lead roles       | Project rankings & invites | COC Beijing? | 
+| 5 | 23/08  | Branch  | Grantmaking, Project offering spotlights (e.g., theme camps)   | Selecting & funding projects  | Offering valuations & invites  | High-valley Dawn visit? | 
+| 6 | 22/09  | Leaf    | Gifting, Creative offering spotlights (e.g., art, workshops)     | Selecting & inviting participants  | cOHMunity offerings | Offering valuations & invites  | Int. Data Week Brisbane | 
+| 7 | 21/10  | Bloom   | Service/Patronage? Offering spotlights (e.g., service, donations) | Selecting & inviting participants | Offering valuations & invites | 
+| 8 | 20/11  | Fruit   | Coordination, **"OHM Gathering: 5-7 Dec"**             | Recording contributions              | **OHM Gathering: 5-7 Dec**  | 
+| 9 | 20/12  | Drop    | Recognition, Testamonials?                              | Valuing contributions              | Contribution valuations |
+| 10 | 19/01 | Ring?   | Reward, Smart Contracts?                                  | Valuing contributions              | Participant payments, reputation scores |
+| 11 | 17/02 | Canopy  | Respect, DAO Governance? Metascience?                   | Assigning reputation scores        | OHM Manifesto v1, Re-gathering? |
+| 12 | 19/03 | Compost | Replication   | "Go On, Go OHM"                          | ~ | ~ | OG1 video? |
 
 * To add these moon cycles to your calendar, subscribe to [this URL](https://mooncal.ch/mooncal.ics?created=41234647928&lang=en&phases[full]=true&phases[new]=true&phases[quarter]=false&phases[daily]=false&style=withDescription&events[lunareclipse]=true&events[solareclipse]=true&events[moonlanding]=false&before=P6M&after=P2Y&zone=Australia/Brisbane)
 
