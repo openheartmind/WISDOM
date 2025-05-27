@@ -5,7 +5,7 @@
 A series of monthly meetings exploring new themes and use cases for the WisdOHM System each new moon cycle — using OHM Gathering (OHMG) as a live case study. These monthly OHM Councils are open to everyone, and are supported by focused weekly meetings throughout the month.
 
 | ID  | Date | Name    | Topic, Presentation   | Prototype (throughout month)               | Outputs | Other |
-| --- | ---  | ---     | ---         | ---          | ------------------------------------------------------                                      | --- | ------------------------------------------------------ |
+| --- | ---  | ---     | ---          | ------------------------------------------------------                                      | --- | ------------------------------------------------------ |
 | 1 | 28/04  | Seed    | Values, Introductions & “A Coming OHM Story”              | Prioritising core values               | Value Map, Governance documents | 
 | 2 | 28/05  | Root    | Participatory Democracy / (J. Sri)    | Electing representatives (cOHMittee)   | Charity board, Role descriptions  | AIMOS draft | 
 | 3 | 25/06  | Shoot   | Do-ocracy (+AGM), "Celebrating past contributors" (Coops) | Recognising core contributors | **WisdOHM MVP release & alpha testing** | 
