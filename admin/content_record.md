@@ -72,29 +72,42 @@ This offering represents the “Mind” side of Open Heart + Mind—our voluntee
 
 ## Grounded Gathering
 
+#### Full Name
+Cooper Smout
+
+#### Phone
+046 861 1645
+
+#### Email
+cooper.smout@gmail.com
+
+#### Presenter/Performer Name
+Cooper Smout
+
+#### Website/Social
+https://openheartmind.org/
+
 #### Bio
-Cooper Smout is a systems thinker, storyteller, and community builder exploring how we come together, share value, and shape the future. With a background in architecture, neuroscience, and open science activism, he founded Open Heart + Mind—a volunteer collective weaving tools, gatherings, and radical models to support reciprocity, recognition, and decentralised care. His work lives at the edges of festivals, research spaces, and grassroots communities, where he invites people to slow down, reflect on what matters, and co-create more harmonious, integrated systems of belonging.
+Cooper Smout is a systems thinker, storyteller, and community builder exploring how we come together, share value, and shape the future. With a background in architecture, neuroscience, and open science activism, he founded Open Heart + Mind—a volunteer collective weaving tools, gatherings, and radical models to support reciprocity, recognition, and decentralised care. His work lives at the edges of festivals, research spaces, and decentralised communities, where he invites people to slow down, reflect on what matters, and co-create more harmonious, integrated systems of belonging.
 
 #### Why do you want to be at GG2025?
-The Grounded PDC was a turning point for me—opening my eyes to the world of permaculture and reshaping how I think about systems, community, and culture. It’s been a few hot years since then, but we now have a refined model, a growing international network, and are in the final stages of building a free, open-source app designed to empower communities like Grounded.  I’m excited to reconnect after a long season of building, see what the community think about our offering, and begin forging partnerships toward a future rooted in relationship, regeneration, and care.  And of course—I’m ready for a good old-fashioned Grounded boogie.
+The Grounded PDC had a big influence on me, opening my eyes to the world of permaculture and reshaping how I think about systems, community, and culture. It’s been a few years since then, and I'm excited to share where our work at OHM has taken us and make our free, open source system available to the Grounded Community, Peaceful Growing Collective, and any other projects or communities present. Also looking forward to a good old-fashioned, home-grown Grounded boogie.
 
 #### What's your offer
 Valuing What Matters: A Participatory Workshop to Celebrate Diverse Contributions.
 
 Every community runs on a quiet web of care—meals cooked, spaces created, gardens tended, children held. This workshop invites the Grounded community to pause and honour that web by recognising the contributions that made this gathering possible.
 
-We’ll introduce the participatory valuation framework we’re developing at OHM, with a brief look at its origins, how it works, and insights from prototyping across diverse communities around the world. Then, we’ll offer a hands-on tour of our free, open-source app, using a custom instance created just for Grounded.
+We’ll introduce the participatory valuation framework we’re developing at OHM, with a brief look at its origins, how it works, and insights from prototyping across diverse communities around the world. Then, we’ll offer a hands-on tour of our free, open-source app, using a custom instance created just for the Grounded Gathering.
 
-Together, we’ll play a light-hearted “game” where participants earn points for both their contributions and their reviews—showing how fair recognition can be playful and engaging for individuals while serving a deeper collective mission.
+Together, we’ll play a light-hearted 'game' where participants earn points for both their contributions and their reviews —- showing how the process can be both playful and engaging, while serving the deeper collective mission.
 
-The data we generate will form a transparent value map of Grounded’s energetic inputs—offering feedback on what the community values most, recognising key contributors, and planting seeds for a decentralised system that could grow in service of Grounded’s mission.
+The data we generate will form a transparent value map of Grounded’s energetic inputs, offering feedback on what the community finds important, recognising key contributors, and planting seeds for a decentralised system that could grow in service of Grounded’s mission.
 
-(Note: I’d be happy to run this workshop multiple times throughout the weekend to gather more feedback and participation. I’m also open to joining earlier during the Permaculture School or Bush Retreat to explore mapping those activities or diving deeper into the system.)
+(Note: I’d be happy to run this workshop multiple times to gather more feedback for Grounded, or create instances for other projects and communities. Would also be happy to arrive early and run with the Permaculture School or Bush Retreat, if you're interested in mapping those activities too or diving deeper into the system.)
 
 #### Requested exchange
-One weekend action party pass for myself (Nb: we’ll also submit a proposal/request for a second ticket for my collaborator Angie to bring her large-scale art installation/s, so she can support my workshop and vice versa)
-
-
+One weekend action party pass for myself (though if we're running multiple sessions might be good to bring a second person along, to help with hosting and teaching people to use the app)
 
 
 ## International Data Week
